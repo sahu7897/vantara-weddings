@@ -1,0 +1,3470 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+ "status_title": "10 Best Wedding Venues in Bangalore with Price",
+ "meta_description": "Best Wedding Venues in Bangalore - Find the best venues, banquets, resorts, lawns, and hotels. Check prices, reviews, and more.",
+ "canonical": "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+ "h1": [
+  "Wedding Venues in Bengaluru"
+ ],
+ "h2": [
+  "Amita Rasa",
+  "The Tamarind Tree",
+  "Temple Tree Leisure",
+  "The Woodrose",
+  "Panchavati Retreat",
+  "Moments Bangalore",
+  "Safina Banquets",
+  "Aura By Area83 - Luxury weddings &amp; Events Venue",
+  "Bella Ciao Resort",
+  "GK Hill View Resort",
+  "Valley Vibes Resort",
+  "Bonfire Banni Mantapa",
+  "APR Mango Retreat",
+  "House of Retreats by Jade",
+  "Savannah Sarovar Premiere",
+  "Radha Hometel - A Sarovar Hotel",
+  "Innistique by Inventrees",
+  "Vegas Banquet Hall and Convention Center",
+  "MRF Greens Pavilion",
+  "Sri Lakshminarayan Bhavan",
+  "Tulip Inn",
+  "Sam Thotada Mane",
+  "Leevi Banquet",
+  "The Loire Party Hall",
+  "Best Types Of Wedding Venues In Bengaluru For Your Wedding",
+  "Wedding Venues In Bengaluru With Price",
+  "Top 10 Wedding Venues in Bengaluru With Price &amp; Capacity",
+  "Best Wedding Venues Near Kempegowda International Airport",
+  "Destination Wedding Locations Near Bengaluru",
+  "How to Find the Best Wedding Venues in Bengaluru",
+  "What to Consider Before Booking a Wedding Venue in Bengaluru",
+  "How does The Wedding Company help couples find wedding venues in Bengaluru?",
+  "FAQs"
+ ],
+ "h3": [
+  "Wedding venues under INR 1000 per plate",
+  "Wedding venues with cost between INR 1000 &amp; INR 3000 per plate",
+  "Which are the budget wedding venues in Bengaluru under ₹5 lakhs?",
+  "What are the best wedding venues in Bengaluru under ₹10 lakhs?",
+  "Wedding Venues in Bengaluru Between ₹10-20 Lakhs",
+  "Luxury Venues ₹20 Lakhs+ (₹3000+ per plate)",
+  "What is the average cost of wedding venues in Bengaluru?",
+  "How far in advance should I book a wedding venue in Bengaluru?",
+  "What is the best time of year to get married in Bengaluru?",
+  "Which are the most popular wedding venues in Bengaluru?",
+  "What is typically included in a destination wedding venue package in Bengaluru?",
+  "Do Bengaluru venues allow overnight weddings?",
+  "Which localities near me in Bengaluru have the best wedding venues?",
+  "How to find wedding venues in Bengaluru near me?"
+ ],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "searchBar-wrapper",
+  "searchBar",
+  "search-icon",
+  "close-icon",
+  "venue-listing-card-carousel",
+  "about-details",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 0,
+ "inputs": 1,
+ "buttons": 4,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/c8c1bcda263ddb1a.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-venues/%5BvenueCityOrFilter%5D-4fbcf80cbe81af50.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "initialVendorList": {
+     "size": 1578,
+     "nextPageUrl": "https://weddingapi.betterhalf.ai/v1/venue/vendors/?citySlug=bengaluru&limit=24&page=2",
+     "results": [
+      {
+       "vendorId": "bfeeb8aa-0d7d-4096-a076-6ab5be4ac3d6",
+       "urlSlug": "amitarasa-nandi-hills",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/bfeeb8aa-0d7d-4096-a076-6ab5be4ac3d6/admin_uploads/4f714e59-8751-4af0-ad50-726d873887ed.webp",
+         "mimeType": "image/webp",
+         "mediaId": "4f714e59-8751-4af0-ad50-726d873887ed",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/bfeeb8aa-0d7d-4096-a076-6ab5be4ac3d6/admin_uploads/a5d00707-8d32-4ef8-8365-cc68ffe85edb.webp",
+         "mimeType": "image/webp",
+         "mediaId": "a5d00707-8d32-4ef8-8365-cc68ffe85edb",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/bfeeb8aa-0d7d-4096-a076-6ab5be4ac3d6/admin_uploads/c9ff4816-52ee-4ce1-a980-7d28d832106f.webp",
+         "mimeType": "image/webp",
+         "mediaId": "c9ff4816-52ee-4ce1-a980-7d28d832106f",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/bfeeb8aa-0d7d-4096-a076-6ab5be4ac3d6/admin_uploads/33715908-db43-4c5e-91b6-96c07aa5bbda.webp",
+         "mimeType": "image/webp",
+         "mediaId": "33715908-db43-4c5e-91b6-96c07aa5bbda",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Amita Rasa",
+       "formattedAddress": "Foot Hills, Hobli, next to Kanive Nandeeshwara Temple, Sulthanpet, Karnataka, 562103, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Nandi Hills, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "perDayCost": {
+         "maxValue": 1700000,
+         "minValue": 1600000
+        },
+        "parkingCount": 500,
+        "roomCount": {
+         "maxValue": 7,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 300,
+         "maxValue": 800
+        }
+       },
+       "specialTags": [
+        "Premium",
+        "Bestseller",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.6788156,
+        13.3819429
+       ]
+      },
+      {
+       "vendorId": "544ee174-a406-4e57-80fa-18d6b27cb91a",
+       "urlSlug": "the-tamarind-tree-jp-nagar-RT8",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/e66ddcd2-b7c1-4a46-bae4-2163e97a319d.webp",
+         "mimeType": "image/webp",
+         "mediaId": "e66ddcd2-b7c1-4a46-bae4-2163e97a319d",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/f80db012-4799-4ee5-b7bd-7f4321cbe6fb.webp",
+         "mimeType": "image/webp",
+         "mediaId": "f80db012-4799-4ee5-b7bd-7f4321cbe6fb",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/f80db012-4799-4ee5-b7bd-7f4321cbe6fb_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/642bd94b-bdb3-4037-a104-0787ffebed4f.webp",
+         "mimeType": "image/webp",
+         "mediaId": "642bd94b-bdb3-4037-a104-0787ffebed4f",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/642bd94b-bdb3-4037-a104-0787ffebed4f_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/4935e97d-6916-4cc0-8e02-6696e5acefee.webp",
+         "mimeType": "image/webp",
+         "mediaId": "4935e97d-6916-4cc0-8e02-6696e5acefee",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/4935e97d-6916-4cc0-8e02-6696e5acefee_compressed.webp"
+        }
+       ],
+       "venueName": "The Tamarind Tree",
+       "formattedAddress": "88, Avalahalli Kanakapura Rd, Royal Park Residency Layout, JP Nagar 9th Phase, J. P. Nagar, 560108, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Jp Nagar, Bengaluru",
+       "userRating": 4.4,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1900,
+         "minValue": 550
+        },
+        "perDayCost": {
+         "maxValue": 1800000,
+         "minValue": 1700000
+        },
+        "parkingCount": 200,
+        "roomCount": {
+         "maxValue": 28,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 10,
+         "maxValue": 600
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [
+        "Premium",
+        "Bestseller",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 4285,
+       "coordinates": [
+        77.5632456,
+        12.8642576
+       ]
+      },
+      {
+       "vendorId": "6518bfc5-a924-4bf1-8e97-55d864739c81",
+       "urlSlug": "temple-tree-leisure-electronic-city",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6518bfc5-a924-4bf1-8e97-55d864739c81/admin_uploads/6953a19c-eeea-4a30-8be0-829b51b70326.webp",
+         "mimeType": "image/webp",
+         "mediaId": "6953a19c-eeea-4a30-8be0-829b51b70326",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6518bfc5-a924-4bf1-8e97-55d864739c81/admin_uploads/67036bac-ba4b-4a2e-b627-d3a39ae19d17.webp",
+         "mimeType": "image/webp",
+         "mediaId": "67036bac-ba4b-4a2e-b627-d3a39ae19d17",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6518bfc5-a924-4bf1-8e97-55d864739c81/admin_uploads/d4c6e5d9-32e5-4540-aa1e-404718267152.webp",
+         "mimeType": "image/webp",
+         "mediaId": "d4c6e5d9-32e5-4540-aa1e-404718267152",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6518bfc5-a924-4bf1-8e97-55d864739c81/admin_uploads/2ec12b04-fc78-4055-a03c-e83a81ea1573.webp",
+         "mimeType": "image/webp",
+         "mediaId": "2ec12b04-fc78-4055-a03c-e83a81ea1573",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Temple Tree Leisure",
+       "formattedAddress": "62/5 Silver Teak village, Bettadasanapura Main Road, Electronic City, 560114, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Electronic City, Bengaluru",
+       "userRating": 4.4,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 850,
+         "minValue": 750
+        },
+        "perDayCost": {
+         "maxValue": 500000,
+         "minValue": 300000
+        },
+        "parkingCount": 150,
+        "roomCount": {
+         "maxValue": 27,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 300,
+         "maxValue": 1000
+        }
+       },
+       "sort_by_status": 0,
+       "specialTags": [
+        "Bestseller",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": "Upto ₹30,000 savings",
+       "userRatingCount": 2383,
+       "coordinates": [
+        77.6362252,
+        12.8403821
+       ]
+      },
+      {
+       "vendorId": "c1bca43b-8d68-4f9b-a44d-ad0ea3634d6b",
+       "urlSlug": "the-woodrose-jp-nagar-4X7",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c1bca43b-8d68-4f9b-a44d-ad0ea3634d6b/admin_uploads/cfe06156-ec82-41aa-b157-396cff69a182.webp",
+         "mimeType": "image/webp",
+         "mediaId": "cfe06156-ec82-41aa-b157-396cff69a182",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c1bca43b-8d68-4f9b-a44d-ad0ea3634d6b/admin_uploads/5718525f-10a9-4265-b213-7bf5878e2a47.webp",
+         "mimeType": "image/webp",
+         "mediaId": "5718525f-10a9-4265-b213-7bf5878e2a47",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c1bca43b-8d68-4f9b-a44d-ad0ea3634d6b/admin_uploads/7795793e-312c-4185-99bf-dffc9714bf18.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "7795793e-312c-4185-99bf-dffc9714bf18",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c1bca43b-8d68-4f9b-a44d-ad0ea3634d6b/admin_uploads/0897816c-ceca-4a13-9dde-dc8d5faba18a.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "0897816c-ceca-4a13-9dde-dc8d5faba18a",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "The Woodrose",
+       "formattedAddress": "May Flower Block, Brigade Millenium Road, Ramaiah Garden, JP Nagar 7th Phase, 560078, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "JP Nagar, Bengaluru",
+       "userRating": 4.3,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1400,
+         "minValue": 1200
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 60,
+        "roomCount": {
+         "maxValue": 30,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 40,
+         "maxValue": 400
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [
+        "Premium",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 4744,
+       "coordinates": [
+        77.5830369,
+        12.8922904
+       ]
+      },
+      {
+       "vendorId": "2051c941-a089-4d0a-8067-a283a08b361e",
+       "urlSlug": "panchavati-retreat-resort-nettigere",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2051c941-a089-4d0a-8067-a283a08b361e/admin_uploads/cd1c5dda-b6cc-4610-a19b-2ba4ec955c5c.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "cd1c5dda-b6cc-4610-a19b-2ba4ec955c5c",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2051c941-a089-4d0a-8067-a283a08b361e/admin_uploads/4e401765-9ad7-4931-b1ee-8373c13632c1.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "4e401765-9ad7-4931-b1ee-8373c13632c1",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2051c941-a089-4d0a-8067-a283a08b361e/admin_uploads/bd3d6288-716b-48c3-88ba-2cd6f6be5478.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "bd3d6288-716b-48c3-88ba-2cd6f6be5478",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2051c941-a089-4d0a-8067-a283a08b361e/admin_uploads/3ead05c4-55f0-4c1b-b298-9ae7697683c1.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "3ead05c4-55f0-4c1b-b298-9ae7697683c1",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Panchavati Retreat",
+       "formattedAddress": "Panchavati Pavilion, 41, Kanakapura Road, Bangalore, Kaggalipura, Pattareddypalya, Nettigere, 560082, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Nettigere, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 800,
+         "minValue": 700
+        },
+        "perDayCost": {
+         "maxValue": null,
+         "minValue": null
+        },
+        "parkingCount": 80,
+        "roomCount": {
+         "maxValue": 24,
+         "minValue": 2
+        },
+        "areasAvailable": {
+         "minValue": 800,
+         "maxValue": 1500
+        }
+       },
+       "specialTags": [
+        "Premium"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.4858125,
+        12.7595625
+       ]
+      },
+      {
+       "vendorId": "e7976902-108f-4e44-89d4-ee51fa69524b",
+       "urlSlug": "moments-bangalore-nelaguli",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e7976902-108f-4e44-89d4-ee51fa69524b/admin_uploads/c0f6ebfc-65cd-4ebc-b462-18246f0aee2c.webp",
+         "mimeType": "image/webp",
+         "mediaId": "c0f6ebfc-65cd-4ebc-b462-18246f0aee2c",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/e7976902-108f-4e44-89d4-ee51fa69524b/admin_uploads/c0f6ebfc-65cd-4ebc-b462-18246f0aee2c_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e7976902-108f-4e44-89d4-ee51fa69524b/admin_uploads/8dd373ae-aa83-44ba-b8a7-ac379d833b61.webp",
+         "mimeType": "image/webp",
+         "mediaId": "8dd373ae-aa83-44ba-b8a7-ac379d833b61",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e7976902-108f-4e44-89d4-ee51fa69524b/admin_uploads/8aae4300-2f1c-43ad-b397-36873bade9c2.webp",
+         "mimeType": "image/webp",
+         "mediaId": "8aae4300-2f1c-43ad-b397-36873bade9c2",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e7976902-108f-4e44-89d4-ee51fa69524b/admin_uploads/13eed1fe-0341-443f-9d02-312e9f17b3b2.webp",
+         "mimeType": "image/webp",
+         "mediaId": "13eed1fe-0341-443f-9d02-312e9f17b3b2",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Moments Bangalore",
+       "formattedAddress": "Nelaguli, K.G.Nelaguli, Karnataka, 560116, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Nelaguli, Bengaluru",
+       "userRating": 4.6,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 750,
+         "minValue": 600
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 100,
+        "roomCount": {
+         "maxValue": 3,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 100,
+         "maxValue": 450
+        }
+       },
+       "sort_by_status": 0,
+       "specialTags": [
+        "Bestseller",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 105,
+       "coordinates": [
+        77.4907873,
+        12.7742785
+       ]
+      },
+      {
+       "vendorId": "6a92a382-6af1-4e3a-af68-650642f508dd",
+       "urlSlug": "safina-banquets-shivaji-nagar",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6a92a382-6af1-4e3a-af68-650642f508dd/gmap/dc5b46d3-9beb-403b-a6a0-d8db0b93ea45.JPG",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "38cde78a-217d-4cf1-9b5e-d71d50f45dae",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6a92a382-6af1-4e3a-af68-650642f508dd/gmap/ec32ff57-700d-402b-a752-a2dab742c71a.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "58b3e399-871b-4513-828f-a5d4b01d631f",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6a92a382-6af1-4e3a-af68-650642f508dd/gmap/0a5f2aac-e6fe-47db-808b-a4389bcf2e97.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "8b6e84d9-a3d2-42b6-b2e5-579553996b84",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6a92a382-6af1-4e3a-af68-650642f508dd/admin_uploads/ba2bd8ee-dccf-4d33-b4ee-6181f72c272d.webp",
+         "mimeType": "image/webp",
+         "mediaId": "ba2bd8ee-dccf-4d33-b4ee-6181f72c272d",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Safina Banquets",
+       "formattedAddress": "84/85, Infantry Rd, Tasker Town, Shivaji Nagar, 560001, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Shivaji Nagar, Bengaluru",
+       "userRating": 4.2,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": null,
+         "minValue": null
+        },
+        "perDayCost": {
+         "maxValue": 250000,
+         "minValue": 150000
+        },
+        "parkingCount": 15,
+        "roomCount": {
+         "maxValue": 2,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 150,
+         "maxValue": 350
+        }
+       },
+       "sort_by_status": 0,
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": "Upto 50% savings",
+       "userRatingCount": 208,
+       "coordinates": [
+        77.6070283,
+        12.9794801
+       ]
+      },
+      {
+       "vendorId": "f8b4a9ef-a69e-41aa-9156-2d9de66b047e",
+       "urlSlug": "aura-area-83-bannerghatta-road",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/f8b4a9ef-a69e-41aa-9156-2d9de66b047e/admin_uploads/9e573632-3844-45e5-a017-dfa8b03de468.webp",
+         "mimeType": "image/webp",
+         "mediaId": "9e573632-3844-45e5-a017-dfa8b03de468",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/f8b4a9ef-a69e-41aa-9156-2d9de66b047e/admin_uploads/9e573632-3844-45e5-a017-dfa8b03de468_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/f8b4a9ef-a69e-41aa-9156-2d9de66b047e/admin_uploads/6f00509c-48f3-4613-a806-305a743cab62.webp",
+         "mimeType": "image/webp",
+         "mediaId": "6f00509c-48f3-4613-a806-305a743cab62",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/f8b4a9ef-a69e-41aa-9156-2d9de66b047e/admin_uploads/d43fbbbe-2af2-4207-a04b-5a2d6c4cb27f.webp",
+         "mimeType": "image/webp",
+         "mediaId": "d43fbbbe-2af2-4207-a04b-5a2d6c4cb27f",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/f8b4a9ef-a69e-41aa-9156-2d9de66b047e/admin_uploads/d43fbbbe-2af2-4207-a04b-5a2d6c4cb27f_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/f8b4a9ef-a69e-41aa-9156-2d9de66b047e/admin_uploads/910a152c-528a-4b2f-94e3-594da21f730d.webp",
+         "mimeType": "image/webp",
+         "mediaId": "910a152c-528a-4b2f-94e3-594da21f730d",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Aura By Area83 - Luxury weddings & Events Venue",
+       "formattedAddress": "313, Bannerghatta Rd, Shanbhoganahalli, Bilwaradahalli, Bengaluru, Karnataka, 560083, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Bannerghatta Road, Bengaluru",
+       "userRating": 4.2,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1400,
+         "minValue": 1000
+        },
+        "perDayCost": {
+         "maxValue": 1486000,
+         "minValue": 1386000
+        },
+        "parkingCount": 300,
+        "roomCount": {
+         "maxValue": 91,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 500,
+         "maxValue": 1000
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [
+        "Premium",
+        "Bestseller",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 25181,
+       "coordinates": [
+        77.56385499999999,
+        12.833934
+       ]
+      },
+      {
+       "vendorId": "217b2746-45f7-447a-b80e-f9f3b15dd65d",
+       "urlSlug": "bella-ciao-resort-jalahalli-east",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/217b2746-45f7-447a-b80e-f9f3b15dd65d/admin_uploads/11af047e-34b7-4368-8d2b-45ea11c8c7c4.webp",
+         "mimeType": "image/webp",
+         "mediaId": "11af047e-34b7-4368-8d2b-45ea11c8c7c4",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/217b2746-45f7-447a-b80e-f9f3b15dd65d/admin_uploads/87aea273-f7d1-47b8-aec4-d6bc44c802b2.webp",
+         "mimeType": "image/webp",
+         "mediaId": "87aea273-f7d1-47b8-aec4-d6bc44c802b2",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/217b2746-45f7-447a-b80e-f9f3b15dd65d/admin_uploads/89b9f551-7b1d-40de-912b-6318b2811b82.webp",
+         "mimeType": "image/webp",
+         "mediaId": "89b9f551-7b1d-40de-912b-6318b2811b82",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/217b2746-45f7-447a-b80e-f9f3b15dd65d/admin_uploads/8c633366-4e0e-4377-8398-70b86ad758a5.webp",
+         "mimeType": "image/webp",
+         "mediaId": "8c633366-4e0e-4377-8398-70b86ad758a5",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Bella Ciao Resort",
+       "formattedAddress": "19, Laxmipura cross, Hessargatta Main Road via M S Palya, Jalahalli East, North, 560090, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Jalahalli East, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1399,
+         "minValue": 899
+        },
+        "perDayCost": {
+         "maxValue": 100000,
+         "minValue": 90000
+        },
+        "parkingCount": 25,
+        "roomCount": {
+         "maxValue": 25,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 500,
+         "maxValue": 2000
+        }
+       },
+       "specialTags": [
+        "Premium"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.53179229999999,
+        13.0960568
+       ]
+      },
+      {
+       "vendorId": "65ade84e-ef78-4ee4-913d-00f9624d6da4",
+       "urlSlug": "gk-hill-view-resort-muthukadahalli",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/65ade84e-ef78-4ee4-913d-00f9624d6da4/admin_uploads/0157ba7f-c30a-489e-9726-7d63f3fb1292.webp",
+         "mimeType": "image/webp",
+         "mediaId": "0157ba7f-c30a-489e-9726-7d63f3fb1292",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/65ade84e-ef78-4ee4-913d-00f9624d6da4/admin_uploads/0f95fdea-5aae-4d29-ad94-02532a489dd5.webp",
+         "mimeType": "image/webp",
+         "mediaId": "0f95fdea-5aae-4d29-ad94-02532a489dd5",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/65ade84e-ef78-4ee4-913d-00f9624d6da4/admin_uploads/d2cda1ac-67f5-43e7-8df5-bf87356dea21.webp",
+         "mimeType": "image/webp",
+         "mediaId": "d2cda1ac-67f5-43e7-8df5-bf87356dea21",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/65ade84e-ef78-4ee4-913d-00f9624d6da4/admin_uploads/2cbd3af3-8cce-4a47-8544-5423dd531ce7.webp",
+         "mimeType": "image/webp",
+         "mediaId": "2cbd3af3-8cce-4a47-8544-5423dd531ce7",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "GK Hill View Resort",
+       "formattedAddress": "No.93, Muthukadahalli village, Hobli Chinthamani Taluk, Kaivara, 563128, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Muthukadahalli, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 900,
+         "minValue": 900
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 122,
+        "roomCount": {
+         "maxValue": 57,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 70,
+         "maxValue": 1000
+        }
+       },
+       "specialTags": [
+        "Premium"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.99545220000002,
+        13.3177906
+       ]
+      },
+      {
+       "vendorId": "2c70dba9-34ae-49b0-93ce-b11920805d5b",
+       "urlSlug": "valley-vibes-resort-ramanagara",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2c70dba9-34ae-49b0-93ce-b11920805d5b/admin_uploads/fdc3981d-d5aa-4a8e-9be2-654fd7712d56.webp",
+         "mimeType": "image/webp",
+         "mediaId": "fdc3981d-d5aa-4a8e-9be2-654fd7712d56",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2c70dba9-34ae-49b0-93ce-b11920805d5b/admin_uploads/76715f12-802c-4d41-a3ec-f33bfb6591c3.webp",
+         "mimeType": "image/webp",
+         "mediaId": "76715f12-802c-4d41-a3ec-f33bfb6591c3",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2c70dba9-34ae-49b0-93ce-b11920805d5b/admin_uploads/4e63dff2-a4ce-4d61-b0e5-3b2831b3380c.webp",
+         "mimeType": "image/webp",
+         "mediaId": "4e63dff2-a4ce-4d61-b0e5-3b2831b3380c",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2c70dba9-34ae-49b0-93ce-b11920805d5b/admin_uploads/85e1f19f-afb9-40fd-b6ea-988564d3f147.webp",
+         "mimeType": "image/webp",
+         "mediaId": "85e1f19f-afb9-40fd-b6ea-988564d3f147",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Valley Vibes Resort",
+       "formattedAddress": "Averalli near SRS betta, Gaṇa sangha, Ramanagara, 562159, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Ramanagara, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 500,
+         "minValue": 475
+        },
+        "perDayCost": {
+         "maxValue": null,
+         "minValue": null
+        },
+        "parkingCount": 100,
+        "roomCount": {
+         "maxValue": 27,
+         "minValue": 20
+        },
+        "areasAvailable": {
+         "minValue": 600,
+         "maxValue": 900
+        }
+       },
+       "specialTags": [
+        "Premium"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.3258232,
+        12.6487562
+       ]
+      },
+      {
+       "vendorId": "a6670e55-5e46-485c-aa4e-c4e1a610ced8",
+       "urlSlug": "bonfire-banni-mantapa-kanakapura-road",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a6670e55-5e46-485c-aa4e-c4e1a610ced8/admin_uploads/66ee9130-88ec-4195-a70c-a5ffe1d0f344.webp",
+         "mimeType": "image/webp",
+         "mediaId": "66ee9130-88ec-4195-a70c-a5ffe1d0f344",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a6670e55-5e46-485c-aa4e-c4e1a610ced8/admin_uploads/8ae974e1-3d99-4eec-af39-6d3969d206fd.webp",
+         "mimeType": "image/webp",
+         "mediaId": "8ae974e1-3d99-4eec-af39-6d3969d206fd",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a6670e55-5e46-485c-aa4e-c4e1a610ced8/admin_uploads/9e35511e-cde0-46b2-b53f-03c3ea854fea.webp",
+         "mimeType": "image/webp",
+         "mediaId": "9e35511e-cde0-46b2-b53f-03c3ea854fea",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a6670e55-5e46-485c-aa4e-c4e1a610ced8/admin_uploads/8d4069cf-c539-42ec-8f98-46f8e17debfe.webp",
+         "mimeType": "image/webp",
+         "mediaId": "8d4069cf-c539-42ec-8f98-46f8e17debfe",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Bonfire Banni Mantapa",
+       "formattedAddress": "123, yogavan hill road, opp govt hospital nettigere, gate, 560116, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Kanakapura Road, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 750,
+         "minValue": 700
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 75,
+        "roomCount": {
+         "maxValue": 15,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 350,
+         "maxValue": 1000
+        }
+       },
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.4877089,
+        12.745628
+       ]
+      },
+      {
+       "vendorId": "1a0e68df-f8dc-4f03-9792-cd885150c223",
+       "urlSlug": "apr-mango-retreat-kanakapura",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1a0e68df-f8dc-4f03-9792-cd885150c223/admin_uploads/07ae0a70-f241-497c-82c4-e501a777777e.webp",
+         "mimeType": "image/webp",
+         "mediaId": "07ae0a70-f241-497c-82c4-e501a777777e",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1a0e68df-f8dc-4f03-9792-cd885150c223/admin_uploads/6b3d583c-f5b7-4276-be7d-8c7c464b8aed.webp",
+         "mimeType": "image/webp",
+         "mediaId": "6b3d583c-f5b7-4276-be7d-8c7c464b8aed",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1a0e68df-f8dc-4f03-9792-cd885150c223/admin_uploads/f84039b6-2940-43ec-b45c-8bf07d5f09c1.webp",
+         "mimeType": "image/webp",
+         "mediaId": "f84039b6-2940-43ec-b45c-8bf07d5f09c1",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1a0e68df-f8dc-4f03-9792-cd885150c223/admin_uploads/b9a6734d-4963-4350-9b3e-d6e0e3b227f5.webp",
+         "mimeType": "image/webp",
+         "mediaId": "b9a6734d-4963-4350-9b3e-d6e0e3b227f5",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "APR Mango Retreat",
+       "formattedAddress": "Hanumanahalli, Kanakapura, 562117, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Kanakapura, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2000,
+         "minValue": 1000
+        },
+        "perDayCost": {
+         "maxValue": null,
+         "minValue": null
+        },
+        "parkingCount": 100,
+        "roomCount": {
+         "maxValue": 60,
+         "minValue": 40
+        },
+        "areasAvailable": {
+         "minValue": 400,
+         "maxValue": 700
+        }
+       },
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.3792795,
+        12.5264687
+       ]
+      },
+      {
+       "vendorId": "d8c46e3f-b0a3-4f14-99c8-725e14285563",
+       "urlSlug": "house-of-retreats-by-jade-jakkur",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/d8c46e3f-b0a3-4f14-99c8-725e14285563/admin_uploads/fdb511c6-9d95-4dee-b36b-af75032266b6.webp",
+         "mimeType": "image/webp",
+         "mediaId": "fdb511c6-9d95-4dee-b36b-af75032266b6",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/d8c46e3f-b0a3-4f14-99c8-725e14285563/admin_uploads/07097fe1-47fe-4cd6-a074-1388d40eba25.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "07097fe1-47fe-4cd6-a074-1388d40eba25",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/d8c46e3f-b0a3-4f14-99c8-725e14285563/admin_uploads/68f84c9f-2886-43b2-8bb1-7c42cc3f1d5c.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "68f84c9f-2886-43b2-8bb1-7c42cc3f1d5c",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/d8c46e3f-b0a3-4f14-99c8-725e14285563/admin_uploads/c6bd6cd8-4c50-4e11-a4ac-d2a4030564dc.webp",
+         "mimeType": "image/webp",
+         "mediaId": "c6bd6cd8-4c50-4e11-a4ac-d2a4030564dc",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "House of Retreats by Jade",
+       "formattedAddress": "11th Main Rd, Royal Enclave, Rachenahalli, 560064, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Jakkur, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1500,
+         "minValue": 1000
+        },
+        "perDayCost": null,
+        "parkingCount": 50,
+        "roomCount": {
+         "maxValue": 20,
+         "minValue": 15
+        },
+        "areasAvailable": {
+         "minValue": 300,
+         "maxValue": 900
+        }
+       },
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.6190438,
+        13.0608803
+       ]
+      },
+      {
+       "vendorId": "7e6518b9-ff0c-45ad-901c-e50ce61c425b",
+       "urlSlug": "savannah-sarovar-premier-whitefield",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7e6518b9-ff0c-45ad-901c-e50ce61c425b/admin_uploads/d7c86fdc-9d90-4aa8-b130-6c52e2600856.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "d7c86fdc-9d90-4aa8-b130-6c52e2600856",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7e6518b9-ff0c-45ad-901c-e50ce61c425b/admin_uploads/fc1cb03e-0304-4991-ae6d-37f8edec602b.webp",
+         "mimeType": "image/webp",
+         "mediaId": "fc1cb03e-0304-4991-ae6d-37f8edec602b",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7e6518b9-ff0c-45ad-901c-e50ce61c425b/admin_uploads/b9ad6ef6-fe53-4598-95e6-42549c414a5f.webp",
+         "mimeType": "image/webp",
+         "mediaId": "b9ad6ef6-fe53-4598-95e6-42549c414a5f",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7e6518b9-ff0c-45ad-901c-e50ce61c425b/admin_uploads/46dc15a3-3ad8-4d64-bc43-8fa93f2df34a.webp",
+         "mimeType": "image/webp",
+         "mediaId": "46dc15a3-3ad8-4d64-bc43-8fa93f2df34a",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Savannah Sarovar Premiere",
+       "formattedAddress": "43/3, Whitefield Main Road, 560067, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Whitefield, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1600,
+         "minValue": 1500
+        },
+        "perDayCost": {
+         "maxValue": null,
+         "minValue": null
+        },
+        "parkingCount": 700,
+        "roomCount": {
+         "maxValue": 102,
+         "minValue": 100
+        },
+        "areasAvailable": {
+         "minValue": 120,
+         "maxValue": 150
+        }
+       },
+       "specialTags": [
+        "Premium"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.752752,
+        12.969529
+       ]
+      },
+      {
+       "vendorId": "6e4ccfa7-9233-41bd-bab2-1f1909323f22",
+       "urlSlug": "radha-hometel-a-sarovar-hotel-brookefield",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6e4ccfa7-9233-41bd-bab2-1f1909323f22/admin_uploads/649850a4-25c4-4954-819c-4a04ff3cb36a.webp",
+         "mimeType": "image/webp",
+         "mediaId": "649850a4-25c4-4954-819c-4a04ff3cb36a",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6e4ccfa7-9233-41bd-bab2-1f1909323f22/admin_uploads/e8a7b344-7660-4621-a119-5f35999713e7.webp",
+         "mimeType": "image/webp",
+         "mediaId": "e8a7b344-7660-4621-a119-5f35999713e7",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6e4ccfa7-9233-41bd-bab2-1f1909323f22/admin_uploads/d8bc932a-aae6-43df-b3f2-53c3588833b8.webp",
+         "mimeType": "image/webp",
+         "mediaId": "d8bc932a-aae6-43df-b3f2-53c3588833b8",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/6e4ccfa7-9233-41bd-bab2-1f1909323f22/admin_uploads/b32fef44-510c-4573-bfc0-f0c29bfdeb16.webp",
+         "mimeType": "image/webp",
+         "mediaId": "b32fef44-510c-4573-bfc0-f0c29bfdeb16",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Radha Hometel - A Sarovar Hotel",
+       "formattedAddress": "Opposite SAP Labs EPIP, Industrial Estate, 136/137, Rd Number 2, Epip Zone, 560066, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Brookefield, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 800,
+         "minValue": 600
+        },
+        "perDayCost": null,
+        "parkingCount": 25,
+        "roomCount": {
+         "maxValue": 102,
+         "minValue": 50
+        },
+        "areasAvailable": {
+         "minValue": 75,
+         "maxValue": 1500
+        }
+       },
+       "specialTags": [
+        "Premium",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.71310489999999,
+        12.9774989
+       ]
+      },
+      {
+       "vendorId": "4e0ffc14-881c-4294-8a22-b54cfd167021",
+       "urlSlug": "innistique-by-inventrees-thanisandra",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4e0ffc14-881c-4294-8a22-b54cfd167021/admin_uploads/ebb5919d-1fca-4223-929e-49eea4ae6782_TEMP.avif",
+         "mimeType": "image/avif",
+         "mediaId": "ebb5919d-1fca-4223-929e-49eea4ae6782_TEMP",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4e0ffc14-881c-4294-8a22-b54cfd167021/admin_uploads/86a64d4d-bee3-4c22-99ce-fbdc059a0423.webp",
+         "mimeType": "image/webp",
+         "mediaId": "86a64d4d-bee3-4c22-99ce-fbdc059a0423",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4e0ffc14-881c-4294-8a22-b54cfd167021/admin_uploads/a18a9892-123e-425f-b79b-481b9856d05b.webp",
+         "mimeType": "image/webp",
+         "mediaId": "a18a9892-123e-425f-b79b-481b9856d05b",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4e0ffc14-881c-4294-8a22-b54cfd167021/admin_uploads/4292e907-8821-4a7c-86fa-a28cf012c59d.webp",
+         "mimeType": "image/webp",
+         "mediaId": "4292e907-8821-4a7c-86fa-a28cf012c59d",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Innistique by Inventrees",
+       "formattedAddress": "Rachenahalli Main Rd, P&T Layout, Thanisandra, 560045, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Thanisandra, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1000,
+         "minValue": 800
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 150,
+        "roomCount": {
+         "maxValue": 50,
+         "minValue": 4
+        },
+        "areasAvailable": {
+         "minValue": 200,
+         "maxValue": 400
+        }
+       },
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.6272846,
+        13.059226
+       ]
+      },
+      {
+       "vendorId": "1c783725-378b-44d3-8617-ad80d68eca53",
+       "urlSlug": "vegas-banquet-hall-and-convention-center-bannerghatta-road",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1c783725-378b-44d3-8617-ad80d68eca53/admin_uploads/d889520a-dba2-4371-824a-be13fa22e73d.webp",
+         "mimeType": "image/webp",
+         "mediaId": "d889520a-dba2-4371-824a-be13fa22e73d",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1c783725-378b-44d3-8617-ad80d68eca53/gmap/236e80ad-b13d-4715-8db4-4dbead2b40ef.jpeg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "9724dcac-f8fd-441f-817e-7da98ec93fe6",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1c783725-378b-44d3-8617-ad80d68eca53/gmap/a9ade799-af59-44ed-852d-c9d8ddfd4aed.jpeg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "e4cf49a6-b06a-4c38-afc2-79a2582063b7",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1c783725-378b-44d3-8617-ad80d68eca53/admin_uploads/51cff2c8-7c0c-491e-afe5-22175e83acc5.webp",
+         "mimeType": "image/webp",
+         "mediaId": "51cff2c8-7c0c-491e-afe5-22175e83acc5",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Vegas Banquet Hall and Convention Center",
+       "formattedAddress": "57/34, Hommadevanahalli, opposite Bayalu Basavanna Temple, Beguru, Bannerghatta Road, bengaluru, 560083, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Bannerghatta Road, Bengaluru",
+       "userRating": 4.8,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 900,
+         "minValue": 400
+        },
+        "perDayCost": {
+         "maxValue": 80000,
+         "minValue": 70000
+        },
+        "parkingCount": 100,
+        "roomCount": {
+         "maxValue": 5,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 800,
+         "maxValue": 1500
+        }
+       },
+       "sort_by_status": 0,
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": "Upto ₹20,000 savings",
+       "userRatingCount": 10,
+       "coordinates": [
+        77.6061395,
+        12.8438434
+       ]
+      },
+      {
+       "vendorId": "4f55db27-803e-4bee-9f70-e24f676d26e9",
+       "urlSlug": "mrf-greens-pavilion-chikkaluar-road",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4f55db27-803e-4bee-9f70-e24f676d26e9/admin_uploads/e75f8de0-a76a-48ed-a57f-9948fccd29f6.webp",
+         "mimeType": "image/webp",
+         "mediaId": "e75f8de0-a76a-48ed-a57f-9948fccd29f6",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4f55db27-803e-4bee-9f70-e24f676d26e9/admin_uploads/356988c4-0e42-4178-b7ac-c5c952aea97c.webp",
+         "mimeType": "image/webp",
+         "mediaId": "356988c4-0e42-4178-b7ac-c5c952aea97c",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4f55db27-803e-4bee-9f70-e24f676d26e9/admin_uploads/55540e5e-7945-43fe-a482-52d6c328f0a9.webp",
+         "mimeType": "image/webp",
+         "mediaId": "55540e5e-7945-43fe-a482-52d6c328f0a9",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4f55db27-803e-4bee-9f70-e24f676d26e9/admin_uploads/f9ad7cfa-e5e6-4a29-a952-39e940f99a22.webp",
+         "mimeType": "image/webp",
+         "mediaId": "f9ad7cfa-e5e6-4a29-a952-39e940f99a22",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "MRF Greens Pavilion",
+       "formattedAddress": "Chikkaluar road, road, Off Big Banyan Tree, 560074, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Chikkaluar Road, Bengaluru",
+       "userRating": 4.4,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": null,
+         "minValue": null
+        },
+        "perDayCost": {
+         "maxValue": 350000,
+         "minValue": 250000
+        },
+        "parkingCount": 200,
+        "roomCount": {
+         "maxValue": 42,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 450,
+         "maxValue": 1000
+        }
+       },
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 167,
+       "coordinates": [
+        77.4301603,
+        12.889402
+       ]
+      },
+      {
+       "vendorId": "9c882b9a-ad1d-4d48-990e-8744efd36840",
+       "urlSlug": "sri-lakshminarayan-bhavan-krishnarajapura",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/9c882b9a-ad1d-4d48-990e-8744efd36840/admin_uploads/d0b829da-79c7-4105-85c8-6deea8be23e3.webp",
+         "mimeType": "image/webp",
+         "mediaId": "d0b829da-79c7-4105-85c8-6deea8be23e3",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/9c882b9a-ad1d-4d48-990e-8744efd36840/admin_uploads/10978902-c5df-4abb-8af6-0bf36df5099a.webp",
+         "mimeType": "image/webp",
+         "mediaId": "10978902-c5df-4abb-8af6-0bf36df5099a",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/9c882b9a-ad1d-4d48-990e-8744efd36840/admin_uploads/23767731-f573-416d-acf2-f22aafb7c368.webp",
+         "mimeType": "image/webp",
+         "mediaId": "23767731-f573-416d-acf2-f22aafb7c368",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/9c882b9a-ad1d-4d48-990e-8744efd36840/admin_uploads/04d958c8-b8d1-4715-9466-2017f3f70113.webp",
+         "mimeType": "image/webp",
+         "mediaId": "04d958c8-b8d1-4715-9466-2017f3f70113",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Sri Lakshminarayan Bhavan",
+       "formattedAddress": "Teja Vihar, Sri Lakshmi venkateshwara layout, 13, Basavanapura Road, 560049, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Krishnarajapura, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 500,
+         "minValue": 200
+        },
+        "perDayCost": {
+         "maxValue": 200000,
+         "minValue": 195000
+        },
+        "parkingCount": 200,
+        "roomCount": {
+         "maxValue": 14,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 600,
+         "maxValue": 900
+        }
+       },
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.70952869999999,
+        13.0177496
+       ]
+      },
+      {
+       "vendorId": "628df3ab-af9c-40f0-901b-9c375419ded6",
+       "urlSlug": "tulip-inn-koramangala",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/628df3ab-af9c-40f0-901b-9c375419ded6/admin_uploads/2302829a-b433-4331-a427-6b5be36f0c45.webp",
+         "mimeType": "image/webp",
+         "mediaId": "2302829a-b433-4331-a427-6b5be36f0c45",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/628df3ab-af9c-40f0-901b-9c375419ded6/admin_uploads/193fd530-9dcc-46cd-a893-3568264c2c76.webp",
+         "mimeType": "image/webp",
+         "mediaId": "193fd530-9dcc-46cd-a893-3568264c2c76",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/628df3ab-af9c-40f0-901b-9c375419ded6/admin_uploads/16a84eb8-fd20-4716-847e-7a3086542976.webp",
+         "mimeType": "image/webp",
+         "mediaId": "16a84eb8-fd20-4716-847e-7a3086542976",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/628df3ab-af9c-40f0-901b-9c375419ded6/admin_uploads/97a7e19d-7a0d-4b65-ad22-264463b37fd1.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "97a7e19d-7a0d-4b65-ad22-264463b37fd1",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Tulip Inn",
+       "formattedAddress": "9, 100 Feet Rd, Ashwini Layout, Koramangala, 560047, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Koramangala, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1000,
+         "minValue": 850
+        },
+        "perDayCost": null,
+        "parkingCount": 100,
+        "roomCount": {
+         "maxValue": 64,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 30,
+         "maxValue": 120
+        }
+       },
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.5836393,
+        12.9991564
+       ]
+      },
+      {
+       "vendorId": "4f9cf956-fc91-48cc-8614-a12d986f0b44",
+       "urlSlug": "sam-thotada-mane-kanakapura-road",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4f9cf956-fc91-48cc-8614-a12d986f0b44/admin_uploads/de104a3f-55ea-4fa2-bb15-796cfa914633.webp",
+         "mimeType": "image/webp",
+         "mediaId": "de104a3f-55ea-4fa2-bb15-796cfa914633",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4f9cf956-fc91-48cc-8614-a12d986f0b44/admin_uploads/3e1400a4-26c5-4203-914b-2fe644ad7c20.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "3e1400a4-26c5-4203-914b-2fe644ad7c20",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4f9cf956-fc91-48cc-8614-a12d986f0b44/admin_uploads/1d5795b0-2d7b-4d6d-94bc-756de4a2b37b.webp",
+         "mimeType": "image/webp",
+         "mediaId": "1d5795b0-2d7b-4d6d-94bc-756de4a2b37b",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4f9cf956-fc91-48cc-8614-a12d986f0b44/admin_uploads/5c82db84-d048-47c1-b274-d19201c8642e.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "5c82db84-d048-47c1-b274-d19201c8642e",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Sam Thotada Mane",
+       "formattedAddress": "#181, Hale Gabbadi village, Hobli, Harahalli, 562109, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Kanakapura Road, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1350,
+         "minValue": 700
+        },
+        "perDayCost": {
+         "maxValue": null,
+         "minValue": null
+        },
+        "parkingCount": 500,
+        "roomCount": {
+         "maxValue": 20,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 300,
+         "maxValue": 700
+        }
+       },
+       "specialTags": [
+        "Premium"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.5569387,
+        12.8857154
+       ]
+      },
+      {
+       "vendorId": "af36b120-0cbe-4f6c-bdf7-37fc64c3a040",
+       "urlSlug": "leevi-banquet-mahadevapura",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/af36b120-0cbe-4f6c-bdf7-37fc64c3a040/gmap/6d415e40-590f-405a-acf4-5c550317af31.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "4418af7d-42ca-42ce-80af-57f3f6668ffd",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/af36b120-0cbe-4f6c-bdf7-37fc64c3a040/admin_uploads/b21c74f6-32f2-4d56-83f8-777cc3cfefca.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "b21c74f6-32f2-4d56-83f8-777cc3cfefca",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/af36b120-0cbe-4f6c-bdf7-37fc64c3a040/admin_uploads/6a43b070-758c-4dfd-8df6-c5a057c3f902.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "6a43b070-758c-4dfd-8df6-c5a057c3f902",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/af36b120-0cbe-4f6c-bdf7-37fc64c3a040/admin_uploads/9842f5d8-cddc-4827-953b-a01fbb37895b.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "9842f5d8-cddc-4827-953b-a01fbb37895b",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Leevi Banquet",
+       "formattedAddress": "Vijay Solitaire, 6/1 C, Outer Ring Rd, above Udupi park, Brindavan Extension, Doddanekundi, Mahadevapura, 560048, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Mahadevapura, Bengaluru",
+       "userRating": 4.5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 800,
+         "minValue": 500
+        },
+        "perDayCost": {
+         "maxValue": 80000,
+         "minValue": 65000
+        },
+        "parkingCount": 15,
+        "roomCount": {
+         "maxValue": 15,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 250,
+         "maxValue": 500
+        }
+       },
+       "sort_by_status": 0,
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": "Upto ₹10,000 savings",
+       "userRatingCount": 40,
+       "coordinates": [
+        77.6968823,
+        12.9750245
+       ]
+      },
+      {
+       "vendorId": "821c0eb7-3418-48f1-84ae-bc007a872f66",
+       "urlSlug": "the-loire-party-hall-varthur",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/821c0eb7-3418-48f1-84ae-bc007a872f66/admin_uploads/17b13117-5835-41a5-a716-1fc229b01e3c.webp",
+         "mimeType": "image/webp",
+         "mediaId": "17b13117-5835-41a5-a716-1fc229b01e3c",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/821c0eb7-3418-48f1-84ae-bc007a872f66/admin_uploads/3c81fbe8-bc97-4a69-8832-bcb3964d5218.webp",
+         "mimeType": "image/webp",
+         "mediaId": "3c81fbe8-bc97-4a69-8832-bcb3964d5218",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/821c0eb7-3418-48f1-84ae-bc007a872f66/admin_uploads/63288753-4c37-4fae-9aa3-289b0759e00a.webp",
+         "mimeType": "image/webp",
+         "mediaId": "63288753-4c37-4fae-9aa3-289b0759e00a",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/821c0eb7-3418-48f1-84ae-bc007a872f66/admin_uploads/fef9d31a-2d43-4b4a-95ca-e8bc56134a35.webp",
+         "mimeType": "image/webp",
+         "mediaId": "fef9d31a-2d43-4b4a-95ca-e8bc56134a35",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "The Loire Party Hall",
+       "formattedAddress": "Opp: Government college, 13, Varthur Rd, Varthur, 560087, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Varthur, Bengaluru",
+       "userRating": 5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 700,
+         "minValue": 550
+        },
+        "perDayCost": null,
+        "parkingCount": 10,
+        "roomCount": {
+         "maxValue": 2,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 150,
+         "maxValue": 250
+        }
+       },
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.7470513,
+        12.9434158
+       ]
+      }
+     ]
+    },
+    "categorySEO": {
+     "head": {
+      "canonicalTag": {
+       "isSameAsChecked": true,
+       "value": "/wedding-venues/bengaluru"
+      },
+      "metaDescription": {
+       "value": "Best Wedding Venues in Bangalore - Find the best venues, banquets, resorts, lawns, and hotels. Check prices, reviews, and more."
+      },
+      "metaRobot": {
+       "value": "index, follow"
+      },
+      "title": {
+       "value": "10 Best Wedding Venues in Bangalore with Price"
+      }
+     },
+     "openGraph": {
+      "description": {
+       "isSameAsChecked": true,
+       "value": "Best Wedding Venues in Bangalore - Find the best venues, banquets, resorts, lawns, and hotels. Check prices, reviews, and more."
+      },
+      "image": {
+       "isSameAsChecked": true,
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/assets/Venue.png"
+      },
+      "title": {
+       "isSameAsChecked": true,
+       "value": "10 Best Wedding Venues in Bangalore with Price"
+      },
+      "type": {
+       "value": "website"
+      },
+      "url": {
+       "isSameAsChecked": true,
+       "value": "/wedding-venues/bengaluru"
+      }
+     },
+     "twitterCard": {
+      "card": {
+       "value": "summary_large_image"
+      },
+      "description": {
+       "isSameAsChecked": true,
+       "value": "Best Wedding Venues in Bangalore - Find the best venues, banquets, resorts, lawns, and hotels. Check prices, reviews, and more."
+      },
+      "image": {
+       "isSameAsChecked": true,
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/assets/Venue.png"
+      },
+      "site": {
+       "value": "@TheWeddingCmpny"
+      },
+      "title": {
+       "isSameAsChecked": true,
+       "value": "10 Best Wedding Venues in Bangalore with Price"
+      }
+     }
+    },
+    "categoryAbout": {
+     "results": {
+      "about": {
+       "ops": [
+        {
+         "insert": "Bengaluru is one of India’s top wedding destinations, nestled in lush greenery and filled with picturesque sights. From luxury hotels and elegant banquet halls to scenic resorts, outdoor lawns, and traditional Kalyan Mandapams, the city offers wedding venues suited to every celebration style and budget.\n\nWhether you are planning an intimate ceremony, a grand multi-day wedding, or a destination-style celebration near the city outskirts, Bengaluru has venue options across popular locations like Nandi Hills, Devanahalli, Whitefield, and Kanakapura Road to match every guest count and wedding vision. With so many venue styles and locations to choose from, couples can easily find a space that aligns with their budget, decor needs, guest requirements, and overall wedding experience.\n"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Best Types Of Wedding Venues In Bengaluru For Your Wedding"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nBengaluru offers a wide variety of wedding venues suited to different celebration styles, guest capacities, and budgets. Whether you are planning a traditional South Indian wedding, a luxury destination-style event, or an intimate modern gathering, the city has venue formats to match every requirement.\n\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/kalyan-mandap-mantapas-fi3"
+         },
+         "insert": "Kalyan Mandapams"
+        },
+        {
+         "insert": ": Ideal for traditional weddings with cultural rituals, spacious dining areas, and classic mandap setups commonly preferred for South Indian ceremonies."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/heritage-property-fi3"
+         },
+         "insert": "Heritage Properties"
+        },
+        {
+         "insert": ": Perfect for couples looking for regal architecture, timeless charm, and a more royal-style wedding atmosphere with distinctive character."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/resorts-fi3"
+         },
+         "insert": "Wedding Resorts"
+        },
+        {
+         "insert": ": Best suited for residential and multi-day celebrations, offering accommodation, outdoor lawns, banquet spaces, and destination-style experiences within or around the city."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues?venueType=1106&venueArea=3203"
+         },
+         "insert": "Farmhouses & Lawn Venues"
+        },
+        {
+         "insert": ": Popular for open-air celebrations, intimate functions, and nature-inspired weddings with flexible decor and event layouts."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues?venueType=1101&venueArea=3203"
+         },
+         "insert": "5-Star Hotels"
+        },
+        {
+         "insert": ": A preferred choice for luxury weddings, these venues are synonymous with uniquely exquisite experiences. Known for providing flawless hospitality, elegant ballrooms, curated services, and much more, to have you feeling like royalty."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues?venueType=1105&venueArea=3203"
+         },
+         "insert": "Convention Halls"
+        },
+        {
+         "insert": ": Commonly preferred for large-scale weddings with expansive capacities, multiple event spaces, ample parking, and efficient crowd management."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/banquet-halls-fi3"
+         },
+         "insert": "Banquet Halls"
+        },
+        {
+         "insert": ": Well-suited for indoor celebrations, offering accessibility, affordability, modern facilities, and flexible options for different wedding sizes."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nTake your pick from all these kinds of wedding venues and watch the stage get set for the most memorable celebration of your life!\n"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Wedding Venues In Bengaluru With Price"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWant to celebrate your special day in Bengaluru? The Wedding Company helps you find the right venue for it. With hundreds of options across the city, we match spaces to your budget and guest list so you can enjoy the journey while we handle the details.\n\nWedding venues under INR 1000 per plate"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "If you are looking for low-budget wedding venues in Bengaluru, these places give you value without stretching your budget.\n\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/shibravyi-courtyard-nagegowdanapalya-VPD"
+         },
+         "insert": "Shibravyi Courtyard"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/kingdom-convention-centre-ashwath-nagar"
+         },
+         "insert": "Kingdom Convention Centre"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/sri-sai-rukmini-mahal-singasandra"
+         },
+         "insert": "Sri Sai Rukmini Mahal"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWedding venues with cost between INR 1000 & INR 3000 per plate"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "These are great value-for-money wedding venues in Bengaluru, offering style and comfort within a mid-range budget.\n\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/the-woodrose-jp-nagar-4X7"
+         },
+         "insert": "The Woodrose"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/clarion-bangalore-yelahanka"
+         },
+         "insert": "Clarion Bangalore"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/aura-area-83-bannerghatta-road"
+         },
+         "insert": "Aura by Area 83"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWhich are the budget wedding venues in Bengaluru under ₹5 lakhs?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "For couples searching for affordable wedding venues in Bengaluru, these options keep costs manageable without compromising on aesthetics.\n\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/mrf-greens-pavilion-chikkaluar-road"
+         },
+         "insert": "MRF Greens Pavilion"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/lago-palms-resort-bettadasanapura"
+         },
+         "insert": "Lago Palms Resort"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/aura-foothills-nandi-hills"
+         },
+         "insert": "Aura Foothills"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWhat are the best wedding venues in Bengaluru under ₹10 lakhs?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "These are some of the most popular budget-friendly wedding venues in Bengaluru, ideal for stylish weddings.\n\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/the-beginning-sarjapur-road"
+         },
+         "insert": "The Beginning"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/the-kalanivasthi-bychaguppe"
+         },
+         "insert": "The Kalanivasthi"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/panchavati-the-pavilion-kanakapura-road-WRG"
+         },
+         "insert": "Panchavati The Pavilion"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWedding Venues in Bengaluru Between ₹10-20 Lakhs"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "For an elegantly breathtaking celebration that leaves a mark, these are some of the most cost-effective wedding venues.\n\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/amitarasa-nandi-hills"
+         },
+         "insert": "Amita Rasa"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/signature-club-resort-devanahalli-59F"
+         },
+         "insert": "Signature Club Resort"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "JW Marriott Prestige Golfshire Resort & Spa"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nLuxury Venues ₹20 Lakhs+ (₹3000+ per plate)"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "For those who dream of a grand celebration, these are the most sought-after luxury wedding venues in Bengaluru.\n\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/the-leela-bhartiya-city-bengaluru-tirumanahalli"
+         },
+         "insert": "The Leela Bhartiya City Bengaluru"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/taj-west-end-vasanth-nagar"
+         },
+         "insert": "Taj West End, Vasanth Nagar"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/hilton-bengaluru-embassy-manyata-business-park-nagavara"
+         },
+         "insert": "Hilton Bengaluru Embassy Manyata Business Park"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Top 10 Wedding Venues in Bengaluru With Price & Capacity"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n1."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/the-leela-palace-kodihalli"
+         },
+         "insert": " The Leela Palace, Kodihalli"
+        },
+        {
+         "insert": "\nCapacity: 120-1200 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹25-45L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.6/5 (36786 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n2."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/itc-gardenia-ashok-nagar"
+         },
+         "insert": " ITC Gardenia, Ashok Nagar"
+        },
+        {
+         "insert": "\nCapacity: 100-750 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹15-18L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.6/5 (25343 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n3."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/amita-rasa-nandi-hills"
+         },
+         "insert": " Amita Rasa, Nandi Hills"
+        },
+        {
+         "insert": "\nCapacity: 300-800 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹14-24L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.6/5 (821 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n4."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/tamara-weddings-and-events-venue-jp-nagar"
+         },
+         "insert": " Tamara Weddings and Events Venue, JP Nagar"
+        },
+        {
+         "insert": "\nCapacity: 600-800 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹90K-16.5L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.2/5 (2383 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n5."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/taj-west-end-vasanth-nagar"
+         },
+         "insert": " Taj West End, Race Course Road"
+        },
+        {
+         "insert": "\nCapacity: 50-1200 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹18-25L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.6/5 (18367 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n6."
+        },
+        {
+         "attributes": {
+          "link": "http://theweddingcompany"
+         },
+         "insert": " Moments Bangalore"
+        },
+        {
+         "insert": "\nCapacity: 100-450 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹1.5-6L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.6/5 (97 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n7."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/the-tamarind-tree-jp-nagar-RT8"
+         },
+         "insert": " The Tamarind Tree, Kanakapura Road"
+        },
+        {
+         "insert": "\nCapacity: 10-500 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹15-20L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.4/5 (4249 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n8."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/itc-windsor-a-luxury-collection-hotel-vasanth-nagar"
+         },
+         "insert": " ITC Windsor, Palace Grounds"
+        },
+        {
+         "insert": "\nCapacity: 200-450 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹12-18L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.7/5 (21770 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n9."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/gayatri-vihar-sagar-palace-grounds"
+         },
+         "insert": " Gayatri Vihar Sagar, Palace Grounds"
+        },
+        {
+         "insert": "\nCapacity: 400-10000 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹15-24L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.4/5 (3219 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n10."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/signature-club-resort-devanahalli-59F"
+         },
+         "insert": " Signature Club Resort, Devanahalli"
+        },
+        {
+         "insert": "\nCapacity: 200-800 guests"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹16-19L+ per day"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Google Rating: 4.3/5 (6334 reviews)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Best Wedding Venues Near Kempegowda International Airport"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nFor couples planning a convenient yet impressive wedding celebration close to Kempegowda International Airport, venues like Taj Bangalore, Goldfinch Retreat Bengaluru, Signature Club Resort and Clarks Exotica Convention Resort & Spa are among the most preferred choices for their accessibility, spacious event areas, and residential wedding capabilities.\n\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/taj-bangalore-devanahalli-W5D"
+         },
+         "insert": "Taj Bangalore, Devanahalli"
+        },
+        {
+         "insert": ": Situated just 300 meters from Terminal 1 and about 2.1 km from Terminal 2, this luxury hotel venue is ideal for intimate-to-mid-sized weddings with premium hospitality, elegant ballrooms, and seamless guest convenience. It is widely regarded as one of the most premium airport-side wedding venues in Bangalore."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/goldfinch-retreat-chickajala"
+         },
+         "insert": "Goldfinch Retreat Bengaluru, Chickajala"
+        },
+        {
+         "insert": ": Located around 7 km from Bangalore Airport (roughly 10-15 minutes away), this venue is known for its convenient location, banquet and lawn spaces, guest stay options, and easy accessibility for outstation attendees."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/signature-club-resort-devanahalli-59F"
+         },
+         "insert": "Signature Club Resort, Devanahalli"
+        },
+        {
+         "insert": ": Approximately 15 km away from Kempegowda International Airport, this resort-style venue is popular for intimate-to-mid-sized residential weddings thanks to its open-air spaces, accommodation options, and relaxed setting away from the city rush."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/bengaluru/clarks-exotica-convention-resorts-spa-devanahalli"
+         },
+         "insert": "Clarks Exotica Convention Resort & Spa, Devanahalli"
+        },
+        {
+         "insert": ": Now known as Aldovia Resort & Convention, this venue is located around 10-15 km from the Airport (approximately 17-20 minutes away). The expansive destination-style resort is known for its massive lawns, multiple banquet venues, luxury accommodation, and large-capacity wedding setups ideal for multi-day celebrations."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWedding venues near Bangalore’s Kempegowda International Airport are especially preferred for destination-style celebrations because they reduce travel time for guests while still offering spacious lawns, banquet halls, and resort-style experiences suited for weddings of every scale. Whether you are planning an intimate residential celebration or a large multi-function wedding, these venues combine accessibility with the flexibility needed for a smooth and memorable event experience.\n"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Destination Wedding Locations Near Bengaluru"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Coorg: "
+        },
+        {
+         "insert": "Famous for its coffee estates, mist-covered hills, and boutique resorts, Coorg is a preferred choice for couples planning a scenic destination-style wedding surrounded by nature."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Mysuru:"
+        },
+        {
+         "insert": " Known for its palaces, heritage hotels, and regal atmosphere, Mysore is ideal for grand weddings with a more traditional and luxurious setting."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Bengaluru Outskirts:"
+        },
+        {
+         "insert": " Locations around Kanakapura Road, Yelahanka, and Devanahalli offer farmhouses, eco-resorts, and spacious outdoor venues that work well for residential weddings close to the city."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Nandi Hills:"
+        },
+        {
+         "insert": " Popular for its cool weather and hill-view resorts, Nandi Hills is especially suited for intimate weddings and outdoor celebrations with scenic backdrops."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Kabini: "
+        },
+        {
+         "insert": "A great option for couples looking for a quieter destination wedding experience with riverside resorts and nature-focused venues."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Chikmagalur: "
+        },
+        {
+         "insert": "Widely loved for its coffee plantations and peaceful hill surroundings, Chikmagalur offers a relaxed setting for destination-style celebrations."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "How to Find the Best Wedding Venues in Bengaluru"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nFinding the right venue means balancing budget, guest count, and location. The Wedding Company makes this easy with end-to-end support. With our top-notch website and services, we help you:\n\nShortlist venues based on guest count, budget, locality, and celebration style"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Compare venue options across Bengaluru and nearby destination wedding locations"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Review venue photographs, event spaces, accommodation details, and available facilities"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Understand catering policies, decor flexibility, parking, stay options, and other important venue details"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Arrange venue visits and receive support in evaluating spaces that best match your wedding vision"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Streamline the venue research process and save time while planning your celebrations more efficiently"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nThis saves hours of research and ensures you book a venue that fits your style and budget.\n"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "What to Consider Before Booking a Wedding Venue in Bengaluru"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Date"
+        },
+        {
+         "insert": ": Venues book out early in peak wedding season. Confirm your date before searching."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Guest count:"
+        },
+        {
+         "insert": " Make sure the hall or lawn can seat all your guests comfortably."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Budget:"
+        },
+        {
+         "insert": " Compare per-plate and rental charges across venues."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Location: "
+        },
+        {
+         "insert": "Choose a venue close to hotels, transport, and the airport if needed."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Parking:"
+        },
+        {
+         "insert": " Ensure enough parking space for your guest count."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Closing times:"
+        },
+        {
+         "insert": " Many Bengaluru venues have strict sound and closing time limits. Always confirm the timing."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "How does The Wedding Company help couples find wedding venues in Bengaluru?"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nVisit "
+        },
+        {
+         "attributes": {
+          "bold": true,
+          "link": "http://www.theweddingcompany.com"
+         },
+         "insert": "www.theweddingcompany.com"
+        },
+        {
+         "insert": " to explore wedding venues in Bangalore based on your preferred locality, venue type, budget, guest count, and celebration requirements."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nBrowse venue photographs, compare pricing, review event spaces and facilities, and shortlist venues that match your wedding style and scale."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nCheck venue details such as accommodation, indoor and outdoor spaces, catering flexibility, and overall event suitability before making a decision."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nUse the platform to streamline your venue research and narrow down options that best fit your wedding plans, preferences, and overall celebration experience."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nLet The Wedding Company’s team of experts help bring your wedding vision to life with venue guidance and planning support tailored to your celebration requirements."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "FAQs"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWhat is the average cost of wedding venues in Bengaluru?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Wedding venues in Bangalore typically charge between ₹1,200 and ₹2,500 per plate, depending on the venue type, locality, and inclusions. A full one-day wedding in Bangalore usually ranges between ₹10-25 lakhs, depending on the guest count, decor, entertainment, catering, and overall scale of the celebration.\n\nHow far in advance should I book a wedding venue in Bengaluru?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "The ideal time to book a wedding venue in Bangalore is around 6-8 months before the wedding. However, luxury hotels, resorts, and premium venues often get booked 9-12 months in advance during the peak wedding season from October to February and on auspicious dates. Booking early gives you better pricing, more venue options, and enough time to plan vendors and logistics comfortably.\n\nWhat is the best time of year to get married in Bengaluru?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "The most preferred wedding season in Bangalore is between October and February, when the weather is cooler and more comfortable for outdoor functions, lawn weddings, and resort celebrations. These months are especially popular for day weddings and multi-function destination-style events around the city outskirts.\n\nWhich are the most popular wedding venues in Bengaluru?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Some of the most popular wedding venues in Bangalore include The Leela Palace Bengaluru, ITC Gardenia, The Tamarind Tree, Royalton Leisure, and resorts near Nandi Hills. These venues are popular for their ambience, hospitality, accessibility, and suitability for large wedding celebrations.\n\nWhat is typically included in a destination wedding venue package in Bengaluru?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "A destination wedding venue package in Bangalore usually includes guest accommodation, meals, multiple event spaces, and basic hospitality services. Some properties may also include standard decor elements, while customised decor, entertainment, and production setups are generally charged separately. Luxury resorts may additionally provide valet parking, in-house catering, and dedicated event coordination support.\n\nDo Bengaluru venues allow overnight weddings?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Most wedding venues within Bangalore city limits follow local sound regulations, which usually restrict loud music and DJ operations after 10 PM. However, many venues allow guests and close family members to stay overnight. Resorts and farmhouse venues located on the outskirts of Bangalore may permit extended celebrations or overnight events, subject to venue policies and local permissions.\n\nWhich localities near me in Bengaluru have the best wedding venues?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Popular localities for wedding venues in Bangalore include Whitefield, Hebbal, Yelahanka, Kanakapura Road, and Vasanth Nagar. These areas offer a mix of luxury hotels, banquet halls, resorts, convention centres, and outdoor wedding venues across different budgets and guest capacities.\n\nHow to find wedding venues in Bengaluru near me?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "You can shortlist wedding venues in Bangalore by filtering options based on budget, guest capacity, locality, venue type, and event requirements on wedding planning platforms like The Wedding Company. Comparing venue pricing, reviews, photos, and inclusions before scheduling venue visits can help you finalise a venue that matches both your budget and wedding style.\n"
+        }
+       ]
+      }
+     }
+    },
+    "seoFooterDetails": {
+     "title": "CITY PAGE DATA",
+     "contains": [
+      "Types Of Venues",
+      "Venues by Top Localities",
+      "Destination Wedding Venues",
+      "Other Wedding Services",
+      "Explore Wedding Ideas"
+     ],
+     "payload": {
+      "Types Of Venues": [
+       {
+        "label": "Best 5 Star Wedding Venues in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/5-star-venues-fi3"
+       },
+       {
+        "label": "Best 4 Star Wedding Venues in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/4-star-venues-fi3"
+       },
+       {
+        "label": "Best 3 Star Wedding Venues in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/3-star-venues-fi3"
+       },
+       {
+        "label": "Best Wedding Resorts in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/resorts-fi3"
+       },
+       {
+        "label": "Best Convention Halls in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/convention-halls-fi3"
+       },
+       {
+        "label": "Best Farm House for Wedding in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/farm-house-fi3"
+       },
+       {
+        "label": "Best Kalyan Mandap/Mantapa in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/kalyan-mandap-mantapas-fi3"
+       },
+       {
+        "label": "Best Banquet Halls in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/banquet-halls-fi3"
+       },
+       {
+        "label": "Best Function Halls in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/function-halls-fi3"
+       },
+       {
+        "label": "Best Party Halls in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/party-halls-fi3"
+       },
+       {
+        "label": "Best Pool Side Wedding Venues in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/pool-side-venues-fi3"
+       },
+       {
+        "label": "Best Marriage Lawns in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/marriage-lawn-fi3"
+       },
+       {
+        "label": "Best Heritage Properties in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/heritage-property-fi3"
+       },
+       {
+        "label": "Best Open Terraces in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/open-terrace-fi3"
+       },
+       {
+        "label": "Best Amphitheatres in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/amphitheatre-fi3"
+       }
+      ],
+      "Venues by Top Localities": [
+       {
+        "label": "Wedding Venues in Jayanagar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/jayanagar-Z3WJ6-lc3"
+       },
+       {
+        "label": "Wedding Venues in Koramangala",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/koramangala-0JtuR-lc3"
+       },
+       {
+        "label": "Wedding Venues in Rajajinagar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/rajajinagar-qgXHa-lc3"
+       },
+       {
+        "label": "Wedding Venues in J. P. Nagar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/jp-nagar-0tkS7-lc3"
+       },
+       {
+        "label": "Wedding Venues in Indiranagar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/indiranagar-amQol-lc3"
+       },
+       {
+        "label": "Wedding Venues in Electronic City",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/electronic-city-bOYlS-lc3"
+       },
+       {
+        "label": "Wedding Venues in Banashankari",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/banashankari-ysDjw-lc3"
+       },
+       {
+        "label": "Wedding Venues in Shivaji Nagar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/shivajinagar-metro-station-roUPV-lc3"
+       },
+       {
+        "label": "Wedding Venues in Yelahanka",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/yelahanka-AsWoE-lc3"
+       },
+       {
+        "label": "Wedding Venues in Vasanth Nagar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/vasanth-nagar-MAYxY-lc3"
+       },
+       {
+        "label": "Wedding Venues in Basavanagudi",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/basavanagudi-Pj8bu-lc3"
+       },
+       {
+        "label": "Wedding Venues in Marathahalli",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/marathahalli-Hxq7W-lc3"
+       },
+       {
+        "label": "Wedding Venues in Vijayanagar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/vijayanagar-tRRGk-lc3"
+       },
+       {
+        "label": "Wedding Venues in Malleshwaram",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/malleshwaram-FqiPF-lc3"
+       },
+       {
+        "label": "Wedding Venues in Sunkadakatte",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/sunkadakatte-9f72e-lc3"
+       },
+       {
+        "label": "Wedding Venues in Kanakapura Road",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/kanakapura-road-PuD9a-lc3"
+       },
+       {
+        "label": "Wedding Venues in Kalyan Nagar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/kalyan-nagar-JeUnG-lc3"
+       },
+       {
+        "label": "Wedding Venues in Banaswadi",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/banaswadi-d2P5V-lc3"
+       },
+       {
+        "label": "Wedding Venues in Devanahalli",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/devanahalli-JbTsC-lc3"
+       },
+       {
+        "label": "Wedding Venues in Nagavara",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/nagavara-ZvsVG-lc3"
+       },
+       {
+        "label": "Wedding Venues in Naagarabhaavi",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/naagarabhaavi-q99nt-lc3"
+       },
+       {
+        "label": "Wedding Venues in Vidyaranyapura",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/vidyaranyapura-wCfPj-lc3"
+       },
+       {
+        "label": "Wedding Venues in Kengeri",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/kengeri-satellite-town-r5tSF-lc3"
+       },
+       {
+        "label": "Wedding Venues in HSR Layout",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/hsr-layout-SeTXF-lc3"
+       },
+       {
+        "label": "Wedding Venues in Bellandur",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/bellandur-DYcbr-lc3"
+       }
+      ],
+      "Destination Wedding Venues": [
+       {
+        "label": "Destination Wedding in Goa",
+        "slug": "https://www.theweddingcompany.com/wedding/destination-wedding-in-goa"
+       },
+       {
+        "label": "Destination Wedding in Udaipur",
+        "slug": "https://www.theweddingcompany.com/wedding/destination-wedding-in-udaipur"
+       },
+       {
+        "label": "Destination Wedding in Jaipur",
+        "slug": "https://www.theweddingcompany.com/wedding/destination-wedding-in-jaipur"
+       },
+       {
+        "label": "Destination Wedding in Jim Corbett",
+        "slug": "https://www.theweddingcompany.com/wedding/destination-wedding-in-jim-corbett"
+       },
+       {
+        "label": "Destination Wedding in Lonavala",
+        "slug": "https://www.theweddingcompany.com/wedding/destination-wedding-in-lonavala"
+       },
+       {
+        "label": "Destination Wedding in Rishikesh",
+        "slug": "https://www.theweddingcompany.com/wedding/destination-wedding-in-rishikesh"
+       },
+       {
+        "label": "Destination Wedding in Lakshadweep",
+        "slug": "https://www.theweddingcompany.com/wedding/wedding-venues-in-lakshadweep"
+       }
+      ],
+      "Other Wedding Services": [
+       {
+        "label": "Wedding Photographers in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-photographers/bengaluru"
+       },
+       {
+        "label": "Wedding Decorators in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-decorators/bengaluru"
+       }
+      ],
+      "Explore Wedding Ideas": [
+       {
+        "label": "Bridal Lehenga Designs",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/bridal-lehengas"
+       },
+       {
+        "label": "Wedding Cakes Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/wedding-cakes"
+       },
+       {
+        "label": "Wedding Invitations Design",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/invitations"
+       },
+       {
+        "label": "Mehendi Design Photos",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/mehendi-designs"
+       },
+       {
+        "label": "Wedding Saree Design",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/sarees"
+       },
+       {
+        "label": "Blouse Design Photos",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/blouse-designs"
+       },
+       {
+        "label": "Wedding Decoration Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/decoration-ideas"
+       },
+       {
+        "label": "Wedding Photoshoot Poses",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/photoshoot-poses"
+       },
+       {
+        "label": "Bridal Makeup",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/makeup"
+       },
+       {
+        "label": "Jewellery Designs",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/jewellery"
+       },
+       {
+        "label": "Wedding Dresses",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/wedding-dresses"
+       },
+       {
+        "label": "Groom Dresses",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/groom-dresses"
+       },
+       {
+        "label": "Wedding Accessories",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/accessories"
+       },
+       {
+        "label": "Wedding Gift Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/wedding-gifts"
+       },
+       {
+        "label": "Hairstyles",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/hairstyles"
+       },
+       {
+        "label": "Pre Wedding Photoshoot Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/pre-wedding-shoot"
+       },
+       {
+        "label": "Wedding Themes",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/wedding-themes"
+       },
+       {
+        "label": "Venue Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/venue-ideas"
+       }
+      ]
+     }
+    }
+   },
+   "__N_SSG": true
+  },
+  "page": "/wedding-venues/[venueCityOrFilter]",
+  "query": {
+   "venueCityOrFilter": "bengaluru"
+  },
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "gsp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/c8c1bcda263ddb1a.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-ideas",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues",
+  "/wedding-venues/bengaluru/amitarasa-nandi-hills",
+  "/wedding-venues/bengaluru/apr-mango-retreat-kanakapura",
+  "/wedding-venues/bengaluru/aura-area-83-bannerghatta-road",
+  "/wedding-venues/bengaluru/bella-ciao-resort-jalahalli-east",
+  "/wedding-venues/bengaluru/bonfire-banni-mantapa-kanakapura-road",
+  "/wedding-venues/bengaluru/gk-hill-view-resort-muthukadahalli",
+  "/wedding-venues/bengaluru/house-of-retreats-by-jade-jakkur",
+  "/wedding-venues/bengaluru/innistique-by-inventrees-thanisandra",
+  "/wedding-venues/bengaluru/leevi-banquet-mahadevapura",
+  "/wedding-venues/bengaluru/moments-bangalore-nelaguli",
+  "/wedding-venues/bengaluru/mrf-greens-pavilion-chikkaluar-road",
+  "/wedding-venues/bengaluru/panchavati-retreat-resort-nettigere",
+  "/wedding-venues/bengaluru/radha-hometel-a-sarovar-hotel-brookefield",
+  "/wedding-venues/bengaluru/safina-banquets-shivaji-nagar",
+  "/wedding-venues/bengaluru/sam-thotada-mane-kanakapura-road",
+  "/wedding-venues/bengaluru/savannah-sarovar-premier-whitefield",
+  "/wedding-venues/bengaluru/sri-lakshminarayan-bhavan-krishnarajapura",
+  "/wedding-venues/bengaluru/temple-tree-leisure-electronic-city",
+  "/wedding-venues/bengaluru/the-loire-party-hall-varthur",
+  "/wedding-venues/bengaluru/the-tamarind-tree-jp-nagar-RT8",
+  "/wedding-venues/bengaluru/the-woodrose-jp-nagar-4X7",
+  "/wedding-venues/bengaluru/tulip-inn-koramangala",
+  "/wedding-venues/bengaluru/valley-vibes-resort-ramanagara",
+  "/wedding-venues/bengaluru/vegas-banquet-hall-and-convention-center-bannerghatta-road"
+ ],
+ "external_img_domains": [
+  "https://gcpimages.theweddingcompany.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 105060,
+ "bytes": 322024,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><link rel=\"canonical\" href=\"https://www.theweddingcompany.com/wedding-venues/bengaluru\"/><meta name=\"description\" content=\"Best Wedding Venues in Bangalore - Find the best venues, banquets, resorts, lawns, and hotels. Check prices, reviews, and more.\"/><meta property=\"og:description\" content=\"Best Wedding Venues in Bangalore - Find the best venues, banquets, resorts, lawns, and hotels. Check prices, reviews, and more.\"/><meta n"
+}

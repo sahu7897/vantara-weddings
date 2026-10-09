@@ -1,0 +1,48 @@
+{
+ "url": "https://www.theweddingcompany.com/success-stories",
+ "status_title": "Success Stories",
+ "meta_description": null,
+ "canonical": null,
+ "h1": [],
+ "h2": [],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [
+  "desktop-nav-menu-link",
+  "desktop-nav-menu-dd",
+  "w-node-_23b4f05c-a9ee-45ae-7ee3-8dd9b1e18ce1-b1e18c6f",
+  "w-node-_23b4f05c-a9ee-45ae-7ee3-8dd9b1e18cfa-b1e18c6f",
+  "w-node-_23b4f05c-a9ee-45ae-7ee3-8dd9b1e18d0f-b1e18c6f",
+  "w-node-_23b4f05c-a9ee-45ae-7ee3-8dd9b1e18d16-b1e18c6f"
+ ],
+ "has_header_nav": false,
+ "has_footer": false,
+ "forms": 0,
+ "inputs": 0,
+ "buttons": 0,
+ "json_ld": 0,
+ "nprogress": false,
+ "stylesheets": [],
+ "page_scripts": [],
+ "next_data": null,
+ "internal_links": [
+  "/success-stories-page",
+  "/success-stories/a-tale-of-two-bike-riders-finding-love",
+  "/success-stories/beyond-the-swipe-matched-for-life",
+  "/success-stories/he-found-his-best-friend-for-life",
+  "/success-stories/its-a-match-meant-to-be",
+  "/success-stories/love-happens-when-you-expect-it-the-least",
+  "/success-stories/marriage-proposal-in-a-week",
+  "/success-stories/second-chances-are-beautiful",
+  "/success-stories/when-two-broken-hearts-found-love-again"
+ ],
+ "external_img_domains": [
+  "https://ajax.googleapis.com",
+  "https://cdn.prod.website-files.com",
+  "https://d3e54v103j8qbb.cloudfront.net",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 5946,
+ "bytes": 40831,
+ "head_first_600": "<!DOCTYPE html><!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Wed Aug 26 2026 12:13:11 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain=\"wf.betterhalf.ai\" data-wf-page=\"65859a68cb68c669ca8efca7\" data-wf-site=\"60222e72b5a2043efe117253\"><head><meta charset=\"utf-8\"/><link href=\"https://cdn.prod.website-files.com\" rel=\"preconnect\" crossorigin=\"anonymous\"/><title>Success Stories</title><meta content=\"The world’s fastest and most accurate AI-powered way to get married. Download the best matrimony app now and get AI based matching profiles for marriage"
+}

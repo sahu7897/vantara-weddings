@@ -1,0 +1,209 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding",
+ "status_title": "Wedding Blogs | The Wedding Company",
+ "meta_description": "The Wedding Company provides top wedding blogs and inspiration to help you plan your dream wedding. From unique ideas to expert advice, our blog covers everything you need to create a memorable and beautiful wedding day.",
+ "canonical": "https://www.theweddingcompany.com/wedding",
+ "h1": [
+  "Wedding"
+ ],
+ "h2": [],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 0,
+ "inputs": 0,
+ "buttons": 3,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/61dbd837b13489b4.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-11f028357b37d6bb.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "initialBlogsData": {
+     "results": [
+      {
+       "coverImage": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/blogs/destination-wedding-in-lonavala/uploads/de6161d9-8c7b-4bff-b4e5-33ed281a3a7b.jpg",
+       "title": "Destination Wedding in Lonavala: Wedding Venues, Photos & How Much it Cost?",
+       "slug": "destination-wedding-in-lonavala"
+      },
+      {
+       "coverImage": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/blogs/destination-wedding-in-jim-corbett/uploads/ed4edd4a-3ec9-4a0c-862e-b178740a149e.webp",
+       "title": "Destination Wedding in Jim Corbett: Wedding Venues, Photos & How Much it Cost?",
+       "slug": "destination-wedding-in-jim-corbett"
+      },
+      {
+       "coverImage": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/blogs/destination-wedding-in-udaipur/uploads/e3f5ad58-02f6-419b-a20d-94d50123e08f.webp",
+       "title": "Destination Wedding in Udaipur: Venues, Photos & How Much it Cost?",
+       "slug": "destination-wedding-in-udaipur"
+      },
+      {
+       "coverImage": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/blogs/destination-wedding-in-goa/uploads/050f926b-6ea6-40cf-9d20-2812c6cc2a3b.jpg",
+       "title": "Destination Wedding in Goa: Wedding Venues, Photos & How Much it Cost?",
+       "slug": "destination-wedding-in-goa"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/sangeet-decoration-ideas-for-weddings-in-india/uploads/0677daa7-ec01-4789-af47-749c54d4e377.png",
+       "title": "Sangeet Decoration Ideas in 2026",
+       "slug": "sangeet-decoration-ideas-for-weddings-in-india"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/saree-designs-for-weddings-in-2026/uploads/11f84160-c04b-4f31-9451-f4544ced7e2d.png",
+       "title": "Latest Saree Designs for Weddings in 2026",
+       "slug": "saree-designs-for-weddings-in-2026"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/auspicious-hindu-wedding-dates-in-july/uploads/de9ff940-3168-4667-967b-81160dbec7cc.png",
+       "title": "Auspicious Dates for Marriage in July 2027",
+       "slug": "auspicious-hindu-wedding-dates-in-july"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/auspicious-hindu-wedding-dates-in-june/uploads/ac97aa81-e967-4fd7-81c4-2e83bd0e55e3.png",
+       "title": "Auspicious Dates for Marriage in June 2027",
+       "slug": "auspicious-hindu-wedding-dates-in-june"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/auspicious-hindu-wedding-dates-in-april/uploads/34259d87-513d-4115-918e-0878e6b8334a.png",
+       "title": "Auspicious Dates for Marriage in April 2027",
+       "slug": "auspicious-hindu-wedding-dates-in-april"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/auspicious-hindu-wedding-dates-in-december/uploads/69851f26-d7b7-494d-a9a7-1687a775af27.jpg",
+       "title": "Auspicious Dates for Marriage in December 2026",
+       "slug": "auspicious-hindu-wedding-dates-in-december"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/auspicious-hindu-wedding-dates-in-november/uploads/230e6eec-5f17-480a-81b8-1a072e35830e.jpg",
+       "title": "Auspicious Dates for Marriage in November 2026",
+       "slug": "auspicious-hindu-wedding-dates-in-november"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/mandap-decoration-for-weddings/uploads/85840d3b-a0ca-4c97-8e7b-908ff8cd624b.png",
+       "title": "Best Mandap Decoration Ideas in 2026",
+       "slug": "mandap-decoration-for-weddings"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/south-indian-wedding-rituals/uploads/0f76badb-f13b-4c8a-95c5-ba4e24904c40.png",
+       "title": "South Indian Wedding Rituals - Complete Guide",
+       "slug": "south-indian-wedding-rituals"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/auspicious-hindu-wedding-dates-in-march/uploads/f6e87aad-70a8-4481-a614-cc7a0dd75eb4.png",
+       "title": "Auspicious Dates for Marriage in March 2027",
+       "slug": "auspicious-hindu-wedding-dates-in-march"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/auspicious-hindu-wedding-dates-for-february/uploads/d9210c60-cdde-48ad-822d-d25f2f67a58c.png",
+       "title": "Auspicious Dates for Marriage in February 2027",
+       "slug": "auspicious-hindu-wedding-dates-for-february"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/auspicious-hindu-wedding-dates-for-january/uploads/849991a4-c9a0-4047-b1f5-4109f40b3c66.png",
+       "title": "Auspicious Dates for Marriage in January 2027",
+       "slug": "auspicious-hindu-wedding-dates-for-january"
+      },
+      {
+       "coverImage": "https://gcpimages.theweddingcompany.com/weddings/blogs/auspicious-hindu-wedding-dates-in-may/uploads/2f0b976f-8b4b-4d6a-bc36-511a5394b0c2.png",
+       "title": "Auspicious Dates for Marriage in May 2027",
+       "slug": "auspicious-hindu-wedding-dates-in-may"
+      },
+      {
+       "coverImage": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/blogs/destination-wedding-in-jaipur/uploads/5f8abd2a-a8e8-4198-b03a-3116a9b2881c.webp",
+       "title": "Best Destination Wedding in Jaipur | Venues, Planning & Costs",
+       "slug": "destination-wedding-in-jaipur"
+      }
+     ],
+     "nextPageUrl": "https://weddingapi.betterhalf.ai/v1/blogs/?limit=18&page=2"
+    }
+   },
+   "__N_SSG": true
+  },
+  "page": "/wedding",
+  "query": {},
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "gsp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/61dbd837b13489b4.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-ideas",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues",
+  "/wedding/auspicious-hindu-wedding-dates-for-february",
+  "/wedding/auspicious-hindu-wedding-dates-for-january",
+  "/wedding/auspicious-hindu-wedding-dates-in-april",
+  "/wedding/auspicious-hindu-wedding-dates-in-december",
+  "/wedding/auspicious-hindu-wedding-dates-in-july",
+  "/wedding/auspicious-hindu-wedding-dates-in-june",
+  "/wedding/auspicious-hindu-wedding-dates-in-march",
+  "/wedding/auspicious-hindu-wedding-dates-in-may",
+  "/wedding/auspicious-hindu-wedding-dates-in-november",
+  "/wedding/destination-wedding-in-goa",
+  "/wedding/destination-wedding-in-jaipur",
+  "/wedding/destination-wedding-in-jim-corbett",
+  "/wedding/destination-wedding-in-lonavala",
+  "/wedding/destination-wedding-in-udaipur",
+  "/wedding/mandap-decoration-for-weddings",
+  "/wedding/sangeet-decoration-ideas-for-weddings-in-india",
+  "/wedding/saree-designs-for-weddings-in-2026",
+  "/wedding/south-indian-wedding-rituals"
+ ],
+ "external_img_domains": [
+  "https://gcpimages.theweddingcompany.com",
+  "https://imageswedding.theweddingcompany.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 10525,
+ "bytes": 58969,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><title>Wedding Blogs | The Wedding Company</title><meta property=\"og:title\" content=\"Wedding Blogs | The Wedding Company\"/><meta name=\"twitter:title\" content=\"Wedding Blogs | The Wedding Company\"/><meta name=\"robots\" content=\"index, follow\"/><meta name=\"description\" content=\"The Wedding Company provides top wedding blogs and inspiration to help you plan your dream wedding. From unique ideas to expert advice, our blog covers eve"
+}

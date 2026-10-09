@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Vantara Weddings">
+  <title>Vantara Weddings</title>
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0" stop-color="#FBEFC0"/>
+      <stop offset="0.22" stop-color="#D9B45B"/>
+      <stop offset="0.45" stop-color="#F6E3A0"/>
+      <stop offset="0.68" stop-color="#C79A34"/>
+      <stop offset="0.85" stop-color="#EFD68B"/>
+      <stop offset="1" stop-color="#C79A34"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141A26"/>
+      <stop offset="0.5" stop-color="#0F131C"/>
+      <stop offset="1" stop-color="#171E2C"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="52%" r="58%">
+      <stop offset="0" stop-color="#D9B45B" stop-opacity="0.16"/>
+      <stop offset="0.7" stop-color="#D9B45B" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#D9B45B" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.5 0" result="dim"/>
+      <feMerge>
+        <feMergeNode in="dim"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="520" fill="url(#bg)"/>
+  <rect width="1200" height="520" fill="url(#halo)"/>
+
+  <!-- Top ornament -->
+  <g fill="none" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round">
+    <path d="M 430 100 H 566"/>
+    <path d="M 634 100 H 770"/>
+  </g>
+  <path d="M 600 86 L 614 100 L 600 114 L 586 100 Z" fill="url(#gold)"/>
+
+  <!-- Script wordmark -->
+  <text x="600" y="290" text-anchor="middle"
+        font-family="'Snell Roundhand','Segoe Script','Brush Script MT','Lucida Handwriting','Apple Chancery','Coronet script',cursive"
+        font-size="170" font-style="italic" fill="url(#gold)" filter="url(#glow)">Vantara</text>
+
+  <!-- Flourish divider -->
+  <g fill="none" stroke="url(#gold)" stroke-width="2.2" stroke-linecap="round">
+    <path d="M 586 352 C 520 354 462 346 408 322"/>
+    <path d="M 614 352 C 680 354 738 346 792 322"/>
+  </g>
+  <path d="M 600 341 L 611 352 L 600 363 L 589 352 Z" fill="url(#gold)"/>
+
+  <!-- Subline -->
+  <g fill="none" stroke="url(#gold)" stroke-width="1.2" stroke-linecap="round" opacity="0.85">
+    <path d="M 300 426 H 382"/>
+    <path d="M 818 426 H 900"/>
+  </g>
+  <text x="609" y="440" text-anchor="middle"
+        font-family="'Didot','Bodoni MT','GFS Didot','Georgia','Times New Roman',serif"
+        font-size="44" letter-spacing="19" fill="#F0E3B6">WEDDINGS</text>
+</svg>

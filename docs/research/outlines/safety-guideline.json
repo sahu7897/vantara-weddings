@@ -1,0 +1,42 @@
+{
+ "url": "https://www.theweddingcompany.com/safety-guideline",
+ "status_title": "Community Guidelines",
+ "meta_description": null,
+ "canonical": null,
+ "h1": [
+  "Safety Guidelines",
+  "Safeguard your information",
+  "Continue conversations on the App",
+  "Never Send Money or Share Financial Information",
+  "Take your time",
+  "Meet in Public",
+  "If You Feel Uncomfortable, Leave"
+ ],
+ "h2": [
+  "Online Safety",
+  "Meeting in Person"
+ ],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [],
+ "has_header_nav": false,
+ "has_footer": false,
+ "forms": 0,
+ "inputs": 0,
+ "buttons": 0,
+ "json_ld": 0,
+ "nprogress": false,
+ "stylesheets": [],
+ "page_scripts": [],
+ "next_data": null,
+ "internal_links": [],
+ "external_img_domains": [
+  "https://ajax.googleapis.com",
+  "https://cdn.prod.website-files.com",
+  "https://d3e54v103j8qbb.cloudfront.net",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 3545,
+ "bytes": 7797,
+ "head_first_600": "<!DOCTYPE html><!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Wed Aug 26 2026 12:13:11 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain=\"wf.betterhalf.ai\" data-wf-page=\"65859a68cb68c669ca8efc84\" data-wf-site=\"60222e72b5a2043efe117253\"><head><meta charset=\"utf-8\"/><link href=\"https://cdn.prod.website-files.com\" rel=\"preconnect\" crossorigin=\"anonymous\"/><title>Community Guidelines</title><meta content=\"Community Guidelines\" property=\"og:title\"/><meta content=\"https://cdn.prod.website-files.com/60222e72b5a2043efe117253/62288e648046ef0fcfc98e07_Defa"
+}

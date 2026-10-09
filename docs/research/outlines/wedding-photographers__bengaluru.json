@@ -1,0 +1,2609 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-photographers/bengaluru",
+ "status_title": "Top 20 Best Wedding Photographers in Bangalore",
+ "meta_description": "Wedding photographers in Bangalore. Check prices, portfolios, and reviews. Contact us for the best candid, pre-wedding photo shoot, and wedding videographers.",
+ "canonical": "https://www.theweddingcompany.com/wedding-photographers/bengaluru",
+ "h1": [
+  "Wedding Photographers in Bengaluru",
+  "Wedding Photographers in Bangalore"
+ ],
+ "h2": [
+  "Artsy Lens Photography",
+  "Frame Shastra",
+  "Fog Media",
+  "Pixel Chronicles Production",
+  "Nandushreyas_photography",
+  "Stories by RG",
+  "Wed24",
+  "The Ivory Note",
+  "Shoot Factory",
+  "Mangotree Photography",
+  "Royale Camera",
+  "Datta photography",
+  "Starline Photography",
+  "Artisan Photography",
+  "Dilip Photography &amp; Films",
+  "Lucians Stories",
+  "SHUTTER CLICKS",
+  "Cherish Photography",
+  "FotoMan Films",
+  "Click Me Photography",
+  "Athul photography",
+  "Photoflash",
+  "3Knots Photography",
+  "Anon Weddings",
+  "Find Wedding Photographers by Budget",
+  "Wedding Photography Services in Bangalore",
+  "Wedding Photography Prices in Bangalore",
+  "How to Choose the Best Wedding Photographer in Bangalore",
+  "How can I get the best deals on wedding photography and video shoot?",
+  "Trending Wedding Photography Styles in Bangalore (2026)",
+  "FAQs"
+ ],
+ "h3": [
+  "Top wedding photographers under 50K",
+  "Top wedding photographers between 50K and 2 lakhs",
+  "Luxury wedding photography services",
+  "Budget-Friendly Wedding Photographers",
+  "Cinematic storytelling",
+  "Documentary style",
+  "Royal palace themes",
+  "Minimalist candid",
+  "Pre-wedding destination shoots",
+  "How much does a wedding photographer in Bangalore charge?",
+  "What is included in a wedding photography package?",
+  "Do Bangalore photographers travel for weddings?",
+  "How much does a wedding photographer in Bangalore charge for a day?",
+  "What services do wedding photographers in Bangalore offer?",
+  "What are the latest wedding photography trends in Bangalore?",
+  "What’s the difference between candid and traditional photography?",
+  "How do I decide which wedding photographer to finalise?",
+  "Can I find wedding photographers in Bangalore near my locality?"
+ ],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "searchBar-wrapper",
+  "searchBar",
+  "search-icon",
+  "close-icon",
+  "venue-listing-card-carousel",
+  "about-details",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 0,
+ "inputs": 1,
+ "buttons": 3,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/c8c1bcda263ddb1a.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-photographers/%5BphotographyCity%5D-3a72db2f28fe34cb.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "initialVendorList": {
+     "size": 532,
+     "nextPageUrl": "https://weddingapi.betterhalf.ai/v1/photography/vendors/?citySlug=bengaluru&limit=24&page=2",
+     "results": [
+      {
+       "vendorId": "480f5a5e-8489-465d-9c4a-b7c8bca0b9e6",
+       "urlSlug": "artsy-lens-photography-mahatma-gandhi-road",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/9229f9cb-1977-48fd-bfa5-2e118205d7b0.png",
+         "mimeType": "image/png",
+         "mediaId": "9229f9cb-1977-48fd-bfa5-2e118205d7b0"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/53b9fc12-e4ea-42e6-b34e-910fc36cf30f.png",
+         "mimeType": "image/png",
+         "mediaId": "53b9fc12-e4ea-42e6-b34e-910fc36cf30f"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/cfb23720-5682-410f-9462-3e9413df608a.png",
+         "mimeType": "image/png",
+         "mediaId": "cfb23720-5682-410f-9462-3e9413df608a"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/97fc4261-eb54-45ac-9741-6e76662749a2.png",
+         "mimeType": "image/png",
+         "mediaId": "97fc4261-eb54-45ac-9741-6e76662749a2"
+        }
+       ],
+       "venueName": "Artsy Lens Photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 4,
+         "minValue": 2
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "High profile Building, , 1/A, Mahatma Gandhi Road, Church St, Bengaluru, Karnataka, 560001, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Mahatma Gandhi Road, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "Budget Friendly",
+        "Bestseller",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.6072447,
+        12.9740205
+       ]
+      },
+      {
+       "vendorId": "e9b21be3-6b8b-47f4-8a07-c27ecf81d68a",
+       "urlSlug": "frame-shastra-krishnarajapura",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/admin_uploads/d0a8633e-48cf-482e-aa01-f68079f1169f.webp",
+         "mimeType": "image/webp",
+         "mediaId": "d0a8633e-48cf-482e-aa01-f68079f1169f"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/admin_uploads/818423a9-c75a-47a1-a7e4-4d41e5ea032d.webp",
+         "mimeType": "image/webp",
+         "alt": "",
+         "mediaId": "818423a9-c75a-47a1-a7e4-4d41e5ea032d"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/admin_uploads/ee6b561f-c3e6-4abb-86c9-9e9a4c354555.webp",
+         "mimeType": "image/webp",
+         "mediaId": "ee6b561f-c3e6-4abb-86c9-9e9a4c354555"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/admin_uploads/413eac7b-e7e7-4373-97cf-88b9c046bd11.webp",
+         "mimeType": "image/webp",
+         "mediaId": "413eac7b-e7e7-4373-97cf-88b9c046bd11"
+        }
+       ],
+       "venueName": "Frame Shastra",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 10,
+         "minValue": 8
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "Anand S No. 10 Preeless Colony, near Garden City College, Bhattarahalli, 560049, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Krishnarajapura, Bengaluru",
+       "userRating": 4.7,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 3,
+       "coordinates": [
+        77.70778399999999,
+        13.0243481
+       ]
+      },
+      {
+       "vendorId": "d0bd1c0b-646d-4d06-a93b-e15e6cde9c8a",
+       "urlSlug": "fog-media-koramangala",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/d0bd1c0b-646d-4d06-a93b-e15e6cde9c8a/admin_uploads/a2c2896a-f018-49e0-957b-193ac74615a2.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "a2c2896a-f018-49e0-957b-193ac74615a2"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/d0bd1c0b-646d-4d06-a93b-e15e6cde9c8a/admin_uploads/73d6ec6d-470f-4d81-a37f-29e8a6398c61.webp",
+         "mimeType": "image/webp",
+         "mediaId": "73d6ec6d-470f-4d81-a37f-29e8a6398c61"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/d0bd1c0b-646d-4d06-a93b-e15e6cde9c8a/admin_uploads/3ce9cf86-72a6-4851-9fc8-7f0f154c1ba3.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "3ce9cf86-72a6-4851-9fc8-7f0f154c1ba3"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/d0bd1c0b-646d-4d06-a93b-e15e6cde9c8a/admin_uploads/1bc661d9-014c-445b-bccc-6e14a42bca7e.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "1bc661d9-014c-445b-bccc-6e14a42bca7e"
+        }
+       ],
+       "venueName": "Fog Media",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 8,
+         "minValue": 6
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "4th Block, 109, 4th A Cross Road, Koramangala 4th Block, 560034, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Koramangala, Bengaluru",
+       "userRating": 4,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "Premium",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 3,
+       "coordinates": [
+        77.6299298,
+        12.9321728
+       ]
+      },
+      {
+       "vendorId": "e82353ef-9077-4c75-8a7e-9a32714c59eb",
+       "urlSlug": "pixel-chronicles-production-lake-park",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e82353ef-9077-4c75-8a7e-9a32714c59eb/admin_uploads/11e42d27-2a7c-4b31-bdd7-f1c7014ff273.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "11e42d27-2a7c-4b31-bdd7-f1c7014ff273"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e82353ef-9077-4c75-8a7e-9a32714c59eb/admin_uploads/6feaa4c0-c37a-4bca-8661-5ebb956b21cc.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "6feaa4c0-c37a-4bca-8661-5ebb956b21cc"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e82353ef-9077-4c75-8a7e-9a32714c59eb/admin_uploads/51f63f4e-f65c-49c1-8258-6f45fb25125b.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "51f63f4e-f65c-49c1-8258-6f45fb25125b"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e82353ef-9077-4c75-8a7e-9a32714c59eb/admin_uploads/88502113-16cd-44a4-a8a9-e3b2864779f5.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "88502113-16cd-44a4-a8a9-e3b2864779f5"
+        }
+       ],
+       "venueName": "Pixel Chronicles Production",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 6,
+         "minValue": 4
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "House No : 225/10 23rd Cross, 6th Block Jayanagar, near Yediyur, 560082, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Lake Park, Bengaluru",
+       "userRating": 4.9,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "Budget Friendly",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 43,
+       "coordinates": [
+        77.5784832,
+        12.9326826
+       ]
+      },
+      {
+       "vendorId": "e0eea340-e168-4db0-9d9d-2213dc2aaaa6",
+       "urlSlug": "nandushreyas_photography-hsr-layout",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e0eea340-e168-4db0-9d9d-2213dc2aaaa6/admin_uploads/6e891f41-28b9-42b5-9bc5-3dda20e6bfee.webp",
+         "mimeType": "image/webp",
+         "mediaId": "6e891f41-28b9-42b5-9bc5-3dda20e6bfee"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e0eea340-e168-4db0-9d9d-2213dc2aaaa6/admin_uploads/476b1ab9-1ba3-4e2e-8eca-3a612a9916e6.webp",
+         "mimeType": "image/webp",
+         "mediaId": "476b1ab9-1ba3-4e2e-8eca-3a612a9916e6"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e0eea340-e168-4db0-9d9d-2213dc2aaaa6/admin_uploads/dc603c29-1325-47f6-860f-1a542d361a04.webp",
+         "mimeType": "image/webp",
+         "mediaId": "dc603c29-1325-47f6-860f-1a542d361a04"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/e0eea340-e168-4db0-9d9d-2213dc2aaaa6/admin_uploads/2cebff88-fdd0-42e8-a80b-52587127356e.webp",
+         "mimeType": "image/webp",
+         "mediaId": "2cebff88-fdd0-42e8-a80b-52587127356e"
+        }
+       ],
+       "venueName": "Nandushreyas_photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 10,
+         "minValue": 8
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "206, 20th Cross Road, PWD QuartersSector 2, 560102, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Hsr Layout, Bengaluru",
+       "userRating": 4.9,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 63,
+       "coordinates": [
+        77.65299859999999,
+        12.9090197
+       ]
+      },
+      {
+       "vendorId": "ad5e45de-0e2f-491a-bc96-58ea8294ffa8",
+       "urlSlug": "stories-by-rg-rajarajeshwari-nagar",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ad5e45de-0e2f-491a-bc96-58ea8294ffa8/admin_uploads/4f75c52e-005b-4e1d-b765-fa02717d4649.webp",
+         "mimeType": "image/webp",
+         "mediaId": "4f75c52e-005b-4e1d-b765-fa02717d4649"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ad5e45de-0e2f-491a-bc96-58ea8294ffa8/admin_uploads/79f1acfc-1a2d-4972-926d-424d3aa0fd74.webp",
+         "mimeType": "image/webp",
+         "mediaId": "79f1acfc-1a2d-4972-926d-424d3aa0fd74"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ad5e45de-0e2f-491a-bc96-58ea8294ffa8/admin_uploads/10c42f60-bdae-42b7-9460-25f5df8382ed.webp",
+         "mimeType": "image/webp",
+         "mediaId": "10c42f60-bdae-42b7-9460-25f5df8382ed"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ad5e45de-0e2f-491a-bc96-58ea8294ffa8/admin_uploads/d881a5a8-4625-422c-be7b-43308d8efc8b.webp",
+         "mimeType": "image/webp",
+         "mediaId": "d881a5a8-4625-422c-be7b-43308d8efc8b"
+        }
+       ],
+       "venueName": "Stories by RG",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 10,
+         "minValue": 8
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "268,, 9th Main Road, Remco Bhel Layout, Ideal Homes Township, 560098, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Rajarajeshwari Nagar, Bengaluru",
+       "userRating": 4.8,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 26,
+       "coordinates": [
+        77.5180792,
+        12.9268793
+       ]
+      },
+      {
+       "vendorId": "ac7167b8-03d3-4a42-8283-600a1a1aab37",
+       "urlSlug": "wed24-poornapragna-housing-society-layout",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ac7167b8-03d3-4a42-8283-600a1a1aab37/admin_uploads/c09f86f3-2eb5-4be4-a2ea-aefe670da2c1.webp",
+         "mimeType": "image/webp",
+         "mediaId": "c09f86f3-2eb5-4be4-a2ea-aefe670da2c1"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ac7167b8-03d3-4a42-8283-600a1a1aab37/admin_uploads/f0bc82fc-0da2-45c7-8720-22e00d962c20.webp",
+         "mimeType": "image/webp",
+         "mediaId": "f0bc82fc-0da2-45c7-8720-22e00d962c20"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ac7167b8-03d3-4a42-8283-600a1a1aab37/admin_uploads/c47a3be2-89f0-42d8-ac6b-94912b75da8b.webp",
+         "mimeType": "image/webp",
+         "mediaId": "c47a3be2-89f0-42d8-ac6b-94912b75da8b"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ac7167b8-03d3-4a42-8283-600a1a1aab37/admin_uploads/2a443451-38e4-48ac-8aa3-b367c53a2a25.webp",
+         "mimeType": "image/webp",
+         "mediaId": "2a443451-38e4-48ac-8aa3-b367c53a2a25"
+        }
+       ],
+       "venueName": "Wed24",
+       "meta": {
+        "startsAt": 99999999,
+        "services": null,
+        "experience": {
+         "maxValue": 6,
+         "minValue": 4
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "92, Uttarahalli Main Rd, 92, Uttarahalli Main Rd, 560061, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Poornapragna Housing Society Layout, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 9,
+       "coordinates": [
+        77.5333242,
+        12.9080151
+       ]
+      },
+      {
+       "vendorId": "c7df0de0-e066-448f-ae73-a6b80e34cfee",
+       "urlSlug": "bgauss-electric-scooters-in-bangalore-2nd-block-hrbr-extension-kalyan-nagar",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c7df0de0-e066-448f-ae73-a6b80e34cfee/admin_uploads/5069020d-2fea-4ca2-b4e4-4ce40ba87802.webp",
+         "mimeType": "image/webp",
+         "mediaId": "5069020d-2fea-4ca2-b4e4-4ce40ba87802"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c7df0de0-e066-448f-ae73-a6b80e34cfee/admin_uploads/cdfb454f-06ce-4f89-ba75-e4c52762afa3.webp",
+         "mimeType": "image/webp",
+         "mediaId": "cdfb454f-06ce-4f89-ba75-e4c52762afa3"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c7df0de0-e066-448f-ae73-a6b80e34cfee/admin_uploads/81250418-c226-42d5-8dcb-4370200e120f.webp",
+         "mimeType": "image/webp",
+         "mediaId": "81250418-c226-42d5-8dcb-4370200e120f"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c7df0de0-e066-448f-ae73-a6b80e34cfee/admin_uploads/dcb0da01-7373-4bc4-86d2-5786d1448fc0.webp",
+         "mimeType": "image/webp",
+         "mediaId": "dcb0da01-7373-4bc4-86d2-5786d1448fc0"
+        }
+       ],
+       "venueName": "The Ivory Note",
+       "meta": {
+        "startsAt": 99999999,
+        "services": null,
+        "experience": {
+         "maxValue": 8,
+         "minValue": 6
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "5AC-709, Ground Floor,, 2nd Block, HRBR Extension, Kalyan Nagar, 560113, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "2nd Block, Hrbr Extension, Kalyan Nagar, Bengaluru",
+       "userRating": 4.3,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "Budget Friendly",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 240,
+       "coordinates": [
+        77.6440022,
+        13.0244096
+       ]
+      },
+      {
+       "vendorId": "2256551d-0861-40d8-93ba-17869e5206df",
+       "urlSlug": "shootfactory-building-priyanka-layout-rayasandra",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2256551d-0861-40d8-93ba-17869e5206df/admin_uploads/ffea994e-20b3-4b18-958a-072b165ee28e.webp",
+         "mimeType": "image/webp",
+         "mediaId": "ffea994e-20b3-4b18-958a-072b165ee28e"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2256551d-0861-40d8-93ba-17869e5206df/admin_uploads/b29e6625-08f6-4ce4-a599-cf8ac33daf8d.webp",
+         "mimeType": "image/webp",
+         "mediaId": "b29e6625-08f6-4ce4-a599-cf8ac33daf8d"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2256551d-0861-40d8-93ba-17869e5206df/admin_uploads/1bf59d70-080b-45d1-8c71-1ac2103aafa4.webp",
+         "mimeType": "image/webp",
+         "mediaId": "1bf59d70-080b-45d1-8c71-1ac2103aafa4"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2256551d-0861-40d8-93ba-17869e5206df/admin_uploads/b3ba09b1-c3d4-4346-b766-df2cd226f20e.webp",
+         "mimeType": "image/webp",
+         "mediaId": "b3ba09b1-c3d4-4346-b766-df2cd226f20e"
+        }
+       ],
+       "venueName": "Shoot Factory",
+       "meta": {
+        "startsAt": 99999999,
+        "services": null,
+        "experience": {
+         "maxValue": 10,
+         "minValue": 8
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "8th Floor,, Sipani Bliss, ECity\\, Bangalore, India, 560099, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Priyanka Layout, Rayasandra, Bengaluru",
+       "userRating": 4.2,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 5,
+       "coordinates": [
+        77.6746555,
+        12.8786017
+       ]
+      },
+      {
+       "vendorId": "800a659b-bf5b-4700-bcf4-c8a2d6d21b09",
+       "urlSlug": "mangotree-photography-indiranagar",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/800a659b-bf5b-4700-bcf4-c8a2d6d21b09/gmap/35543ce5-090d-4c18-97ea-fe6e29b16828_photography.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "4f1bf21d-7778-4403-adf8-1fcd333a8bf7"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/800a659b-bf5b-4700-bcf4-c8a2d6d21b09/gmap/f151e3d0-182f-450f-89b9-4ae310329761_photography.JPG",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "c78578ea-8aa5-48b1-a583-24440aa8f785"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/800a659b-bf5b-4700-bcf4-c8a2d6d21b09/gmap/790e572e-ba92-4f88-81c3-5121df913497_photography.JPG",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "57d2a17e-ba97-4eda-8aae-33fea52fdfd2"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/800a659b-bf5b-4700-bcf4-c8a2d6d21b09/gmap/a8372dcd-8b23-47b6-8f0e-7956c1c7f62c_photography.JPG",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "7414b272-d6c1-4f10-beb5-33c623ae5967"
+        }
+       ],
+       "venueName": "Mangotree Photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 8,
+         "minValue": 6
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "2208, 5th E Cross, 17th Main Rd, HAL 2nd Stage, Indiranagar,, 17th Main Road, HAL 2nd Stage, 560008, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Indiranagar, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 60,
+       "coordinates": [
+        77.64555059999999,
+        12.9629514
+       ]
+      },
+      {
+       "vendorId": "48cba707-c708-4c62-b8cf-0ca63b12e0ce",
+       "urlSlug": "royale-camera-vijaya-bank-layout",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/48cba707-c708-4c62-b8cf-0ca63b12e0ce/admin_uploads/09a85284-eeee-45a7-8268-1c21c5da0968.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "09a85284-eeee-45a7-8268-1c21c5da0968"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/48cba707-c708-4c62-b8cf-0ca63b12e0ce/admin_uploads/b7294942-6d39-41ff-828b-11e88db5f94b.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "b7294942-6d39-41ff-828b-11e88db5f94b"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/48cba707-c708-4c62-b8cf-0ca63b12e0ce/admin_uploads/b6054bc5-52ee-469b-b37c-8325cbf2bd12.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "b6054bc5-52ee-469b-b37c-8325cbf2bd12"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/48cba707-c708-4c62-b8cf-0ca63b12e0ce/admin_uploads/a3f7f374-a171-4502-85bd-56ad1c884b69.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "a3f7f374-a171-4502-85bd-56ad1c884b69"
+        }
+       ],
+       "venueName": "Royale Camera",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 8,
+         "minValue": 6
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "No 929/A, VTN Arcade, 2nd floor, Above Union Bank, BTM 4th Stage, near Bangalore Box, 560076, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Vijaya Bank Layout, Bengaluru",
+       "userRating": 4.9,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 1169,
+       "coordinates": [
+        77.611724,
+        12.8926057
+       ]
+      },
+      {
+       "vendorId": "14c30b59-a6f9-438e-92dc-4dfd15fe3d68",
+       "urlSlug": "datta-photography-reliable-tranquil-layout",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/fastwed/a2f39b22-4bc6-4951-b5e7-30362b921461/portfolio/d7bde285-0d6c-4528-9d84-af5d5d6430ec",
+         "mimeType": "image/jpg",
+         "mediaId": "d7bde285-0d6c-4528-9d84-af5d5d6430ec"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/fastwed/a2f39b22-4bc6-4951-b5e7-30362b921461/portfolio/eec6a087-cad3-41e1-8d4c-0ff2b60a34e9",
+         "mimeType": "image/jpg",
+         "mediaId": "eec6a087-cad3-41e1-8d4c-0ff2b60a34e9"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/fastwed/a2f39b22-4bc6-4951-b5e7-30362b921461/portfolio/b3b236f6-2bbb-4f85-ac48-3d3eeeadd280",
+         "mimeType": "image/jpg",
+         "mediaId": "b3b236f6-2bbb-4f85-ac48-3d3eeeadd280"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/fastwed/a2f39b22-4bc6-4951-b5e7-30362b921461/portfolio/d0203adb-e8eb-4308-a191-93513c328c0b",
+         "mimeType": "image/jpg",
+         "mediaId": "d0203adb-e8eb-4308-a191-93513c328c0b"
+        }
+       ],
+       "venueName": "Datta photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": null,
+        "experience": null,
+        "areasAvailable": null
+       },
+       "formattedAddress": "Sai Poorna Luxuria, Haralur Main Rd, Reliable Tranquil Layout, Bengaluru, Karnataka 560068, India",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Reliable Tranquil Layout, Bengaluru",
+       "userRating": 4.1,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.65299259999999,
+        12.8947795
+       ]
+      },
+      {
+       "vendorId": "1f3f3c11-36aa-4b32-8db5-7abde17306ae",
+       "urlSlug": "starline-photography-kg-layout-prashanth-nagar-t-dasarahalli",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1f3f3c11-36aa-4b32-8db5-7abde17306ae/admin_uploads/25053e6d-500c-4b2f-884d-a7da6b043bbf.webp",
+         "mimeType": "image/webp",
+         "mediaId": "25053e6d-500c-4b2f-884d-a7da6b043bbf"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1f3f3c11-36aa-4b32-8db5-7abde17306ae/admin_uploads/274783c6-689e-4ea6-a448-bba90960f715.webp",
+         "mimeType": "image/webp",
+         "mediaId": "274783c6-689e-4ea6-a448-bba90960f715"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1f3f3c11-36aa-4b32-8db5-7abde17306ae/admin_uploads/1350d7a7-772c-463a-a0c7-73de893055df.webp",
+         "mimeType": "image/webp",
+         "mediaId": "1350d7a7-772c-463a-a0c7-73de893055df"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1f3f3c11-36aa-4b32-8db5-7abde17306ae/admin_uploads/fa49d2f5-01b9-4041-894d-fc4dd8f3b128.webp",
+         "mimeType": "image/webp",
+         "mediaId": "fa49d2f5-01b9-4041-894d-fc4dd8f3b128"
+        }
+       ],
+       "venueName": "Starline Photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": null,
+        "experience": {
+         "maxValue": 10,
+         "minValue": 8
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "1st Cross Rd, 1st Cross Rd, 560057, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Kg Layout, Prashanth Nagar, T. Dasarahalli, Bengaluru",
+       "userRating": 4.5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 8,
+       "coordinates": [
+        77.5163279,
+        13.0438466
+       ]
+      },
+      {
+       "vendorId": "a28f2941-ffdf-44a8-8f20-f0e4f5fab62b",
+       "urlSlug": "artisan-photography-4th-block-koramangala",
+       "media": [],
+       "venueName": "Artisan Photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": null,
+        "experience": {
+         "maxValue": 10,
+         "minValue": 8
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "2nd floor, Balaji Arcade,, 472/7, 80 Feet Rd, 560034, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "4th Block, Koramangala, Bengaluru",
+       "userRating": 4,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 8,
+       "coordinates": [
+        77.6292474,
+        12.9344464
+       ]
+      },
+      {
+       "vendorId": "8863b71a-668c-47f2-b43e-ac009197ab8f",
+       "urlSlug": "dilip-photography-films-basavanagudi",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8863b71a-668c-47f2-b43e-ac009197ab8f/gmap/e529852a-3f0f-4f01-9dc2-a9054bd6532e_photography.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "43d15896-3d5c-4a85-99f0-11696c8aa7f4"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8863b71a-668c-47f2-b43e-ac009197ab8f/gmap/169f198f-2d2e-47fd-a147-2a7b2728b1bd_photography.JPG",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "a864c626-c16a-42c4-ac04-5e67cc2ab87d"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8863b71a-668c-47f2-b43e-ac009197ab8f/gmap/0aa3dca1-e3be-4743-a404-c101237c107d_photography.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "bb77a80a-9aab-42d5-a4b3-cd3ea782404f"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8863b71a-668c-47f2-b43e-ac009197ab8f/gmap/6f74a4bb-ce1a-4941-9b8f-f5bffa01a39a_photography.JPG",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "68ea259c-ed7f-448e-941d-f624d67367e1"
+        }
+       ],
+       "venueName": "Dilip Photography & Films",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 10,
+         "minValue": 8
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "2nd floor, Office, Pamadi Chambers, 9, DV Gundappa Road, 560004, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Basavanagudi, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "Budget Friendly",
+        "TWC’s choice"
+       ],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": 161,
+       "coordinates": [
+        77.5711111,
+        12.9420587
+       ]
+      },
+      {
+       "vendorId": "5a56b4b4-97c3-4a4b-8eff-20a0bdc394ed",
+       "urlSlug": "lucians-stories-koramangala-8th-block-koramangala",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/5a56b4b4-97c3-4a4b-8eff-20a0bdc394ed/admin_uploads/b8713154-e27d-42fc-a30f-d64f19bb05fe.webp",
+         "mimeType": "image/webp",
+         "mediaId": "b8713154-e27d-42fc-a30f-d64f19bb05fe"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/5a56b4b4-97c3-4a4b-8eff-20a0bdc394ed/admin_uploads/8c62947d-6d36-40ea-a439-a83eafbe186c.webp",
+         "mimeType": "image/webp",
+         "mediaId": "8c62947d-6d36-40ea-a439-a83eafbe186c"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/5a56b4b4-97c3-4a4b-8eff-20a0bdc394ed/admin_uploads/38822e19-0827-485f-929d-bebd4fcbd8bf.webp",
+         "mimeType": "image/webp",
+         "mediaId": "38822e19-0827-485f-929d-bebd4fcbd8bf"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/5a56b4b4-97c3-4a4b-8eff-20a0bdc394ed/admin_uploads/a30de90f-a386-4984-af0b-0625f0a953d8.webp",
+         "mimeType": "image/webp",
+         "mediaId": "a30de90f-a386-4984-af0b-0625f0a953d8"
+        }
+       ],
+       "venueName": "Lucians Stories",
+       "meta": {
+        "startsAt": 99999999,
+        "services": null,
+        "experience": {
+         "maxValue": 6,
+         "minValue": 4
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "8th,, Block, 24, 1st Main Rd, 560095, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Koramangala 8th Block, Koramangala, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": 22,
+       "coordinates": [
+        77.6186737,
+        12.9411767
+       ]
+      },
+      {
+       "vendorId": "4ecbaa3d-f284-4320-b088-73177dcad9a3",
+       "urlSlug": "balarajs-arcade-brooke-bond-first-cross-sathya-sai-layout-whitefield",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4ecbaa3d-f284-4320-b088-73177dcad9a3/admin_uploads/91b18f32-57a9-4f5a-acd6-70aff3eddeaa.webp",
+         "mimeType": "image/webp",
+         "mediaId": "91b18f32-57a9-4f5a-acd6-70aff3eddeaa"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4ecbaa3d-f284-4320-b088-73177dcad9a3/admin_uploads/f3320da5-4c12-4c35-b6be-ee2be776170b.webp",
+         "mimeType": "image/webp",
+         "mediaId": "f3320da5-4c12-4c35-b6be-ee2be776170b"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4ecbaa3d-f284-4320-b088-73177dcad9a3/admin_uploads/fce10b06-0571-4cd3-bfc2-cc60da1630fd.webp",
+         "mimeType": "image/webp",
+         "mediaId": "fce10b06-0571-4cd3-bfc2-cc60da1630fd"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4ecbaa3d-f284-4320-b088-73177dcad9a3/admin_uploads/9d21c322-45cb-4553-8610-20752a82614e.webp",
+         "mimeType": "image/webp",
+         "mediaId": "9d21c322-45cb-4553-8610-20752a82614e"
+        }
+       ],
+       "venueName": "SHUTTER CLICKS",
+       "meta": {
+        "startsAt": 99999999,
+        "services": null,
+        "experience": {
+         "maxValue": 15,
+         "minValue": 10
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "14/3A, -560066,, 62, SH 35, 560066, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Brooke Bond First Cross, Sathya Sai Layout, Whitefield, Bengaluru",
+       "userRating": 4.3,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [
+        "Budget Friendly",
+        "TWC’s choice"
+       ],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": 20,
+       "coordinates": [
+        77.7479805,
+        12.9621277
+       ]
+      },
+      {
+       "vendorId": "b056490b-2ddd-45a3-8b83-c3211e0f33c7",
+       "urlSlug": "cherish-photography-madiwala",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b056490b-2ddd-45a3-8b83-c3211e0f33c7/admin_uploads/e6c98c18-5cba-42af-9d62-f1c376fa24de.png",
+         "mimeType": "image/png",
+         "mediaId": "e6c98c18-5cba-42af-9d62-f1c376fa24de"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b056490b-2ddd-45a3-8b83-c3211e0f33c7/admin_uploads/dca04bff-09b7-4748-a80f-6dffa5c0fc9d.png",
+         "mimeType": "image/png",
+         "mediaId": "dca04bff-09b7-4748-a80f-6dffa5c0fc9d"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b056490b-2ddd-45a3-8b83-c3211e0f33c7/admin_uploads/2a4563be-34f3-47c3-888f-1b64d6c24fd9.png",
+         "mimeType": "image/png",
+         "mediaId": "2a4563be-34f3-47c3-888f-1b64d6c24fd9"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b056490b-2ddd-45a3-8b83-c3211e0f33c7/admin_uploads/a7704017-3bcf-4168-a9f8-08b5693403b7.png",
+         "mimeType": "image/png",
+         "mediaId": "a7704017-3bcf-4168-a9f8-08b5693403b7"
+        }
+       ],
+       "venueName": "Cherish Photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 6,
+         "minValue": 4
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "3/4, Third Floor, Maruti Towers, , Hosur Main Road, Madiwala, 1st Stage, BTM layout, 560068, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Madiwala, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": 29,
+       "coordinates": [
+        77.60093549999999,
+        13.0568187
+       ]
+      },
+      {
+       "vendorId": "2dc06b96-7279-47b6-b4a6-397d81dfd50f",
+       "urlSlug": "fotoman-films-shivaji-nagar",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2dc06b96-7279-47b6-b4a6-397d81dfd50f/admin_uploads/e92e7bc7-b22d-4275-9539-ca38399f6d75.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "e92e7bc7-b22d-4275-9539-ca38399f6d75"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2dc06b96-7279-47b6-b4a6-397d81dfd50f/admin_uploads/c83a6242-84dc-4467-a929-a51b2c3919d7.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "c83a6242-84dc-4467-a929-a51b2c3919d7"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2dc06b96-7279-47b6-b4a6-397d81dfd50f/admin_uploads/cdc21ea3-3a62-4fcc-b5e5-420520010661.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "cdc21ea3-3a62-4fcc-b5e5-420520010661"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/2dc06b96-7279-47b6-b4a6-397d81dfd50f/admin_uploads/936a3653-2c5e-461b-9d7c-fb35521278f7.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "936a3653-2c5e-461b-9d7c-fb35521278f7"
+        }
+       ],
+       "venueName": "FotoMan Films",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 4,
+         "minValue": 2
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "CENTRAL, Residency Road,, Ashok Nagar, 110045, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Shivaji Nagar, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.607725,
+        12.9736529
+       ]
+      },
+      {
+       "vendorId": "15bbbdc0-bd42-45c8-bc59-1ce7d9753294",
+       "urlSlug": "click-me-photography-marathahalli",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/15bbbdc0-bd42-45c8-bc59-1ce7d9753294/admin_uploads/7f0d45fd-9320-4274-9ed5-1198fd37f3e9.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "7f0d45fd-9320-4274-9ed5-1198fd37f3e9"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/15bbbdc0-bd42-45c8-bc59-1ce7d9753294/admin_uploads/a6cbccf3-ccc6-4d42-8453-695ebd6e986f.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "a6cbccf3-ccc6-4d42-8453-695ebd6e986f"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/15bbbdc0-bd42-45c8-bc59-1ce7d9753294/admin_uploads/c97aa000-725f-49c7-ad05-ccc0496676e8.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "c97aa000-725f-49c7-ad05-ccc0496676e8"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/15bbbdc0-bd42-45c8-bc59-1ce7d9753294/admin_uploads/49f575ea-a654-4942-91df-b37f1adaf604.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "49f575ea-a654-4942-91df-b37f1adaf604"
+        }
+       ],
+       "venueName": "Click Me Photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 6,
+         "minValue": 4
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "F-3, Sri Vari Nilayam, 9th Cross Road,, Silver Springs Layout, Munnekollal, 560037, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Marathahalli, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.5101074,
+        12.9794322
+       ]
+      },
+      {
+       "vendorId": "05a25793-56b2-44f6-a5e0-1ddb5b001a18",
+       "urlSlug": "athul-photography-hsr-layout-YT8",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/05a25793-56b2-44f6-a5e0-1ddb5b001a18/admin_uploads/d50cac4e-362d-4969-8772-4839cfbdd4b6.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "d50cac4e-362d-4969-8772-4839cfbdd4b6"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/05a25793-56b2-44f6-a5e0-1ddb5b001a18/admin_uploads/8b4649ec-6b37-4b95-8d7e-a3d70f95b176.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "8b4649ec-6b37-4b95-8d7e-a3d70f95b176"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/05a25793-56b2-44f6-a5e0-1ddb5b001a18/admin_uploads/3982fecf-6a23-4f1e-badc-95292df5cdf8.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "3982fecf-6a23-4f1e-badc-95292df5cdf8"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/05a25793-56b2-44f6-a5e0-1ddb5b001a18/admin_uploads/ac9cec6d-df00-48da-88c6-fc5ea4b60367.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "ac9cec6d-df00-48da-88c6-fc5ea4b60367"
+        }
+       ],
+       "venueName": "Athul photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 6,
+         "minValue": 4
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "17,Ground floor,24th main road,Sector 2, HSR layout,,, HSR layout,,, 560102, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Hsr Layout, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.74926730000001,
+        12.964581
+       ]
+      },
+      {
+       "vendorId": "b6661f30-4302-40f6-a4c5-a95e28bccd66",
+       "urlSlug": "photoflash-banashankari",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b6661f30-4302-40f6-a4c5-a95e28bccd66/admin_uploads/5eb7dfa8-446a-4716-9582-8bbc48cc7e31.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "5eb7dfa8-446a-4716-9582-8bbc48cc7e31"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b6661f30-4302-40f6-a4c5-a95e28bccd66/gmap/3131312a-0f4b-42fb-9496-fe3e7f39ff5d_photography.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "1c955ede-46dd-4410-9ffa-5ace30e0ec37"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b6661f30-4302-40f6-a4c5-a95e28bccd66/admin_uploads/262866f5-4801-46e8-82d1-9c4882506964.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "262866f5-4801-46e8-82d1-9c4882506964"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b6661f30-4302-40f6-a4c5-a95e28bccd66/admin_uploads/8d28ba45-06dc-457c-b52d-bed83f8b3504.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "8d28ba45-06dc-457c-b52d-bed83f8b3504"
+        }
+       ],
+       "venueName": "Photoflash",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 4,
+         "minValue": 2
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "1035/2, 15th Main Road, 1st Block, Hanumanthnagar, Banashankari 1st Stage, 560019, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Banashankari, Bengaluru",
+       "userRating": 4.7,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": 27,
+       "coordinates": [
+        77.557935,
+        12.9443906
+       ]
+      },
+      {
+       "vendorId": "7e9b787f-e9f3-4d10-bdbb-c5297f3a5b3f",
+       "urlSlug": "3knots-photography-ashok-nagar",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7e9b787f-e9f3-4d10-bdbb-c5297f3a5b3f/admin_uploads/4141a6d7-4703-495b-a473-df5f0f5bfd4c.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "4141a6d7-4703-495b-a473-df5f0f5bfd4c"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7e9b787f-e9f3-4d10-bdbb-c5297f3a5b3f/admin_uploads/07a0cead-1a8c-4548-82c5-164edff12380.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "07a0cead-1a8c-4548-82c5-164edff12380"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7e9b787f-e9f3-4d10-bdbb-c5297f3a5b3f/admin_uploads/bec405b7-c8c1-4940-99f7-275af5c2a4e9.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "bec405b7-c8c1-4940-99f7-275af5c2a4e9"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7e9b787f-e9f3-4d10-bdbb-c5297f3a5b3f/admin_uploads/2f11de5b-c1d5-4add-89bb-fcebeb3514a4.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "2f11de5b-c1d5-4add-89bb-fcebeb3514a4"
+        }
+       ],
+       "venueName": "3Knots Photography",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 2,
+         "minValue": 0
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "SG3, Manipal Centre, Mahatma Gandhi Road, 560025, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Ashok Nagar, Bengaluru",
+       "userRating": 4.4,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": 36,
+       "coordinates": [
+        77.6141126,
+        12.9745353
+       ]
+      },
+      {
+       "vendorId": "71174e9b-10eb-44d3-bfec-fc63ec9d2ca6",
+       "urlSlug": "anon-weddings-kalyan-nagar",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/71174e9b-10eb-44d3-bfec-fc63ec9d2ca6/admin_uploads/aaaa0035-7578-47e1-9a92-749bbd7d9e50.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "aaaa0035-7578-47e1-9a92-749bbd7d9e50"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/71174e9b-10eb-44d3-bfec-fc63ec9d2ca6/admin_uploads/d8d15cdc-df9b-4980-8efe-7d7a92e047f6.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "d8d15cdc-df9b-4980-8efe-7d7a92e047f6"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/71174e9b-10eb-44d3-bfec-fc63ec9d2ca6/admin_uploads/4a57788a-0598-4e9a-a808-5c9aeb1b0f7d.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "4a57788a-0598-4e9a-a808-5c9aeb1b0f7d"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/71174e9b-10eb-44d3-bfec-fc63ec9d2ca6/admin_uploads/280c45df-1f6b-4338-8b5d-b3a6700e8f01.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "280c45df-1f6b-4338-8b5d-b3a6700e8f01"
+        }
+       ],
+       "venueName": "Anon Weddings",
+       "meta": {
+        "startsAt": 99999999,
+        "services": {
+         "isPhotography": false,
+         "isVideography": false
+        },
+        "experience": {
+         "maxValue": 4,
+         "minValue": 2
+        },
+        "areasAvailable": null
+       },
+       "formattedAddress": "51, 1st Floor, Kamanahalli Church Road, near Gowdara Chinnapa Building, St Thomas Town, 560048, Bengaluru, Karnataka",
+       "city": "Bengaluru",
+       "citySlug": "bengaluru",
+       "shortAddress": "Kalyan Nagar, Bengaluru",
+       "userRating": 5,
+       "businessCategory": "PHOTOGRAPHY",
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": null,
+       "coordinates": [
+        77.638537,
+        13.0166718
+       ]
+      }
+     ]
+    },
+    "categorySEO": {
+     "head": {
+      "canonicalTag": {
+       "isSameAsChecked": true,
+       "value": "/wedding-photographers/bengaluru"
+      },
+      "metaDescription": {
+       "value": "Wedding photographers in Bangalore. Check prices, portfolios, and reviews. Contact us for the best candid, pre-wedding photo shoot, and wedding videographers."
+      },
+      "metaRobot": {
+       "value": "index, follow"
+      },
+      "title": {
+       "value": "Top 20 Best Wedding Photographers in Bangalore"
+      }
+     },
+     "openGraph": {
+      "description": {
+       "isSameAsChecked": true,
+       "value": "Wedding photographers in Bangalore. Check prices, portfolios, and reviews. Contact us for the best candid, pre-wedding photo shoot, and wedding videographers."
+      },
+      "image": {
+       "isSameAsChecked": true,
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/assets/Photography.jpg"
+      },
+      "title": {
+       "isSameAsChecked": true,
+       "value": "Top 20 Best Wedding Photographers in Bangalore"
+      },
+      "type": {
+       "value": "website"
+      },
+      "url": {
+       "isSameAsChecked": true,
+       "value": "/wedding-photographers/bengaluru"
+      }
+     },
+     "twitterCard": {
+      "card": {
+       "value": "summary_large_image"
+      },
+      "description": {
+       "isSameAsChecked": true,
+       "value": "Wedding photographers in Bangalore. Check prices, portfolios, and reviews. Contact us for the best candid, pre-wedding photo shoot, and wedding videographers."
+      },
+      "image": {
+       "isSameAsChecked": true,
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/assets/Photography.jpg"
+      },
+      "site": {
+       "value": "@TheWeddingCmpny"
+      },
+      "title": {
+       "isSameAsChecked": true,
+       "value": "Top 20 Best Wedding Photographers in Bangalore"
+      }
+     }
+    },
+    "categoryAbout": {
+     "results": {
+      "about": {
+       "ops": [
+        {
+         "insert": "Wedding Photographers in Bangalore"
+        },
+        {
+         "attributes": {
+          "header": 1
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Every wedding is a collection of precious yet fleeting moments, and the right photographer turns them into memories that last forever. Bangalore offers a diverse range of wedding photographers, from budget-friendly teams for intimate ceremonies to premium studios known for cinematic storytelling and stunning productions. Whether you are planning a small celebration or a multi-day wedding, you will find professionals who match your style, vision, and budget.\n\nWe at "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/"
+         },
+         "insert": "The Wedding Company"
+        },
+        {
+         "insert": " bring to you a handpicked list of worthwhile photographers in Bangalore that are masters of their craft. Take your pick based on the budget, styles, and vision you have in mind.\n\nFind Wedding Photographers by Budget"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n\n"
+        },
+        {
+         "insert": "Top wedding photographers under 50K"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "1."
+        },
+        {
+         "attributes": {
+          "bold": true,
+          "link": "https://www.theweddingcompany.com/wedding-photographers/bengaluru/artistic-pictures-production-jayanagar"
+         },
+         "insert": " Artistic Pictures Production"
+        },
+        {
+         "insert": "\nLocation: Jayanagar"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹20,000 (Photo Package) - 25,000 (Photo + Video)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 5/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Vivid Traditional & Heartfelt Candid"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "2. SpectraDreams Photography"
+        },
+        {
+         "insert": "\nLocation: Nagarabhavi"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹30,000 (Photo Package) - 45,000 (Photo + Video)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 5/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Dreamy Cinematics & Fine-Art Portraits"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "3. Dream Catcher Productions"
+        },
+        {
+         "insert": "\nLocation: Koramangala"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹25,000 (Photo Package) - 45,000 (Photo + Video)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 5/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Vibrant Storytelling & Fun-Natural Documentary"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nTop wedding photographers between 50K and 2 lakhs"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "1."
+        },
+        {
+         "attributes": {
+          "bold": true,
+          "link": "https://www.theweddingcompany.com/wedding-photographers/bengaluru/lightbucket-productions-j-p-nagar"
+         },
+         "insert": " Lightbucket Productions"
+        },
+        {
+         "insert": "\nLocation: JP Nagar"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹125,000  (Photo Package and Photo + Video)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 4.6/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: High-End Modern Documentary & Visual Grandeur"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "2. Creative Chisel"
+        },
+        {
+         "insert": "\nLocation: Jeevan Bima Nagar"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹24,000 (Photo Package) - 90,000 (Photo + Video)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 4.9/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Genuine Fine-Art & Unscripted Moments"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "3. Myriad Hues"
+        },
+        {
+         "insert": "\nLocation: HBR Layout\nPrice: ₹55,000 (Photo Package) - 120,000 (Photo + Video)\nRating: 4.8/5\nStyle: Artistic Fusion & Narrative-Driven Frames\n\nLuxury wedding photography services"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "1. The Camera Yogi Photography"
+        },
+        {
+         "insert": "\nLocation: Udayapura"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹380,000 (Photo Package) - 600,000 (Photo + Video)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 5/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Soulful Documentary & Emotional Focus"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "2. Oyster Studios"
+        },
+        {
+         "insert": "\nLocation: JP Nagar"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹300,000 (Photo Package) - 450,000 (Photo + Video)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 4.5/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Exquisite, Timeless & Off-beat Approach"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "3. House On The Clouds"
+        },
+        {
+         "insert": "\nLocation: Vijayanagar"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹135,000 (Photo Package) - 275,000 (Photo + Video)"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 4.6/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Global Editorial & Non-Linear Storytelling"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nBudget-Friendly Wedding Photographers"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "1."
+        },
+        {
+         "attributes": {
+          "bold": true,
+          "link": "https://www.theweddingcompany.com/wedding-photographers/bengaluru/trikona-studio-basaveshwar-nagar"
+         },
+         "insert": " Trikona Studio"
+        },
+        {
+         "insert": "\nLocation: Basaveshwar Nagar"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹17,000 - 20,000"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 4.8/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Trend-Aware & Creative Traditional"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "2. Connecting Clicks"
+        },
+        {
+         "insert": "\nLocation: Varthur"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹12,000 - 20,000"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 4.9/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Emotional Detail & Warm Candid"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n3."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-photographers/bengaluru/kava-photography-electronic-city"
+         },
+         "insert": " Kava Photography"
+        },
+        {
+         "insert": "\nLocation: Electronic City"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Price: ₹18,000"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Rating: 4.7/5"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Style: Detail-Focused & Authentic Moments"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWedding Photography Services in Bangalore"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Pre-Wedding Shoot"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Candid Photography"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Traditional Photography"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Wedding Videography"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Cinematic Wedding Film"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Drone Photography & Videography"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Bridal & Groom Portraits"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Save the Date Teasers"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Highlight Videos / Wedding Reels"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Designer Wedding Albums"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Digital Photo Gallery"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Live Wedding Streaming"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "360° Video Booth"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWedding Photography Prices in Bangalore"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Here are some cost estimates (price range per day) for various photography services.\n\nCandid Photography: ₹40K – ₹1.5L"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Traditional Photography: ₹20K – ₹80K"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Cinematic Video: ₹50K – ₹2L"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Traditional Videography: ₹25K – ₹1L"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Pre-Wedding Shoot: ₹20K – ₹1L"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Drone Photography & Videography: ₹10K – ₹50K"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Wedding Album (Per Album): ₹10K – ₹40K"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Full Package (Photo + Video): ₹1.5L – ₹4L+"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nHow to Choose the Best Wedding Photographer in Bangalore"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Style match:"
+        },
+        {
+         "insert": " Choose a photographer whose style aligns with your vision. Some focus on candid, emotion-driven moments, while others specialise in traditional coverage or cinematic storytelling. Always review full wedding albums, not just social media highlights, to understand how they capture an entire event."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Budget fit:"
+        },
+        {
+         "insert": " Look beyond just the price and evaluate what the package includes. Compare deliverables like hours of coverage, number of photographers, videography, and albums to ensure you are getting complete value for your budget."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Portfolio check:"
+        },
+        {
+         "insert": " Go through complete galleries to assess consistency across different lighting conditions and events. Pay attention to clarity, colour, and how well moments are captured, as this reflects the photographer’s overall quality and reliability."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nHow can I get the best deals on wedding photography and video shoot?"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Book early and stay flexible with dates:"
+        },
+        {
+         "insert": " Photographers charge more during peak wedding months and weekends. Booking in advance or choosing weekday or off-season dates can help you secure better pricing and more flexible packages."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Compare packages, not just prices:"
+        },
+        {
+         "insert": " Look closely at what each package includes, such as hours of coverage, team size, videography, and albums. This helps you avoid paying extra later for essential add-ons."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Customise and negotiate your package:"
+        },
+        {
+         "insert": " Many photographers are open to tweaking packages. You can reduce costs by limiting coverage hours, removing albums, or focusing only on key functions. Negotiating, especially for multi-day weddings, is very common."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Bundle services for better value:"
+        },
+        {
+         "insert": " Hiring the same team for both photography and videography often works out more cost-effectively than booking separate vendors."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "bold": true
+         },
+         "insert": "Use trusted platforms to compare options:"
+        },
+        {
+         "insert": " Platforms like The Wedding Company allow you to compare multiple photographers, check verified work, and explore curated packages, making it easier to find competitive deals and better offers."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n\nTrending Wedding Photography Styles in Bangalore (2026)"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Cinematic storytelling"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Film-style coverage with dramatic visuals, music-led edits, and a strong focus on storytelling across all wedding events, often delivered as highlight films.\n\nDocumentary style"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Natural, unscripted moments captured as they happen, with minimal posing and a focus on real emotions and in-between moments.\n\nRoyal palace themes"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Regal, heritage-style photos in palace or luxury venue settings, creating a grand and timeless aesthetic for couples who want a royal look.\n\nMinimalist candid"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Clean, clutter-free frames that focus on expressions and emotions without heavy styling, props, or excessive editing.\n\nPre-wedding destination shoots"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Couples choosing scenic locations outside the city for visually striking and personalised pre-wedding sessions with a travel-inspired feel.\n\n\nFAQs"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nHow much does a wedding photographer in Bangalore charge?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Typically ranges from ₹50,000 to ₹2.5 lakh+ per day, depending on experience, team size, and the overall scope of services included.\n\nWhat is included in a wedding photography package?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Most packages include candid and traditional photography, wedding videography, edited images, albums, and sometimes pre-wedding shoots, with optional add-ons available.\n\nDo Bangalore photographers travel for weddings?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Yes, most photographers are open to travelling across India and internationally for destination weddings, often with additional travel costs.\n\nHow much does a wedding photographer in Bangalore charge for a day?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "On average, it ranges between ₹25,000 and ₹2 lakh+ per day, depending on coverage hours, team size, and deliverables.\n\nWhat services do wedding photographers in Bangalore offer?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Candid photography, traditional photography, cinematic wedding films, pre-wedding shoots, drone coverage, albums, digital galleries, and sometimes live streaming.\n\nWhat are the latest wedding photography trends in Bangalore?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Cinematic storytelling, documentary-style coverage, royal or heritage shoots, minimalist candid frames, and destination-style pre-wedding sessions are currently popular.\n\nWhat’s the difference between candid and traditional photography?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Candid photography captures spontaneous, real moments without direction, while traditional photography focuses on posed shots and key rituals.\n\nHow do I decide which wedding photographer to finalise?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Review complete portfolios, compare pricing and inclusions, check reviews, and choose a photographer whose style and working approach match your expectations.\n\nCan I find wedding photographers in Bangalore near my locality?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Yes, most platforms, such as The Wedding Company, allow you to filter and shortlist options based on specific areas or neighbourhoods within Bangalore.\n"
+        }
+       ]
+      }
+     }
+    }
+   },
+   "__N_SSG": true
+  },
+  "page": "/wedding-photographers/[photographyCity]",
+  "query": {
+   "photographyCity": "bengaluru"
+  },
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "gsp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/c8c1bcda263ddb1a.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-ideas",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photographers",
+  "/wedding-photographers/bengaluru/3knots-photography-ashok-nagar",
+  "/wedding-photographers/bengaluru/anon-weddings-kalyan-nagar",
+  "/wedding-photographers/bengaluru/artisan-photography-4th-block-koramangala",
+  "/wedding-photographers/bengaluru/artsy-lens-photography-mahatma-gandhi-road",
+  "/wedding-photographers/bengaluru/athul-photography-hsr-layout-YT8",
+  "/wedding-photographers/bengaluru/balarajs-arcade-brooke-bond-first-cross-sathya-sai-layout-whitefield",
+  "/wedding-photographers/bengaluru/bgauss-electric-scooters-in-bangalore-2nd-block-hrbr-extension-kalyan-nagar",
+  "/wedding-photographers/bengaluru/cherish-photography-madiwala",
+  "/wedding-photographers/bengaluru/click-me-photography-marathahalli",
+  "/wedding-photographers/bengaluru/datta-photography-reliable-tranquil-layout",
+  "/wedding-photographers/bengaluru/dilip-photography-films-basavanagudi",
+  "/wedding-photographers/bengaluru/fog-media-koramangala",
+  "/wedding-photographers/bengaluru/fotoman-films-shivaji-nagar",
+  "/wedding-photographers/bengaluru/frame-shastra-krishnarajapura",
+  "/wedding-photographers/bengaluru/lucians-stories-koramangala-8th-block-koramangala",
+  "/wedding-photographers/bengaluru/mangotree-photography-indiranagar",
+  "/wedding-photographers/bengaluru/nandushreyas_photography-hsr-layout",
+  "/wedding-photographers/bengaluru/photoflash-banashankari",
+  "/wedding-photographers/bengaluru/pixel-chronicles-production-lake-park",
+  "/wedding-photographers/bengaluru/royale-camera-vijaya-bank-layout",
+  "/wedding-photographers/bengaluru/shootfactory-building-priyanka-layout-rayasandra",
+  "/wedding-photographers/bengaluru/starline-photography-kg-layout-prashanth-nagar-t-dasarahalli",
+  "/wedding-photographers/bengaluru/stories-by-rg-rajarajeshwari-nagar",
+  "/wedding-photographers/bengaluru/wed24-poornapragna-housing-society-layout",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues"
+ ],
+ "external_img_domains": [
+  "https://gcpimages.theweddingcompany.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 70539,
+ "bytes": 229866,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><link rel=\"canonical\" href=\"https://www.theweddingcompany.com/wedding-photographers/bengaluru\"/><meta name=\"description\" content=\"Wedding photographers in Bangalore. Check prices, portfolios, and reviews. Contact us for the best candid, pre-wedding photo shoot, and wedding videographers.\"/><meta property=\"og:description\" content=\"Wedding photographers in Bangalore. Check prices, portfolios, and reviews. Contact us for the best "
+}

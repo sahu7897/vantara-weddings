@@ -1,0 +1,191 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-ideas/idea/breathtaking-bridal-gown-F684A9B7-3269-4A95-A7CB-E09756447442",
+ "status_title": "Photo of Breathtaking Bridal Gown - Wedding Dresses",
+ "meta_description": "Looking for Breathtaking Bridal Gown? Explore 927+ wedding dress ideas and choose the latest wedding dress styles from our wedding ideas gallery.",
+ "canonical": "https://www.theweddingcompany.com/wedding-ideas/idea/breathtaking-bridal-gown-F684A9B7-3269-4A95-A7CB-E09756447442",
+ "h1": [
+  "Breathtaking Bridal Gown"
+ ],
+ "h2": [
+  "More like this"
+ ],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "portal"
+ ],
+ "has_header_nav": false,
+ "has_footer": false,
+ "forms": 1,
+ "inputs": 1,
+ "buttons": 18,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/ec70c9af02a4e84a.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-ideas/idea/%5BmediaId%5D-7548f9ca2dece0ed.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "dehydratedState": {
+     "mutations": [],
+     "queries": [
+      {
+       "state": {
+        "data": {
+         "vendorId": "e82353ef-9077-4c75-8a7e-9a32714c59eb",
+         "mediaId": "F684A9B7-3269-4A95-A7CB-E09756447442",
+         "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/F684A9B7-3269-4A95-A7CB-E09756447442.jpeg",
+         "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/e82353ef-9077-4c75-8a7e-9a32714c59eb/F684A9B7-3269-4A95-A7CB-E09756447442.jpg",
+         "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/e82353ef-9077-4c75-8a7e-9a32714c59eb/F684A9B7-3269-4A95-A7CB-E09756447442.jpg",
+         "mediaType": "IMAGE",
+         "mimeType": "image/jpeg",
+         "primaryCategories": [
+          "Wedding Dresses",
+          "Hairstyles",
+          "Makeup",
+          "Photoshoot Poses"
+         ],
+         "subCategories": {
+          "Bridal Gowns": "Wedding Dresses",
+          "Open Hair Hairstyles": "Hairstyles",
+          "Wavy Hairstyles": "Hairstyles",
+          "Natural Makeup": "Makeup",
+          "Bridal Solo Poses": "Photoshoot Poses"
+         },
+         "imageTitle": "Breathtaking Bridal Gown",
+         "longDescription": "Be captivated by this breathtaking bridal gown! Witness the beauty of a bride in a white wedding gown standing on a balcony, surrounded by lush potted plants. This image showcases impeccable hairstyles, natural makeup, and mesmerizing bridal solo poses. Don't forget to save this enchanting idea to your ideabook and bring your dream wedding to life!",
+         "mediaInIdeabook": false,
+         "vendorDetails": [
+          {
+           "name": "Pixel Chronicles Production",
+           "vendorId": "e82353ef-9077-4c75-8a7e-9a32714c59eb",
+           "businessCategory": "PHOTOGRAPHY"
+          },
+          {
+           "name": "WedLock Wardrobe",
+           "vendorId": "aefe307e-85d1-49c4-9ab6-10b4b4dd230b",
+           "businessCategory": "APPARELS"
+          },
+          {
+           "name": "Luxe Lens",
+           "vendorId": "60af9fc9-e1e3-4821-941e-0e8fc2962211",
+           "businessCategory": "PHOTOGRAPHY"
+          }
+         ],
+         "specialTags": null,
+         "height": 900,
+         "width": 600,
+         "shortDescription": "wedding dresses - A bride in a white wedding gown standing on a balcony overlooking a garden.",
+         "mediaSlug": "breathtaking-bridal-gown-F684A9B7-3269-4A95-A7CB-E09756447442"
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1790796844333,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+       },
+       "queryKey": [
+        "ideabook-media-details",
+        "breathtaking-bridal-gown-F684A9B7-3269-4A95-A7CB-E09756447442"
+       ],
+       "queryHash": "[\"ideabook-media-details\",\"breathtaking-bridal-gown-F684A9B7-3269-4A95-A7CB-E09756447442\"]"
+      },
+      {
+       "state": {
+        "data": {
+         "nextPageUrl": "https://weddingconsumerapi.betterhalf.ai/v1/ideabook/search/list?category=Wedding+Dresses&limit=1&page=2",
+         "totalCount": 927,
+         "result": [
+          {
+           "vendorId": "e9b21be3-6b8b-47f4-8a07-c27ecf81d68a",
+           "mediaId": "2BA78D54-E2F6-4BCF-948D-8492CD622318",
+           "mediaSlug": "eternal-promise-2BA78D54-E2F6-4BCF-948D-8492CD622318",
+           "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/2BA78D54-E2F6-4BCF-948D-8492CD622318.jpg",
+           "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/2BA78D54-E2F6-4BCF-948D-8492CD622318.jpg",
+           "mediaType": "IMAGE",
+           "mimeType": "image/jpeg",
+           "specialTags": null,
+           "height": 900,
+           "width": 1353,
+           "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/2BA78D54-E2F6-4BCF-948D-8492CD622318.jpeg"
+          }
+         ]
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1790796844613,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+       },
+       "queryKey": [
+        "primaryCategoryCount",
+        "Wedding Dresses"
+       ],
+       "queryHash": "[\"primaryCategoryCount\",\"Wedding Dresses\"]"
+      }
+     ]
+    },
+    "session": null
+   },
+   "__N_SSP": true
+  },
+  "page": "/wedding-ideas/idea/[mediaId]",
+  "query": {
+   "mediaId": "breathtaking-bridal-gown-F684A9B7-3269-4A95-A7CB-E09756447442"
+  },
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "dynamicIds": [
+   3610
+  ],
+  "gssp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/ec70c9af02a4e84a.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/favicon_new.ico"
+ ],
+ "external_img_domains": [
+  "https://imageswedding.theweddingcompany.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 7790,
+ "bytes": 56616,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><title>Photo of Breathtaking Bridal Gown - Wedding Dresses</title><meta name=\"description\" content=\"Looking for Breathtaking Bridal Gown? Explore 927+ wedding dress ideas and choose the latest wedding dress styles from our wedding ideas gallery.\"/><link rel=\"canonical\" href=\"https://www.theweddingcompany.com/wedding-ideas/idea/breathtaking-bridal-gown-F684A9B7-3269-4A95-A7CB-E09756447442\"/><meta property=\"robots\" content=\"noind"
+}

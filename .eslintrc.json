@@ -1,0 +1,23 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "ignorePatterns": ["public/**", "supabase/**"],
+  "rules": {
+    "@next/next/no-img-element": "off",
+    "@next/next/no-html-link-for-pages": "off",
+    "@next/next/no-css-tags": "off",
+    "@next/next/no-page-custom-font": "off",
+    "@next/next/no-sync-scripts": "off"
+  }
+  // Note: homepage components are byte-faithful conversions of the captured DOM
+  // (most <img> carry next/image attrs: data-nimg/width/height/decoding). We keep
+  // captured markup verbatim instead of re-wrapping in <Image> to avoid layout
+  // drift; a dedicated perf pass can migrate them later without changing visuals.
+  // no-html-link-for-pages is off for the same reason: captured content pages use
+  // plain <a href="/internal"> (the original renders them as plain anchors too).
+  // no-css-tags / no-page-custom-font: standalone pages (integrity-program,
+  // deals SPA) reproduce the original's own <link> tags for their self-hosted
+  // SPA CSS + per-page Google Fonts — intentional, page-scoped, byte-faithful.
+  // no-sync-scripts: generated pages reproduce the original's exact script
+  // placement (webfont.js head sync + webflow/jquery at body end); adding
+  // async/defer would reorder WebFont.load past its library and break fonts.
+}

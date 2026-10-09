@@ -1,0 +1,187 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-ideas/idea/beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC",
+ "status_title": "Photo of Beach Wedding Delight - Decoration Ideas",
+ "meta_description": "Looking for Beach Wedding Delight? Check out 4072+ trending wedding decor ideas for mehndi, haldi, reception, mandap, and stage decor from our wedding ideas gallery.",
+ "canonical": "https://www.theweddingcompany.com/wedding-ideas/idea/beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC",
+ "h1": [
+  "Beach Wedding Delight"
+ ],
+ "h2": [
+  "More like this"
+ ],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "portal"
+ ],
+ "has_header_nav": false,
+ "has_footer": false,
+ "forms": 1,
+ "inputs": 1,
+ "buttons": 16,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/ec70c9af02a4e84a.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-ideas/idea/%5BmediaId%5D-7548f9ca2dece0ed.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "dehydratedState": {
+     "mutations": [],
+     "queries": [
+      {
+       "state": {
+        "data": {
+         "vendorId": "480f5a5e-8489-465d-9c4a-b7c8bca0b9e6",
+         "mediaId": "DD071B5D-A009-462C-B8BA-2A08836677AC",
+         "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/DD071B5D-A009-462C-B8BA-2A08836677AC.jpeg",
+         "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/DD071B5D-A009-462C-B8BA-2A08836677AC.JPG",
+         "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/DD071B5D-A009-462C-B8BA-2A08836677AC.JPG",
+         "mediaType": "IMAGE",
+         "mimeType": "image/jpeg",
+         "primaryCategories": [
+          "Decoration Ideas",
+          "Wedding Themes"
+         ],
+         "subCategories": {
+          "Floral Decor": "Decoration Ideas",
+          "Outdoor Decor": "Decoration Ideas",
+          "Beach Wedding": "Wedding Themes"
+         },
+         "imageTitle": "Beach Wedding Delight",
+         "longDescription": "Immerse yourself in the romance of a beach wedding with this picturesque image. The serene beach setting is enhanced by the beautiful floral decor, glowing candles, and a mesmerizing mirror centerpiece. Imagine exchanging your vows surrounded by the tranquil beauty of the ocean. Save this image to your ideabook and let the magic of a beach wedding inspire your dream day.",
+         "mediaInIdeabook": false,
+         "vendorDetails": [
+          {
+           "name": "Artsy Lens Photography",
+           "vendorId": "480f5a5e-8489-465d-9c4a-b7c8bca0b9e6",
+           "businessCategory": "PHOTOGRAPHY"
+          },
+          {
+           "name": "Plush Panorama",
+           "vendorId": "9943c573-073b-4689-af13-310cbbe4ad49",
+           "businessCategory": "DECORATION"
+          },
+          {
+           "name": "Wedding Crafts",
+           "vendorId": "e759f9d7-8611-4049-b879-49aacef7d70d",
+           "businessCategory": "WEDDING_THEMES"
+          }
+         ],
+         "specialTags": "Premium",
+         "height": 810,
+         "width": 1440,
+         "shortDescription": "A picturesque beach wedding ceremony adorned with flowers, candles, and stunning decor.",
+         "mediaSlug": "beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC"
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1790796842436,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+       },
+       "queryKey": [
+        "ideabook-media-details",
+        "beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC"
+       ],
+       "queryHash": "[\"ideabook-media-details\",\"beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC\"]"
+      },
+      {
+       "state": {
+        "data": {
+         "nextPageUrl": "https://weddingconsumerapi.betterhalf.ai/v1/ideabook/search/list?category=Decoration+Ideas&limit=1&page=2",
+         "totalCount": 4072,
+         "result": [
+          {
+           "vendorId": "480f5a5e-8489-465d-9c4a-b7c8bca0b9e6",
+           "mediaId": "DD071B5D-A009-462C-B8BA-2A08836677AC",
+           "mediaSlug": "beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC",
+           "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/DD071B5D-A009-462C-B8BA-2A08836677AC.JPG",
+           "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/DD071B5D-A009-462C-B8BA-2A08836677AC.JPG",
+           "mediaType": "IMAGE",
+           "mimeType": "image/jpeg",
+           "specialTags": "Premium",
+           "height": 810,
+           "width": 1440,
+           "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/DD071B5D-A009-462C-B8BA-2A08836677AC.jpeg"
+          }
+         ]
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1790796842806,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+       },
+       "queryKey": [
+        "primaryCategoryCount",
+        "Decoration Ideas"
+       ],
+       "queryHash": "[\"primaryCategoryCount\",\"Decoration Ideas\"]"
+      }
+     ]
+    },
+    "session": null
+   },
+   "__N_SSP": true
+  },
+  "page": "/wedding-ideas/idea/[mediaId]",
+  "query": {
+   "mediaId": "beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC"
+  },
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "dynamicIds": [
+   3610
+  ],
+  "gssp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/ec70c9af02a4e84a.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/favicon_new.ico"
+ ],
+ "external_img_domains": [
+  "https://imageswedding.theweddingcompany.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 7726,
+ "bytes": 56497,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><title>Photo of Beach Wedding Delight - Decoration Ideas</title><meta name=\"description\" content=\"Looking for Beach Wedding Delight? Check out 4072+ trending wedding decor ideas for mehndi, haldi, reception, mandap, and stage decor from our wedding ideas gallery.\"/><link rel=\"canonical\" href=\"https://www.theweddingcompany.com/wedding-ideas/idea/beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC\"/><meta property=\"robots\""
+}

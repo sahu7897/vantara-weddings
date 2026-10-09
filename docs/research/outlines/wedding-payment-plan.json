@@ -1,0 +1,407 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-payment-plan",
+ "status_title": null,
+ "meta_description": null,
+ "canonical": null,
+ "h1": [],
+ "h2": [],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 0,
+ "inputs": 0,
+ "buttons": 14,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/a1850a30620895e5.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-payment-plan-c46da92927023a92.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "showLayout": true,
+    "dehydratedState": {
+     "mutations": [],
+     "queries": [
+      {
+       "state": {
+        "data": {
+         "type": "PLANNING_FEE_CALCULATION_CONFIG",
+         "slabs": {
+          "S1": {
+           "min": 0,
+           "max": 2999999,
+           "preDiscountPf": 150000,
+           "teamSize": 4,
+           "postDiscountPf": 135000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "S2": {
+           "min": 3000000,
+           "max": 3999999,
+           "preDiscountPf": 200000,
+           "teamSize": 5,
+           "postDiscountPf": 180000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "S3": {
+           "min": 4000000,
+           "max": 4999999,
+           "preDiscountPf": 250000,
+           "teamSize": 6,
+           "postDiscountPf": 225000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "S4": {
+           "min": 5000000,
+           "max": 7499999,
+           "preDiscountPf": 400000,
+           "teamSize": 7,
+           "postDiscountPf": 360000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "S5": {
+           "min": 7500000,
+           "max": 9999999,
+           "preDiscountPf": 500000,
+           "teamSize": 9,
+           "postDiscountPf": 450000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "S6": {
+           "min": 10000000,
+           "max": 14999999,
+           "preDiscountPf": 600000,
+           "teamSize": 11,
+           "postDiscountPf": 540000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "S7": {
+           "min": 0,
+           "max": 4999999,
+           "preDiscountPf": 300000,
+           "teamSize": 6,
+           "postDiscountPf": 270000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "S8": {
+           "min": 15000000,
+           "max": 19999999,
+           "preDiscountPf": 800000,
+           "teamSize": 14,
+           "postDiscountPf": 720000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "S9": {
+           "min": 20000000,
+           "max": 25000000,
+           "preDiscountPf": 1000000,
+           "teamSize": 18,
+           "postDiscountPf": 900000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "G1": {
+           "min": 0,
+           "max": 2999999,
+           "preDiscountPf": 250000,
+           "teamSize": 6,
+           "postDiscountPf": 225000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "G2": {
+           "min": 3000000,
+           "max": 4999999,
+           "preDiscountPf": 300000,
+           "teamSize": 7,
+           "postDiscountPf": 270000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "G3": {
+           "min": 5000000,
+           "max": 7499999,
+           "preDiscountPf": 400000,
+           "teamSize": 8,
+           "postDiscountPf": 360000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "U1": {
+           "min": 10000000,
+           "max": 14999999,
+           "preDiscountPf": 750000,
+           "teamSize": 11,
+           "postDiscountPf": 675000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "U2": {
+           "min": 15000000,
+           "max": 19999999,
+           "preDiscountPf": 1000000,
+           "teamSize": 14,
+           "postDiscountPf": 900000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          },
+          "U3": {
+           "min": 20000000,
+           "max": 25000000,
+           "preDiscountPf": 1250000,
+           "teamSize": 18,
+           "postDiscountPf": 1125000,
+           "discountPercent": 10,
+           "tokenAmount": 9999
+          }
+         },
+         "locations": {
+          "Bengaluru": [
+           "S1",
+           "S2",
+           "S3",
+           "S4",
+           "S5",
+           "S6",
+           "S8",
+           "S9"
+          ],
+          "Delhi": [
+           "S1",
+           "S2",
+           "S3",
+           "S4",
+           "S5",
+           "S6",
+           "S8",
+           "S9"
+          ],
+          "Goa": [
+           "G1",
+           "G2",
+           "G3",
+           "S5",
+           "S6",
+           "S8",
+           "S9"
+          ],
+          "Jaipur": [
+           "S7",
+           "S4",
+           "S5",
+           "S6",
+           "S8",
+           "S9"
+          ],
+          "Udaipur": [
+           "S7",
+           "S4",
+           "S5",
+           "U1",
+           "U2",
+           "U3"
+          ]
+         },
+         "teamComposition": {
+          "4": {
+           "weddingPlanner": 1,
+           "runners": 3,
+           "helpDeskMale": 0,
+           "helpDeskFemale": 0,
+           "shadowsMale": 0,
+           "shadowsFemale": 0,
+           "logistics": 0,
+           "porters": 0,
+           "rsvp_200_250": "No"
+          },
+          "5": {
+           "weddingPlanner": 1,
+           "runners": 3,
+           "helpDeskMale": 1,
+           "helpDeskFemale": 0,
+           "shadowsMale": 0,
+           "shadowsFemale": 0,
+           "logistics": 0,
+           "porters": 0,
+           "rsvp_200_250": "Optional"
+          },
+          "6": {
+           "weddingPlanner": 1,
+           "runners": 3,
+           "helpDeskMale": 1,
+           "helpDeskFemale": 0,
+           "shadowsMale": 0,
+           "shadowsFemale": 0,
+           "logistics": 0,
+           "porters": 1,
+           "rsvp_200_250": "Yes"
+          },
+          "7": {
+           "weddingPlanner": 1,
+           "runners": 1,
+           "helpDeskMale": 1,
+           "helpDeskFemale": 0,
+           "shadowsMale": 1,
+           "shadowsFemale": 1,
+           "logistics": 1,
+           "porters": 1,
+           "rsvp_200_250": "Yes"
+          },
+          "8": {
+           "weddingPlanner": 1,
+           "runners": 2,
+           "helpDeskMale": 1,
+           "helpDeskFemale": 0,
+           "shadowsMale": 1,
+           "shadowsFemale": 1,
+           "logistics": 1,
+           "porters": 1,
+           "rsvp_200_250": "Yes",
+           "design_stationery": "Yes"
+          },
+          "9": {
+           "weddingPlanner": 1,
+           "runners": 2,
+           "helpDeskMale": 1,
+           "helpDeskFemale": 1,
+           "shadowsMale": 1,
+           "shadowsFemale": 1,
+           "logistics": 1,
+           "porters": 1,
+           "rsvp_200_250": "Yes"
+          },
+          "11": {
+           "weddingPlanner": 1,
+           "runners": 3,
+           "helpDeskMale": 1,
+           "helpDeskFemale": 1,
+           "shadowsMale": 1,
+           "shadowsFemale": 1,
+           "logistics": 2,
+           "porters": 1,
+           "rsvp_200_250": "Yes"
+          },
+          "14": {
+           "weddingPlanner": 1,
+           "runners": 4,
+           "helpDeskMale": 2,
+           "helpDeskFemale": 1,
+           "shadowsMale": 1,
+           "shadowsFemale": 1,
+           "logistics": 2,
+           "porters": 2,
+           "rsvp_200_250": "Yes"
+          },
+          "18": {
+           "weddingPlanner": 1,
+           "runners": 5,
+           "helpDeskMale": 2,
+           "helpDeskFemale": 2,
+           "shadowsMale": 2,
+           "shadowsFemale": 2,
+           "logistics": 2,
+           "porters": 2,
+           "rsvp_200_250": "Yes"
+          }
+         }
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1790796698581,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+       },
+       "queryKey": [
+        "wedding-planning-fee-structure"
+       ],
+       "queryHash": "[\"wedding-planning-fee-structure\"]"
+      }
+     ]
+    }
+   },
+   "__N_SSP": true
+  },
+  "page": "/wedding-payment-plan",
+  "query": {},
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "gssp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/a1850a30620895e5.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/refund-policy",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-ideas",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues"
+ ],
+ "external_img_domains": [
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 12691,
+ "bytes": 67392,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><link rel=\"preload\" href=\"/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp\" as=\"image\" fetchpriority=\"high\"/><meta name=\"next-head-count\" content=\"4\"/><link rel=\"preload\" href=\"/_next/static/media/eaead17c7dbfcd5d-s.p.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\" data-next-font=\"size-adjust\"/><link rel=\"preload\" href=\"/_next/static/media/55c20a7790588da9-s.p.woff2\" as=\"font\" type=\"font/woff2\" crossor"
+}

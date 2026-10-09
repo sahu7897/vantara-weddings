@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="100" viewBox="0 0 596 100" role="img" aria-label="Vantara Weddings">
+  <!-- Stage 1 placeholder wordmark — replaced by the Vantara brand kit (D3) -->
+  <defs>
+    <linearGradient id="vGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9A2157"/>
+      <stop offset="0.5" stop-color="#BC2D6D"/>
+      <stop offset="1" stop-color="#9A2157"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="6" fill="url(#vGrad)">VANTARA</text>
+  <text x="345" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" letter-spacing="10" fill="#333333">WEDDINGS</text>
+</svg>

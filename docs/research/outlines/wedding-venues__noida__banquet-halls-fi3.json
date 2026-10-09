@@ -1,0 +1,2848 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3",
+ "status_title": "10+ Best Banquet Halls in Noida with Price &amp;  Reviews",
+ "meta_description": "Find the list of best Banquet Halls in Noida with price, deals, availability, reviews, &amp; photos. Contact for engagements, wedding, sangeet functions, &amp; more.",
+ "canonical": "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3",
+ "h1": [
+  "Banquet Halls in Noida"
+ ],
+ "h2": [
+  "The White Palace",
+  "SWARN BANQUET",
+  "Sandal Suites, by Lemon Tree Hotels",
+  "Radisson Noida",
+  "The City Light Banquet Hall",
+  "Riveria Valley Hotel and Resort",
+  "Park Ascent",
+  "Ch. Hariram Palace",
+  "Golden Leaf",
+  "Milantra Green Banquet",
+  "tivoli lotus",
+  "Bellmont",
+  "Lavanya by Baba",
+  "Eliot hotel",
+  "Moon cloud",
+  "wynnd banquet",
+  "Itc Fortune 27 Noida",
+  "Chhavi Hotels",
+  "Regenta Central Noida",
+  "Tivoli omnia",
+  "Moon Star",
+  "Saffron Banquet - Noida Extension",
+  "Saffron Banquet And Party Lawn",
+  "Hotel Red York",
+  "Which are the budget-friendly banquet halls in Noida with prices?",
+  "Top 10 Banquet Halls in Noida",
+  "Banquet halls by capacity",
+  "FAQs"
+ ],
+ "h3": [
+  "Banquet halls under INR 1000 per plate",
+  "Banquet halls from INR 1000 to INR 3000 per plate",
+  "Luxury Banquet Halls Above ₹3000 Per Plate",
+  "Banquet halls for less than 100 guests",
+  "Banquet halls for 100-250 persons in Noida",
+  "Banquet halls for 250-500 Guests",
+  "Banquet halls for 500-1000 Guests in Noida",
+  "More than 1000 Guests",
+  "What banquet halls have the best reviews in Noida?",
+  "How soon should we book a banquet hall in Noida?",
+  "Do banquet halls provide in-house decor and catering?"
+ ],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "searchBar-wrapper",
+  "searchBar",
+  "search-icon",
+  "close-icon",
+  "venue-listing-card-carousel",
+  "about-details",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 0,
+ "inputs": 1,
+ "buttons": 4,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/98388d77ac0fd362.css",
+  "/_next/static/css/ce6a73842ea250d3.css",
+  "/_next/static/css/8848bf46d578cae6.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-venues/%5BvenueCityOrFilter%5D/%5BvenueLocalityOrDetailOrFilter%5D-edcb9c1bc1a0694a.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "dehydratedState": {
+     "mutations": [],
+     "queries": [
+      {
+       "state": {
+        "data": "venueArea=3101",
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1790772698623,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+       },
+       "queryKey": [
+        "current-filter-slug-params",
+        "banquet-halls-fi3"
+       ],
+       "queryHash": "[\"current-filter-slug-params\",\"banquet-halls-fi3\"]"
+      }
+     ]
+    },
+    "initialVendorList": {
+     "size": 117,
+     "nextPageUrl": "https://weddingapi.betterhalf.ai/v1/venue/vendors/?citySlug=noida&limit=24&page=2&venueArea=3101",
+     "results": [
+      {
+       "vendorId": "33ebeb33-c8c4-454d-953c-424ee9157f56",
+       "urlSlug": "the-white-palace-banquet-by-khanak-sector-70",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/33ebeb33-c8c4-454d-953c-424ee9157f56/admin_uploads/e7b77940-a833-4129-b065-d0684d1041a4.webp",
+         "mimeType": "image/webp",
+         "mediaId": "e7b77940-a833-4129-b065-d0684d1041a4",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/33ebeb33-c8c4-454d-953c-424ee9157f56/admin_uploads/df0e5667-6ddb-483d-93a7-fbea9a40fff0.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "df0e5667-6ddb-483d-93a7-fbea9a40fff0",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/33ebeb33-c8c4-454d-953c-424ee9157f56/admin_uploads/9265d4cf-adf6-4670-bba0-f928e6351e29.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "9265d4cf-adf6-4670-bba0-f928e6351e29",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/33ebeb33-c8c4-454d-953c-424ee9157f56/admin_uploads/8ddd4804-6c96-46c4-8698-b2d6233dc12a.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "8ddd4804-6c96-46c4-8698-b2d6233dc12a",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "The White Palace",
+       "formattedAddress": "Desai Village, Basai, Noida, Basi Bahuddin Nagar, Sector 70, Noida, Basi Bahuddin Nagar, 201316, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 70, Noida",
+       "userRating": 4.7,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1500,
+         "minValue": 800
+        },
+        "perDayCost": {
+         "maxValue": 750000,
+         "minValue": 700000
+        },
+        "parkingCount": 100,
+        "roomCount": {
+         "maxValue": 2,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 150,
+         "maxValue": 700
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [
+        "Budget Friendly",
+        "TWC’s choice"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 1329,
+       "coordinates": [
+        77.3832358,
+        28.5953378
+       ]
+      },
+      {
+       "vendorId": "4d6e8525-cada-468f-858c-767d86eb01fc",
+       "urlSlug": "swarn-banquet-sector-62",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4d6e8525-cada-468f-858c-767d86eb01fc/gmap/dbb29e73-80fb-4c04-b657-ca8161f97467.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "e135f167-313c-4ab4-a40d-0b56b355bcc7",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4d6e8525-cada-468f-858c-767d86eb01fc/admin_uploads/3ad48f7b-08c6-4a6e-9962-a85165aea1b0.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "3ad48f7b-08c6-4a6e-9962-a85165aea1b0",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4d6e8525-cada-468f-858c-767d86eb01fc/admin_uploads/c84f2c43-c65e-4a4e-a440-62fe726921f2.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "c84f2c43-c65e-4a4e-a440-62fe726921f2",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4d6e8525-cada-468f-858c-767d86eb01fc/admin_uploads/18cd9f5c-2a9f-471a-95d0-cde21d7713ce.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "18cd9f5c-2a9f-471a-95d0-cde21d7713ce",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "SWARN BANQUET",
+       "formattedAddress": "C-20/2, C Block, Phase 2, Industrial Area, Sector 62, Noida, 201309, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 62, Noida",
+       "userRating": 4.3,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2200,
+         "minValue": 1800
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 30,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 200,
+         "maxValue": 400
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [
+        "Budget Friendly"
+       ],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 106,
+       "coordinates": [
+        77.3609438,
+        28.6130627
+       ]
+      },
+      {
+       "vendorId": "c6cc80b6-16e6-40c3-a5d1-1d75ebbaa1d2",
+       "urlSlug": "sandal-suites-operated-by-lemon-tree-hotels-sector-135",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c6cc80b6-16e6-40c3-a5d1-1d75ebbaa1d2/admin_uploads/cd895590-05a7-44a2-8748-8f03dd3e13d2.webp",
+         "mimeType": "image/webp",
+         "mediaId": "cd895590-05a7-44a2-8748-8f03dd3e13d2",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/c6cc80b6-16e6-40c3-a5d1-1d75ebbaa1d2/admin_uploads/cd895590-05a7-44a2-8748-8f03dd3e13d2_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c6cc80b6-16e6-40c3-a5d1-1d75ebbaa1d2/admin_uploads/b2967f15-68f3-43e9-8129-bf42d804a7f2.webp",
+         "mimeType": "image/webp",
+         "mediaId": "b2967f15-68f3-43e9-8129-bf42d804a7f2",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/c6cc80b6-16e6-40c3-a5d1-1d75ebbaa1d2/admin_uploads/b2967f15-68f3-43e9-8129-bf42d804a7f2_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c6cc80b6-16e6-40c3-a5d1-1d75ebbaa1d2/admin_uploads/95ae96bc-a4b7-4a66-aea4-aaaf5e449625.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "95ae96bc-a4b7-4a66-aea4-aaaf5e449625",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c6cc80b6-16e6-40c3-a5d1-1d75ebbaa1d2/admin_uploads/a9a70621-6fcc-4a6f-8266-1ee12d57e0a2.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "a9a70621-6fcc-4a6f-8266-1ee12d57e0a2",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Sandal Suites, by Lemon Tree Hotels",
+       "formattedAddress": "SANDAL SUITES, Assotech Business Cresterra, 22, Noida-Greater Noida Expy, INFOSPACE, Sector 135, Noida, 201304, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 135, Noida",
+       "userRating": 4.4,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2700,
+         "minValue": 2400
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 200,
+        "roomCount": {
+         "maxValue": 185,
+         "minValue": 1
+        },
+        "areasAvailable": {
+         "minValue": 300,
+         "maxValue": 1050
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 6396,
+       "coordinates": [
+        77.4018584,
+        28.4951512
+       ]
+      },
+      {
+       "vendorId": "ecd91f13-0026-479d-a979-fb8ef1dd13dd",
+       "urlSlug": "radisson-noida-sector-55",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ecd91f13-0026-479d-a979-fb8ef1dd13dd/admin_uploads/1af3e58d-08c0-42c0-82ff-aba13fc43aee.webp",
+         "mimeType": "image/webp",
+         "mediaId": "1af3e58d-08c0-42c0-82ff-aba13fc43aee",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ecd91f13-0026-479d-a979-fb8ef1dd13dd/admin_uploads/f8ab984a-c434-45d6-9fc9-08640b594b34.webp",
+         "mimeType": "image/webp",
+         "mediaId": "f8ab984a-c434-45d6-9fc9-08640b594b34",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/ecd91f13-0026-479d-a979-fb8ef1dd13dd/admin_uploads/f8ab984a-c434-45d6-9fc9-08640b594b34_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ecd91f13-0026-479d-a979-fb8ef1dd13dd/admin_uploads/0c8f81f6-1a16-434f-8516-80f48db75494.webp",
+         "mimeType": "image/webp",
+         "mediaId": "0c8f81f6-1a16-434f-8516-80f48db75494",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ecd91f13-0026-479d-a979-fb8ef1dd13dd/admin_uploads/a2a73149-ec9a-431c-948a-e8d0349dadfd.webp",
+         "mimeType": "image/webp",
+         "mediaId": "a2a73149-ec9a-431c-948a-e8d0349dadfd",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Radisson Noida",
+       "formattedAddress": "Site-Iv, Tower C-8, 2nd Cross Ave Rd, Block C, Kasna, Surajpur Site 4, Greater Noida, 201306, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 55, Noida",
+       "userRating": 4.4,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2300,
+         "minValue": 2000
+        },
+        "perDayCost": {
+         "maxValue": 135000,
+         "minValue": 125000
+        },
+        "parkingCount": 100,
+        "roomCount": {
+         "maxValue": 175,
+         "minValue": 1
+        },
+        "areasAvailable": {
+         "minValue": 150,
+         "maxValue": 750
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 10048,
+       "coordinates": [
+        77.35023699999999,
+        28.604168
+       ]
+      },
+      {
+       "vendorId": "a10e4f54-d16a-442d-bd53-d4a9827541d4",
+       "urlSlug": "the-city-light-banquet-hall-aimnabad",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a10e4f54-d16a-442d-bd53-d4a9827541d4/admin_uploads/9dd5f2be-33c5-4bbd-bfce-4e40232126fc.webp",
+         "mimeType": "image/webp",
+         "mediaId": "9dd5f2be-33c5-4bbd-bfce-4e40232126fc",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a10e4f54-d16a-442d-bd53-d4a9827541d4/admin_uploads/849f38d7-3f18-4126-93c5-fb39e7dd26d5.webp",
+         "mimeType": "image/webp",
+         "mediaId": "849f38d7-3f18-4126-93c5-fb39e7dd26d5",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a10e4f54-d16a-442d-bd53-d4a9827541d4/admin_uploads/237555e3-0205-41d8-97e0-ba4f49644618.webp",
+         "mimeType": "image/webp",
+         "mediaId": "237555e3-0205-41d8-97e0-ba4f49644618",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a10e4f54-d16a-442d-bd53-d4a9827541d4/admin_uploads/dcbc0362-0fc6-4d0a-a946-d88417275e95.webp",
+         "mimeType": "image/webp",
+         "mediaId": "dcbc0362-0fc6-4d0a-a946-d88417275e95",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/a10e4f54-d16a-442d-bd53-d4a9827541d4/admin_uploads/dcbc0362-0fc6-4d0a-a946-d88417275e95_compressed.webp"
+        }
+       ],
+       "venueName": "The City Light Banquet Hall",
+       "formattedAddress": "Bisrakh, Jalalpur Sector-1,, Society ,  Greater Noida West,, 201306, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Aimnabad, Noida",
+       "userRating": 4.4,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1500,
+         "minValue": 1200
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 60,
+        "roomCount": {
+         "maxValue": 0,
+         "minValue": 2
+        },
+        "areasAvailable": {
+         "minValue": 250,
+         "maxValue": 300
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 341,
+       "coordinates": [
+        77.4457585,
+        28.5678186
+       ]
+      },
+      {
+       "vendorId": "8434c904-c163-49ec-b4c0-47efcabaeaa2",
+       "urlSlug": "riveria-valley-hotel-and-resort-sector-2",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8434c904-c163-49ec-b4c0-47efcabaeaa2/admin_uploads/81fa5d1a-1eeb-4f82-abf7-cd74349b0a46.webp",
+         "mimeType": "image/webp",
+         "mediaId": "81fa5d1a-1eeb-4f82-abf7-cd74349b0a46",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8434c904-c163-49ec-b4c0-47efcabaeaa2/admin_uploads/43fcc73b-f17d-451a-aff5-fb32e2f11822.webp",
+         "mimeType": "image/webp",
+         "mediaId": "43fcc73b-f17d-451a-aff5-fb32e2f11822",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8434c904-c163-49ec-b4c0-47efcabaeaa2/admin_uploads/a029181d-ccaf-4df8-b1d9-2e2d36db5c70.webp",
+         "mimeType": "image/webp",
+         "mediaId": "a029181d-ccaf-4df8-b1d9-2e2d36db5c70",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8434c904-c163-49ec-b4c0-47efcabaeaa2/admin_uploads/94609af0-89d3-4eb9-9cf9-4edb0485114f.webp",
+         "mimeType": "image/webp",
+         "mediaId": "94609af0-89d3-4eb9-9cf9-4edb0485114f",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Riveria Valley Hotel and Resort",
+       "formattedAddress": "Plot No 1, near IT Zone, Grande Noida, Gharbara, 201312, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 2, Noida",
+       "userRating": 4.4,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 4000,
+         "minValue": 2500
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 50,
+        "roomCount": {
+         "maxValue": 24,
+         "minValue": 5
+        },
+        "areasAvailable": {
+         "minValue": 200,
+         "maxValue": 4000
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 122,
+       "coordinates": [
+        77.5118403,
+        28.4145991
+       ]
+      },
+      {
+       "vendorId": "c665fde0-5c84-4925-8720-6a4af660621e",
+       "urlSlug": "park-ascent-sector-62",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c665fde0-5c84-4925-8720-6a4af660621e/admin_uploads/1a426ab9-6b66-4d1b-a3f9-6d374be06fe2.webp",
+         "mimeType": "image/webp",
+         "mediaId": "1a426ab9-6b66-4d1b-a3f9-6d374be06fe2",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/c665fde0-5c84-4925-8720-6a4af660621e/admin_uploads/1a426ab9-6b66-4d1b-a3f9-6d374be06fe2_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c665fde0-5c84-4925-8720-6a4af660621e/admin_uploads/42bea6c1-8373-4a68-b4e0-ca4813c37795.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "42bea6c1-8373-4a68-b4e0-ca4813c37795",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c665fde0-5c84-4925-8720-6a4af660621e/admin_uploads/c8496efb-65f9-4852-bcb5-daf2f33af8eb.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "c8496efb-65f9-4852-bcb5-daf2f33af8eb",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/c665fde0-5c84-4925-8720-6a4af660621e/gmap/bcfdb09f-3104-4c9f-aad7-bd4058e52b68.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "c54e6422-c1b6-4879-9d0e-b460320b63a7",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Park Ascent",
+       "formattedAddress": "Park Ascent Hotel, Plot no. 126, Noida-Khoda Road, Campus, opp. IIM Lucknow, Sector 62, 201020, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 62, Noida",
+       "userRating": 4.2,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2300,
+         "minValue": 2000
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 100,
+        "roomCount": {
+         "maxValue": 72,
+         "minValue": 1
+        },
+        "areasAvailable": {
+         "minValue": 60,
+         "maxValue": 300
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 6774,
+       "coordinates": [
+        77.35497550000001,
+        28.6235882
+       ]
+      },
+      {
+       "vendorId": "8cb2c965-799e-4dc0-bbfb-8b6c93e80efd",
+       "urlSlug": "ch-hariram-palace-dadri",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8cb2c965-799e-4dc0-bbfb-8b6c93e80efd/admin_uploads/0305738c-8e21-44c6-927d-f5d52200addb.webp",
+         "mimeType": "image/webp",
+         "mediaId": "0305738c-8e21-44c6-927d-f5d52200addb",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/8cb2c965-799e-4dc0-bbfb-8b6c93e80efd/admin_uploads/0305738c-8e21-44c6-927d-f5d52200addb_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8cb2c965-799e-4dc0-bbfb-8b6c93e80efd/admin_uploads/a7dfbf78-947b-4756-8980-b0c808aea47e.webp",
+         "mimeType": "image/webp",
+         "mediaId": "a7dfbf78-947b-4756-8980-b0c808aea47e",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8cb2c965-799e-4dc0-bbfb-8b6c93e80efd/admin_uploads/cabb4118-e3b1-4181-b431-2f1418ee6dce.webp",
+         "mimeType": "image/webp",
+         "mediaId": "cabb4118-e3b1-4181-b431-2f1418ee6dce",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/8cb2c965-799e-4dc0-bbfb-8b6c93e80efd/admin_uploads/cabb4118-e3b1-4181-b431-2f1418ee6dce_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8cb2c965-799e-4dc0-bbfb-8b6c93e80efd/admin_uploads/e25ea4a2-ec4f-486b-a4ad-7b2377eac1b1.webp",
+         "mimeType": "image/webp",
+         "mediaId": "e25ea4a2-ec4f-486b-a4ad-7b2377eac1b1",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Ch. Hariram Palace",
+       "formattedAddress": "23/13, HG6W+C9H, near, Shri Balaji Enclave Road, agrasen colony, Dadri, 203207, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Dadri, Noida",
+       "userRating": 3.8,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 700,
+         "minValue": 500
+        },
+        "perDayCost": {
+         "maxValue": 380000,
+         "minValue": 300000
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 150,
+         "maxValue": 800
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 143,
+       "coordinates": [
+        77.5459322,
+        28.5611756
+       ]
+      },
+      {
+       "vendorId": "704fb1cd-b9d9-4299-a06b-bfeb8d5d19cf",
+       "urlSlug": "golden-leaf-noida-by-surya-palace-sector-31",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/704fb1cd-b9d9-4299-a06b-bfeb8d5d19cf/gmap/23a3c94b-be80-41f8-b9d6-09f1e943ebf1.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "d42f6593-e363-488a-9925-f65ad36c8128",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/704fb1cd-b9d9-4299-a06b-bfeb8d5d19cf/admin_uploads/9f0ab6da-9707-485c-8e08-91392626cc5f.webp",
+         "mimeType": "image/webp",
+         "mediaId": "9f0ab6da-9707-485c-8e08-91392626cc5f",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/704fb1cd-b9d9-4299-a06b-bfeb8d5d19cf/admin_uploads/9f0ab6da-9707-485c-8e08-91392626cc5f_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/704fb1cd-b9d9-4299-a06b-bfeb8d5d19cf/gmap/d2a1fd14-7b5d-443d-a30f-0e963a9e853d.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "799072c0-d3ad-4a20-b5c7-be64aec608b2",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/704fb1cd-b9d9-4299-a06b-bfeb8d5d19cf/admin_uploads/3424eeae-fe7d-498a-bc72-8ba576e2ac47.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "3424eeae-fe7d-498a-bc72-8ba576e2ac47",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Golden Leaf",
+       "formattedAddress": "C1/7 & 1/8, C-Block, Sector 31, 201303, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 31, Noida",
+       "userRating": 4.6,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1200,
+         "minValue": 1000
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 40,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 150,
+         "maxValue": 250
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 349,
+       "coordinates": [
+        77.3429645,
+        28.58102779999999
+       ]
+      },
+      {
+       "vendorId": "71eb7f4c-39c4-4a31-bf71-06bb9439ac6a",
+       "urlSlug": "milantra-green-banquet-hall-sector-49",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/71eb7f4c-39c4-4a31-bf71-06bb9439ac6a/admin_uploads/6c574818-825e-4e04-af4b-29d36e7cd38e.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "6c574818-825e-4e04-af4b-29d36e7cd38e",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/71eb7f4c-39c4-4a31-bf71-06bb9439ac6a/admin_uploads/d6f42a39-bd01-44aa-9c65-c4b0b9814451.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "d6f42a39-bd01-44aa-9c65-c4b0b9814451",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/71eb7f4c-39c4-4a31-bf71-06bb9439ac6a/admin_uploads/61a3899f-f454-48e1-bd4c-ca7121d7dd9c.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "61a3899f-f454-48e1-bd4c-ca7121d7dd9c",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/71eb7f4c-39c4-4a31-bf71-06bb9439ac6a/admin_uploads/f5f80967-21f3-41ba-8bc8-8aace6ff2c8b.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "f5f80967-21f3-41ba-8bc8-8aace6ff2c8b",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Milantra Green Banquet",
+       "formattedAddress": "Pilar no 25, Main, Dadri Main Road, Baraula, Sector 48, Noida, 201303, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 49, Noida",
+       "userRating": 4.6,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2000,
+         "minValue": 1725
+        },
+        "perDayCost": {
+         "maxValue": 750000,
+         "minValue": 700000
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 2,
+         "minValue": 1
+        },
+        "areasAvailable": {
+         "minValue": 850,
+         "maxValue": 1300
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 207,
+       "coordinates": [
+        77.3696652,
+        28.5600584
+       ]
+      },
+      {
+       "vendorId": "b2d7c1f6-1ce1-4dec-bea9-b2e72a2e3c06",
+       "urlSlug": "tivoli-lotus-court-hotels-banquets-sector-74-2IS",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b2d7c1f6-1ce1-4dec-bea9-b2e72a2e3c06/admin_uploads/e54135ef-9d47-476a-8f05-eeb2d24d74dd.webp",
+         "mimeType": "image/webp",
+         "mediaId": "e54135ef-9d47-476a-8f05-eeb2d24d74dd",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/b2d7c1f6-1ce1-4dec-bea9-b2e72a2e3c06/admin_uploads/e54135ef-9d47-476a-8f05-eeb2d24d74dd_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b2d7c1f6-1ce1-4dec-bea9-b2e72a2e3c06/admin_uploads/81dc37d9-523c-4b93-b513-29836167920b.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "81dc37d9-523c-4b93-b513-29836167920b",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b2d7c1f6-1ce1-4dec-bea9-b2e72a2e3c06/admin_uploads/f330e58a-3a38-419b-b0b3-8fd8b5aba1b0.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "f330e58a-3a38-419b-b0b3-8fd8b5aba1b0",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/b2d7c1f6-1ce1-4dec-bea9-b2e72a2e3c06/admin_uploads/57049578-4e83-4a2d-86c9-7038641a3e28.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "57049578-4e83-4a2d-86c9-7038641a3e28",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "tivoli lotus",
+       "formattedAddress": "Tivoli Lotus Court, 1, Sector 117 Main Rd, near Internal Capetown Society Road, Sector 74, Noida, 201316, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 74, Noida",
+       "userRating": 4.6,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 3500,
+         "minValue": 2000
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 100,
+        "roomCount": {
+         "maxValue": 40,
+         "minValue": 20
+        },
+        "areasAvailable": {
+         "minValue": 1125,
+         "maxValue": 1500
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 1825,
+       "coordinates": [
+        77.39409719999999,
+        28.5813724
+       ]
+      },
+      {
+       "vendorId": "cfab9cd6-41e6-475b-a6cf-274a8b454963",
+       "urlSlug": "bellmont-hotel-sector-37",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/cfab9cd6-41e6-475b-a6cf-274a8b454963/admin_uploads/fc8cd1dc-afc0-4d55-9d10-05b81a8e3b17.webp",
+         "mimeType": "image/webp",
+         "mediaId": "fc8cd1dc-afc0-4d55-9d10-05b81a8e3b17",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/cfab9cd6-41e6-475b-a6cf-274a8b454963/admin_uploads/fc8cd1dc-afc0-4d55-9d10-05b81a8e3b17_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/cfab9cd6-41e6-475b-a6cf-274a8b454963/admin_uploads/81816124-2d1f-416e-9f04-2710e4f3f932.webp",
+         "mimeType": "image/webp",
+         "mediaId": "81816124-2d1f-416e-9f04-2710e4f3f932",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/cfab9cd6-41e6-475b-a6cf-274a8b454963/admin_uploads/81816124-2d1f-416e-9f04-2710e4f3f932_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/cfab9cd6-41e6-475b-a6cf-274a8b454963/admin_uploads/0c68ea3c-d2d2-4a4a-b1fe-d4d7d32cb429.webp",
+         "mimeType": "image/webp",
+         "mediaId": "0c68ea3c-d2d2-4a4a-b1fe-d4d7d32cb429",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/cfab9cd6-41e6-475b-a6cf-274a8b454963/admin_uploads/0c68ea3c-d2d2-4a4a-b1fe-d4d7d32cb429_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/cfab9cd6-41e6-475b-a6cf-274a8b454963/admin_uploads/0b458159-4541-47bc-b8e9-36127f0143dd.webp",
+         "mimeType": "image/webp",
+         "mediaId": "0b458159-4541-47bc-b8e9-36127f0143dd",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/cfab9cd6-41e6-475b-a6cf-274a8b454963/admin_uploads/0b458159-4541-47bc-b8e9-36127f0143dd_compressed.webp"
+        }
+       ],
+       "venueName": "Bellmont",
+       "formattedAddress": "14/1, opp. Botanical Garden Metro Station, Sector 37, 201301, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 37, Noida",
+       "userRating": 4.5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1600,
+         "minValue": 1300
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 40,
+        "roomCount": {
+         "maxValue": 54,
+         "minValue": 27
+        },
+        "areasAvailable": {
+         "minValue": 30,
+         "maxValue": 125
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 1954,
+       "coordinates": [
+        77.33938289999999,
+        28.5635038
+       ]
+      },
+      {
+       "vendorId": "152948ad-e65a-4870-a65c-9fb1dccd5d28",
+       "urlSlug": "the-lavanya-banquet-by-baba-sector-132",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/152948ad-e65a-4870-a65c-9fb1dccd5d28/admin_uploads/19289a93-4d13-4a9d-b5c3-3dc928686111.webp",
+         "mimeType": "image/webp",
+         "mediaId": "19289a93-4d13-4a9d-b5c3-3dc928686111",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/152948ad-e65a-4870-a65c-9fb1dccd5d28/admin_uploads/35f5a491-fee2-4ad2-8b16-642936800a33.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "35f5a491-fee2-4ad2-8b16-642936800a33",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/152948ad-e65a-4870-a65c-9fb1dccd5d28/admin_uploads/2c24e19f-fc6c-4e33-bd80-6458cd371db4.webp",
+         "mimeType": "image/webp",
+         "mediaId": "2c24e19f-fc6c-4e33-bd80-6458cd371db4",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/152948ad-e65a-4870-a65c-9fb1dccd5d28/admin_uploads/2c24e19f-fc6c-4e33-bd80-6458cd371db4_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/152948ad-e65a-4870-a65c-9fb1dccd5d28/admin_uploads/f6a4f578-11fe-420a-b0fe-4e1755bdb843.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "f6a4f578-11fe-420a-b0fe-4e1755bdb843",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Lavanya by Baba",
+       "formattedAddress": "Eminence Infra Urbtech Matrix Tower B-4, Block B, Sector 132, Noida, 201304, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 132, Noida",
+       "userRating": 4.4,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2000,
+         "minValue": 1700
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 50,
+        "roomCount": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 150,
+         "maxValue": 1000
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 645,
+       "coordinates": [
+        77.3749361,
+        28.5145627
+       ]
+      },
+      {
+       "vendorId": "8832d6eb-8f86-4d1a-ac43-75b50cb3d284",
+       "urlSlug": "the-eliot-hotel-banquet-sector-104",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8832d6eb-8f86-4d1a-ac43-75b50cb3d284/admin_uploads/b5e3b290-0144-4123-9e58-43a96eb0e98e.webp",
+         "mimeType": "image/webp",
+         "mediaId": "b5e3b290-0144-4123-9e58-43a96eb0e98e",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8832d6eb-8f86-4d1a-ac43-75b50cb3d284/admin_uploads/2bdd35dc-0fb1-4009-9953-e618b14734c4.webp",
+         "mimeType": "image/webp",
+         "mediaId": "2bdd35dc-0fb1-4009-9953-e618b14734c4",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8832d6eb-8f86-4d1a-ac43-75b50cb3d284/admin_uploads/642ced9c-2162-40b4-b8b2-0727332a9e81.webp",
+         "mimeType": "image/webp",
+         "mediaId": "642ced9c-2162-40b4-b8b2-0727332a9e81",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/8832d6eb-8f86-4d1a-ac43-75b50cb3d284/admin_uploads/642ced9c-2162-40b4-b8b2-0727332a9e81_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/8832d6eb-8f86-4d1a-ac43-75b50cb3d284/admin_uploads/13201b2f-5859-4bcd-ba15-bdcf42c5f96b.webp",
+         "mimeType": "image/webp",
+         "mediaId": "13201b2f-5859-4bcd-ba15-bdcf42c5f96b",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/8832d6eb-8f86-4d1a-ac43-75b50cb3d284/admin_uploads/13201b2f-5859-4bcd-ba15-bdcf42c5f96b_compressed.webp"
+        }
+       ],
+       "venueName": "Eliot hotel",
+       "formattedAddress": "Hazipur, Sector 104, Noida, 201304, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 104, Noida",
+       "userRating": 4.4,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2500,
+         "minValue": 1600
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 38,
+         "minValue": 10
+        },
+        "areasAvailable": {
+         "minValue": 40,
+         "maxValue": 250
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 857,
+       "coordinates": [
+        77.36560999999999,
+        28.5366832
+       ]
+      },
+      {
+       "vendorId": "7875b176-dbed-41ae-835e-5fb101fbae36",
+       "urlSlug": "moon-cloud-banquet-sector-75",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7875b176-dbed-41ae-835e-5fb101fbae36/admin_uploads/53fb1541-8d22-416b-8e3b-faf3b025dfac.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "53fb1541-8d22-416b-8e3b-faf3b025dfac",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7875b176-dbed-41ae-835e-5fb101fbae36/admin_uploads/52975010-4e51-4f58-a407-867bc94afa1a.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "52975010-4e51-4f58-a407-867bc94afa1a",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7875b176-dbed-41ae-835e-5fb101fbae36/admin_uploads/2760be4f-0558-4a8d-9191-f3ea84600235.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "2760be4f-0558-4a8d-9191-f3ea84600235",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/7875b176-dbed-41ae-835e-5fb101fbae36/admin_uploads/6f119852-ce35-4bc4-9da9-8a11c33ac7d3.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "6f119852-ce35-4bc4-9da9-8a11c33ac7d3",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Moon cloud",
+       "formattedAddress": "Sector 75, Noida, 201316, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 75, Noida",
+       "userRating": 4.3,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 3000,
+         "minValue": 2000
+        },
+        "perDayCost": {
+         "maxValue": 410000,
+         "minValue": 400000
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 4,
+         "minValue": 2
+        },
+        "areasAvailable": {
+         "minValue": 100,
+         "maxValue": 500
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 288,
+       "coordinates": [
+        77.3846227,
+        28.5776051
+       ]
+      },
+      {
+       "vendorId": "f973b5e9-d0d4-4ad9-88a5-a27448a42347",
+       "urlSlug": "wynnd-hotels-banquets-haibatpur",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/f973b5e9-d0d4-4ad9-88a5-a27448a42347/admin_uploads/36607b05-d75a-4522-9e64-13b9eb2176a3.webp",
+         "mimeType": "image/webp",
+         "mediaId": "36607b05-d75a-4522-9e64-13b9eb2176a3",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/f973b5e9-d0d4-4ad9-88a5-a27448a42347/admin_uploads/36607b05-d75a-4522-9e64-13b9eb2176a3_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/f973b5e9-d0d4-4ad9-88a5-a27448a42347/admin_uploads/5c66f35d-aa87-4f18-9545-0da860f93470.webp",
+         "mimeType": "image/webp",
+         "mediaId": "5c66f35d-aa87-4f18-9545-0da860f93470",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/f973b5e9-d0d4-4ad9-88a5-a27448a42347/admin_uploads/5c66f35d-aa87-4f18-9545-0da860f93470_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/f973b5e9-d0d4-4ad9-88a5-a27448a42347/admin_uploads/92fd39e2-42ed-41ba-b498-26092441a01c.webp",
+         "mimeType": "image/webp",
+         "mediaId": "92fd39e2-42ed-41ba-b498-26092441a01c",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/f973b5e9-d0d4-4ad9-88a5-a27448a42347/admin_uploads/92fd39e2-42ed-41ba-b498-26092441a01c_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/f973b5e9-d0d4-4ad9-88a5-a27448a42347/admin_uploads/f7a09506-f67f-4ee6-a029-08067b652a21.webp",
+         "mimeType": "image/webp",
+         "mediaId": "f7a09506-f67f-4ee6-a029-08067b652a21",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/f973b5e9-d0d4-4ad9-88a5-a27448a42347/admin_uploads/f7a09506-f67f-4ee6-a029-08067b652a21_compressed.webp"
+        }
+       ],
+       "venueName": "wynnd banquet",
+       "formattedAddress": "Galaxy diamond plaza, Gaur City, Haibatpur, Sector 4, Greater Noida, 201016, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Haibatpur, Noida",
+       "userRating": 4.3,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1700,
+         "minValue": 1500
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 2,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 250,
+         "maxValue": 300
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 331,
+       "coordinates": [
+        77.4318021,
+        28.6059631
+       ]
+      },
+      {
+       "vendorId": "a778c4eb-6a16-4662-a20f-b0a34a6a69c0",
+       "urlSlug": "fortune-sector-27",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a778c4eb-6a16-4662-a20f-b0a34a6a69c0/admin_uploads/118ef86c-dbca-460a-95de-fc38196f9937.webp",
+         "mimeType": "image/webp",
+         "mediaId": "118ef86c-dbca-460a-95de-fc38196f9937",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/a778c4eb-6a16-4662-a20f-b0a34a6a69c0/admin_uploads/118ef86c-dbca-460a-95de-fc38196f9937_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a778c4eb-6a16-4662-a20f-b0a34a6a69c0/admin_uploads/b1e44d2a-7c47-4b5f-9870-49f7ab5100d6.webp",
+         "mimeType": "image/webp",
+         "mediaId": "b1e44d2a-7c47-4b5f-9870-49f7ab5100d6",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/a778c4eb-6a16-4662-a20f-b0a34a6a69c0/admin_uploads/b1e44d2a-7c47-4b5f-9870-49f7ab5100d6_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a778c4eb-6a16-4662-a20f-b0a34a6a69c0/admin_uploads/09b5fad8-4187-4148-8d04-4c78bcb88fc4.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "09b5fad8-4187-4148-8d04-4c78bcb88fc4",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/a778c4eb-6a16-4662-a20f-b0a34a6a69c0/admin_uploads/5d3d4b6c-5de3-4515-8ed8-af86b59b060b.webp",
+         "mimeType": "image/webp",
+         "mediaId": "5d3d4b6c-5de3-4515-8ed8-af86b59b060b",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/a778c4eb-6a16-4662-a20f-b0a34a6a69c0/admin_uploads/5d3d4b6c-5de3-4515-8ed8-af86b59b060b_compressed.webp"
+        }
+       ],
+       "venueName": "Itc Fortune 27 Noida",
+       "formattedAddress": "Plot No. 1A, Nr Indo Gulf Hospital, I Block, Pocket I, Sector 27, 201301, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 27, Noida",
+       "userRating": 4.2,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2400,
+         "minValue": 1900
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 70,
+        "roomCount": {
+         "maxValue": 42,
+         "minValue": 21
+        },
+        "areasAvailable": {
+         "minValue": 60,
+         "maxValue": 325
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 5148,
+       "coordinates": [
+        77.32834,
+        28.5771344
+       ]
+      },
+      {
+       "vendorId": "3b387852-3165-4715-9f1f-477fd12162a9",
+       "urlSlug": "chhavi-hotels-hazipur-sector-104-BJ3",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/3b387852-3165-4715-9f1f-477fd12162a9/admin_uploads/554e1f8a-fe87-4373-9296-9f6d8bd52f55.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "554e1f8a-fe87-4373-9296-9f6d8bd52f55",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/3b387852-3165-4715-9f1f-477fd12162a9/admin_uploads/41db9896-c293-46c1-a659-94206abb2f92.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "41db9896-c293-46c1-a659-94206abb2f92",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/3b387852-3165-4715-9f1f-477fd12162a9/admin_uploads/78f42852-9f98-4979-8e55-c978058e5d48.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "78f42852-9f98-4979-8e55-c978058e5d48",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/3b387852-3165-4715-9f1f-477fd12162a9/admin_uploads/2afdf66f-15d1-4994-9e6c-ad2d548c37f3.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "2afdf66f-15d1-4994-9e6c-ad2d548c37f3",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Chhavi Hotels",
+       "formattedAddress": "Hazipur, Sector 104, Noida, 201304, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Hazipur, Sector 104, Noida",
+       "userRating": 4.1,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1400,
+         "minValue": 1200
+        },
+        "perDayCost": {
+         "maxValue": 80000,
+         "minValue": 70000
+        },
+        "parkingCount": 10,
+        "roomCount": {
+         "maxValue": 139,
+         "minValue": 70
+        },
+        "areasAvailable": {
+         "minValue": 40,
+         "maxValue": 375
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 221,
+       "coordinates": [
+        77.3657389,
+        28.5365946
+       ]
+      },
+      {
+       "vendorId": "ed54e0d9-a513-49a2-b233-066c96e14c05",
+       "urlSlug": "regenta-central-noida-sector-49",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ed54e0d9-a513-49a2-b233-066c96e14c05/gmap/d71423ab-5111-4cd0-9a6b-bad090f3538b.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "8aff9bc3-42c4-4c68-a3fe-10f83b48562b",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ed54e0d9-a513-49a2-b233-066c96e14c05/gmap/8a5788cb-2d7c-4bd7-bc91-4f5935606b9a.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "0de4c150-d5ea-467d-9f7f-0b22b0191a65",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ed54e0d9-a513-49a2-b233-066c96e14c05/admin_uploads/f908cb62-be6f-44e6-9764-65421733d0f6.webp",
+         "mimeType": "image/webp",
+         "mediaId": "f908cb62-be6f-44e6-9764-65421733d0f6",
+         "compressedMediaUrl": "https://gcpimages.theweddingcompany.com/weddings/ed54e0d9-a513-49a2-b233-066c96e14c05/admin_uploads/f908cb62-be6f-44e6-9764-65421733d0f6_compressed.webp"
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/ed54e0d9-a513-49a2-b233-066c96e14c05/gmap/5e74ba02-10b0-4f1b-9326-5fd48a67b74b.jpg",
+         "mimeType": "image/jpeg",
+         "alt": "",
+         "mediaId": "80ea121d-8826-4f06-b506-e3066b5776ab",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Regenta Central Noida",
+       "formattedAddress": "Dadri Main Road, Natthu Colony, Baraula, Sector 49, Noida, 201303, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector 49, Noida",
+       "userRating": 3.8,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 2100,
+         "minValue": 1600
+        },
+        "perDayCost": {
+         "maxValue": 650000,
+         "minValue": 600000
+        },
+        "parkingCount": 50,
+        "roomCount": {
+         "maxValue": 80,
+         "minValue": 1
+        },
+        "areasAvailable": {
+         "minValue": 20,
+         "maxValue": 150
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 1891,
+       "coordinates": [
+        77.3735837,
+        28.5555792
+       ]
+      },
+      {
+       "vendorId": "1073e7af-4bc2-476f-bfc1-3d7284d7c699",
+       "urlSlug": "omnia-by-tivoli-noida-hotels-and-banquets-sarfabad-sector-120",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1073e7af-4bc2-476f-bfc1-3d7284d7c699/admin_uploads/f7e4c09c-7abf-4b1c-acd2-00021ffb060f.webp",
+         "mimeType": "image/webp",
+         "mediaId": "f7e4c09c-7abf-4b1c-acd2-00021ffb060f",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1073e7af-4bc2-476f-bfc1-3d7284d7c699/admin_uploads/fa0649fb-8b1d-4059-b495-b7dfd0cad6ed.webp",
+         "mimeType": "image/webp",
+         "mediaId": "fa0649fb-8b1d-4059-b495-b7dfd0cad6ed",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1073e7af-4bc2-476f-bfc1-3d7284d7c699/admin_uploads/bfe0c303-2592-495e-a736-b3ed28359a64.webp",
+         "mimeType": "image/webp",
+         "mediaId": "bfe0c303-2592-495e-a736-b3ed28359a64",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/1073e7af-4bc2-476f-bfc1-3d7284d7c699/admin_uploads/90a0fbff-20e1-4bb1-9381-3a130d89f6d9.webp",
+         "mimeType": "image/webp",
+         "mediaId": "90a0fbff-20e1-4bb1-9381-3a130d89f6d9",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Tivoli omnia",
+       "formattedAddress": "Main, Bijwasan Road, near Northern Peripheral Road, Isapur Khera, Dwarka, New Delhi, 110077, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sarfabad, Sector 120, Noida",
+       "userRating": 4.7,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 3000,
+         "minValue": 2500
+        },
+        "perDayCost": {
+         "maxValue": 700000,
+         "minValue": 600000
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 18,
+         "minValue": 2
+        },
+        "areasAvailable": {
+         "minValue": 1100,
+         "maxValue": 1500
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 43,
+       "coordinates": [
+        77.3918895,
+        28.58778659999999
+       ]
+      },
+      {
+       "vendorId": "acfbe4c7-62d0-42d7-bbce-df0b4c16471c",
+       "urlSlug": "moon-star-banquet-in-noida-extention-greater-noida-west-ithera-iteda",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/acfbe4c7-62d0-42d7-bbce-df0b4c16471c/admin_uploads/ee98333c-00ca-459e-be0f-89303c352f3e.webp",
+         "mimeType": "image/webp",
+         "mediaId": "ee98333c-00ca-459e-be0f-89303c352f3e",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/acfbe4c7-62d0-42d7-bbce-df0b4c16471c/admin_uploads/5afe60ad-6156-41d0-9ade-bdd8bd01bfb6.webp",
+         "mimeType": "image/webp",
+         "mediaId": "5afe60ad-6156-41d0-9ade-bdd8bd01bfb6",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/acfbe4c7-62d0-42d7-bbce-df0b4c16471c/admin_uploads/474b206e-b307-4497-9830-7027c1296f80.webp",
+         "mimeType": "image/webp",
+         "mediaId": "474b206e-b307-4497-9830-7027c1296f80",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/acfbe4c7-62d0-42d7-bbce-df0b4c16471c/admin_uploads/9def286f-4514-409e-95c2-c2a2220ee116.webp",
+         "mimeType": "image/webp",
+         "mediaId": "9def286f-4514-409e-95c2-c2a2220ee116",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Moon Star",
+       "formattedAddress": "Centurian Rd, near Cherry County Street, Greater Noida West, ithera, Iteda, Greater Noida, 201009, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Centurian Road, Noida",
+       "userRating": 4.2,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 3000,
+         "minValue": 2000
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 2,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 250,
+         "maxValue": 1000
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": true,
+       "bhPartnerDealText": null,
+       "userRatingCount": 131,
+       "coordinates": [
+        77.44211849999999,
+        28.5998917
+       ]
+      },
+      {
+       "vendorId": "67dcae7c-d6c6-41d6-9680-3f42962121af",
+       "urlSlug": "saffron-banquet-noida-extension-dadri-main-road",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/67dcae7c-d6c6-41d6-9680-3f42962121af/admin_uploads/c75f7eae-50e9-4eed-a51d-8623e584f6a0.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "c75f7eae-50e9-4eed-a51d-8623e584f6a0",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/67dcae7c-d6c6-41d6-9680-3f42962121af/admin_uploads/c0364614-1f41-4f4f-a075-792c2bfd032c.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "c0364614-1f41-4f4f-a075-792c2bfd032c",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/67dcae7c-d6c6-41d6-9680-3f42962121af/admin_uploads/80fa0876-bb09-40c5-af41-3df7932183c3.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "80fa0876-bb09-40c5-af41-3df7932183c3",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/67dcae7c-d6c6-41d6-9680-3f42962121af/admin_uploads/0ad4c152-5d8d-41ff-8a66-6a0b9854031f.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "0ad4c152-5d8d-41ff-8a66-6a0b9854031f",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Saffron Banquet - Noida Extension",
+       "formattedAddress": "Baba's  Lavanya Hospitality,, Main, Dadri Main Rd, near NSEZ Metro Station,, 201306, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Dadri Main Road, Noida",
+       "userRating": 4.7,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1800,
+         "minValue": 0
+        },
+        "perDayCost": {
+         "maxValue": 0,
+         "minValue": 0
+        },
+        "parkingCount": 198,
+        "roomCount": {
+         "maxValue": 2,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 400,
+         "maxValue": 3000
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": 41,
+       "coordinates": [
+        77.4451742,
+        28.5329812
+       ]
+      },
+      {
+       "vendorId": "64521aef-33ca-479b-ac07-1dafb669f583",
+       "urlSlug": "saffron-banquet-and-party-lawn-sector-106-BQ8",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/64521aef-33ca-479b-ac07-1dafb669f583/admin_uploads/2d28f49f-7895-47e4-9edd-e14dd32960c7.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "2d28f49f-7895-47e4-9edd-e14dd32960c7",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/64521aef-33ca-479b-ac07-1dafb669f583/admin_uploads/6a7fcfed-2366-4cd1-8faf-42318c1ad5d2.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "6a7fcfed-2366-4cd1-8faf-42318c1ad5d2",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/64521aef-33ca-479b-ac07-1dafb669f583/admin_uploads/befb32e3-c765-434e-96d8-6b10b0e0a87c.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "befb32e3-c765-434e-96d8-6b10b0e0a87c",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/64521aef-33ca-479b-ac07-1dafb669f583/admin_uploads/4df6519a-0d72-43d0-b81a-ebb74086b8a0.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "4df6519a-0d72-43d0-b81a-ebb74086b8a0",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Saffron Banquet And Party Lawn",
+       "formattedAddress": "Dadri Main Road, Sector - 106, extension, Greater Noida, 201016, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Sector - 106, Noida",
+       "userRating": 4.6,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 1800,
+         "minValue": 0
+        },
+        "perDayCost": {
+         "maxValue": 60000,
+         "minValue": 50000
+        },
+        "parkingCount": 198,
+        "roomCount": {
+         "maxValue": 2,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 150,
+         "maxValue": 500
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": 9,
+       "coordinates": [
+        77.44203329999999,
+        28.5336437
+       ]
+      },
+      {
+       "vendorId": "4a238e3a-528b-4507-8418-e547a95211e0",
+       "urlSlug": "hotel-red-york-gb-nagar-SOB",
+       "media": [
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4a238e3a-528b-4507-8418-e547a95211e0/admin_uploads/d6527642-2590-4a83-8d25-5f313910e12c.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "d6527642-2590-4a83-8d25-5f313910e12c",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4a238e3a-528b-4507-8418-e547a95211e0/admin_uploads/76cf972c-0290-472b-8026-97a7b9688743.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "76cf972c-0290-472b-8026-97a7b9688743",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4a238e3a-528b-4507-8418-e547a95211e0/admin_uploads/49fe9d36-1942-47c1-8998-0dbed5d35cf8.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "49fe9d36-1942-47c1-8998-0dbed5d35cf8",
+         "compressedMediaUrl": null
+        },
+        {
+         "url": "https://gcpimages.theweddingcompany.com/weddings/4a238e3a-528b-4507-8418-e547a95211e0/admin_uploads/e580092a-abd7-470f-a37c-4c4769384d46.jpg",
+         "mimeType": "image/jpeg",
+         "mediaId": "e580092a-abd7-470f-a37c-4c4769384d46",
+         "compressedMediaUrl": null
+        }
+       ],
+       "venueName": "Hotel Red York",
+       "formattedAddress": "SD-1, Sec 63A,, GB nagar, Noida, 201301, Noida, Uttar Pradesh",
+       "city": "Noida",
+       "citySlug": "noida",
+       "shortAddress": "Gb Nagar, Noida",
+       "userRating": 4.5,
+       "meta": {
+        "perPlateCost": {
+         "maxValue": 900,
+         "minValue": 800
+        },
+        "perDayCost": {
+         "maxValue": 50000,
+         "minValue": 40000
+        },
+        "parkingCount": 0,
+        "roomCount": {
+         "maxValue": 39,
+         "minValue": 0
+        },
+        "areasAvailable": {
+         "minValue": 150,
+         "maxValue": 250
+        }
+       },
+       "sort_by_status": 1,
+       "specialTags": [],
+       "isBhPartner": false,
+       "bhPartnerDealText": null,
+       "userRatingCount": 548,
+       "coordinates": [
+        77.3951503,
+        28.6196526
+       ]
+      }
+     ]
+    },
+    "categorySEO": {
+     "seoExtra": {
+      "city": "Noida",
+      "seoType": "venue_filter",
+      "venueFilterId": "3101"
+     },
+     "head": {
+      "title": {
+       "value": "10+ Best Banquet Halls in Noida with Price &  Reviews"
+      },
+      "metaDescription": {
+       "value": "Find the list of best Banquet Halls in Noida with price, deals, availability, reviews, & photos. Contact for engagements, wedding, sangeet functions, & more."
+      },
+      "metaRobot": {
+       "value": "index, follow"
+      },
+      "canonicalTag": {
+       "value": "/wedding-venues/noida/banquet-halls-fi3",
+       "isSameAsChecked": true
+      }
+     },
+     "openGraph": {
+      "url": {
+       "value": "/wedding-venues/noida/banquet-halls-fi3",
+       "isSameAsChecked": true
+      },
+      "type": {
+       "value": "website"
+      },
+      "title": {
+       "value": "10+ Best Banquet Halls in Noida with Price &  Reviews",
+       "isSameAsChecked": true
+      },
+      "description": {
+       "value": "Find the list of best Banquet Halls in Noida with price, deals, availability, reviews, & photos. Contact for engagements, wedding, sangeet functions, & more.",
+       "isSameAsChecked": true
+      },
+      "image": {
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/assets/Venue.png",
+       "isSameAsChecked": true
+      }
+     },
+     "twitterCard": {
+      "card": {
+       "value": "summary_large_image"
+      },
+      "site": {
+       "value": "@TheWeddingCmpny"
+      },
+      "title": {
+       "value": "10+ Best Banquet Halls in Noida with Price &  Reviews",
+       "isSameAsChecked": true
+      },
+      "description": {
+       "value": "Find the list of best Banquet Halls in Noida with price, deals, availability, reviews, & photos. Contact for engagements, wedding, sangeet functions, & more.",
+       "isSameAsChecked": true
+      },
+      "image": {
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/assets/Venue.png",
+       "isSameAsChecked": true
+      }
+     }
+    },
+    "categoryAbout": {
+     "seoExtra": {
+      "city": "Noida",
+      "seoType": "venue_filter",
+      "venueFilterId": "3101"
+     },
+     "results": {
+      "about": {
+       "ops": [
+        {
+         "insert": "Noida is home to some of North India’s most sought-after banquet halls. From modern luxury hotels to stylish indoor venues, the city offers spaces for weddings, receptions, and social events of all sizes. Whether you are planning an intimate gathering or a grand celebration, Noida’s banquet halls provide professional service and a range of budgets to suit every need.\n\n\nWhich are the budget-friendly banquet halls in Noida with prices?"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nNoida has several affordable banquet halls for couples looking to celebrate without spending too much. These halls are perfect for small weddings, family gatherings, or simple celebrations.\n\n\nBanquet halls under INR 1000 per plate"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Affordable banquet halls in Noida are ideal for small weddings and family gatherings.\n\n1."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/gulshan-vivante-banquet-sector-137-WMY"
+         },
+         "insert": " Gulshan Vivante Banquet"
+        },
+        {
+         "insert": "\nPrice: ₹750-950"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Capacity: 100-150"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Ideal for: Simple weddings, engagement functions, and traditional ceremonies."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n\n2."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/the-alpha-banquet-sector-31"
+         },
+         "insert": " The Alpha Banquet"
+        },
+        {
+         "insert": "\nPrice: ₹590-690"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Capacity: 100-120"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Ideal for: Family get-togethers, pre-wedding functions, and small birthday parties."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n\n3."
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/ch-hariram-palace-dadri"
+         },
+         "insert": " Ch. Hariram Palace"
+        },
+        {
+         "insert": "\nPrice: ₹500-700"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Capacity: 150-800"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Ideal for: Cultural celebrations, modest receptions, and social gatherings."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n\nBanquet halls from INR 1000 to INR 3000 per plate"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "These banquet halls in Noida blend elegance with convenience. They feature well-designed interiors, on-site catering, and seamless event management.\n\n1. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/swarn-banquet-sector-62"
+         },
+         "insert": "Swarn Banquet"
+        },
+        {
+         "insert": "\nPrice: ₹1800-2200"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Capacity: 200-400"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Ideal for: Elegant wedding receptions, anniversary parties, and business events."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n\n2. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/park-ascent-sector-62"
+         },
+         "insert": "Park Ascent"
+        },
+        {
+         "insert": "\nPrice: ₹1700-1750"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Capacity: 70-500"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Ideal for: Small weddings, cocktail parties, and festive dinners."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n\n3. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/milantra-green-banquet-hall-sector-49"
+         },
+         "insert": "Milantra Green Banquet"
+        },
+        {
+         "insert": "\nPrice: ₹1500 per plate"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Capacity: 100-800"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Ideal for: Outdoor weddings, family celebrations, and weekend retreats."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n\nLuxury Banquet Halls Above ₹3000 Per Plate"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "These luxury halls provide elegant décor, top-tier amenities, and excellent service. They suit couples planning lavish weddings or sophisticated receptions.\n\n1. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/radisson-blu-mbd-hotel-noida-sector-18"
+         },
+         "insert": "Radisson Blu MBD Hotel Noida"
+        },
+        {
+         "insert": "\nPrice: ₹3500"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Capacity: 50-500"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Ideal for: Royal weddings, elite receptions, and milestone events."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n2. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+         },
+         "insert": "The Mayfair Grand"
+        },
+        {
+         "insert": "\nPrice: ₹3500"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Capacity: 150-800"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Ideal for: Lavish weddings, themed parties, and elegant formal events."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n3. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+         },
+         "insert": "Wedding Crown"
+        },
+        {
+         "insert": "\nPrice: ₹3500"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Capacity: 150-1400"
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Ideal for: Destination-style weddings, premium receptions, and luxury social gatherings."
+        },
+        {
+         "attributes": {
+          "list": "bullet"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n\nTop 10 Banquet Halls in Noida"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Here’s a quick list of the most popular banquet halls in the city:\n\n1. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/radisson-blu-mbd-hotel-noida-sector-18"
+         },
+         "insert": "Radisson Blu MBD Hotel Noida"
+        },
+        {
+         "insert": "\n2. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/the-shaurya-banquet-sector-73"
+         },
+         "insert": "The Shaurya Banquet"
+        },
+        {
+         "insert": "\n3. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/greater-noida/the-gaurs-sarovar-premiere-gaur-city"
+         },
+         "insert": "The Gaurs Sarovar Premiere"
+        },
+        {
+         "insert": "\n4. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/sandal-suites-operated-by-lemon-tree-hotels-sector-135"
+         },
+         "insert": "Sandal Suites by Lemon Tree Hotels"
+        },
+        {
+         "insert": "\n5. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/the-white-palace-banquet-by-khanak-sector-70"
+         },
+         "insert": "The White Palace Banquet by Khanak"
+        },
+        {
+         "insert": "\n6. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/swarn-banquet-sector-62"
+         },
+         "insert": "Swarn Banquet"
+        },
+        {
+         "insert": "\n7. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/moon-cloud-banquet-sector-75"
+         },
+         "insert": "Moon Cloud Banquet"
+        },
+        {
+         "insert": "\n8. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/travamigo-riverside-farm-resort-sector-135"
+         },
+         "insert": "TravAmigo Riverside Farm & Resort"
+        },
+        {
+         "insert": "\n9. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/nirvana-farms-sector-135"
+         },
+         "insert": "Nirvana Farms"
+        },
+        {
+         "insert": "\n10. "
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+         },
+         "insert": "The Mayfair Grand"
+        },
+        {
+         "insert": "\n\n\nBanquet halls by capacity"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nBanquet halls for less than 100 guests"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/hotel-akash-palace-sector-51"
+         },
+         "insert": "Hotel Akash Palace"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/stellar-binge-sector-62"
+         },
+         "insert": "Stellar Binge"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/travamigo-riverside-farm-resort-sector-135"
+         },
+         "insert": "TravAmigo Riverside Farm & Resort"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nBanquet halls for 100-250 persons in Noida"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/casa-meera-sector-70"
+         },
+         "insert": "Casa Meera"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/the-ritvaan-sector-49"
+         },
+         "insert": "The Ritvaan"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/alpha-party-lounge-sector-61"
+         },
+         "insert": "Alpha Party Lounge"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nBanquet halls for 250-500 Guests"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/mithila-banquet-shramik-kunj-sector-66"
+         },
+         "insert": "Mithila Banquet"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/ktg-banquet-hall-sector-135"
+         },
+         "insert": "KTG Banquet Hall"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/party-monster-sector-78-LKS"
+         },
+         "insert": "Party Monster"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nBanquet halls for 500-1000 Guests in Noida"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/hotel-noida-international-sector-11"
+         },
+         "insert": "Hotel Noida International"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/nirvana-farms-sector-135"
+         },
+         "insert": "Nirvana Farms"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/radisson-blu-mbd-hotel-pocket-j-sector-18"
+         },
+         "insert": "Radisson Blu MBD Hotel"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nMore than 1000 Guests"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/the-shaurya-banquet-sector-73"
+         },
+         "insert": "The Shaurya Banquet"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/saffron-banquet-noida-extension-dadri-main-road"
+         },
+         "insert": "Saffron Banquet - Noida Extension"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "attributes": {
+          "link": "https://www.theweddingcompany.com/wedding-venues/noida/golden-dream-banquet-sector-51"
+         },
+         "insert": "Golden Dream Banquet"
+        },
+        {
+         "attributes": {
+          "list": "ordered"
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nFAQs"
+        },
+        {
+         "attributes": {
+          "header": 2
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "\nWhat banquet halls have the best reviews in Noida?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Top-rated banquet halls in Noida include Surya Grand Banquet, Victoria Banquet, and Orchid Grand Banquet. They are known for their elegant décor, delicious food, and smooth event management.\n\nHow soon should we book a banquet hall in Noida?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "It’s ideal to book your banquet hall 8 to 12 months in advance, especially for weddings between November and February when demand is high.\n\nDo banquet halls provide in-house decor and catering?"
+        },
+        {
+         "attributes": {
+          "header": 3
+         },
+         "insert": "\n"
+        },
+        {
+         "insert": "Yes, most banquet halls in Noida provide in-house décor and catering services. Some venues also allow outside vendors upon prior approval.\n"
+        }
+       ]
+      }
+     }
+    },
+    "isVenueDetailSlug": false,
+    "seoFooterDetails": {
+     "title": "CITY FILTER PAGE DATA",
+     "contains": [
+      "Types Of Venues",
+      "Explore Venues in City",
+      "Other Wedding Services",
+      "Explore Wedding Ideas"
+     ],
+     "payload": {
+      "Types Of Venues": [
+       {
+        "label": "Best 5 Star Wedding Venues in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/5-star-venues-fi3"
+       },
+       {
+        "label": "Best 4 Star Wedding Venues in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/4-star-venues-fi3"
+       },
+       {
+        "label": "Best 3 Star Wedding Venues in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/3-star-venues-fi3"
+       },
+       {
+        "label": "Best Wedding Resorts in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/resorts-fi3"
+       },
+       {
+        "label": "Best Convention Halls in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/convention-halls-fi3"
+       },
+       {
+        "label": "Best Farm House for Wedding in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/farm-house-fi3"
+       },
+       {
+        "label": "Best Kalyan Mandap/Mantapa in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/kalyan-mandap-mantapas-fi3"
+       },
+       {
+        "label": "Best Banquet Halls in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+       },
+       {
+        "label": "Best Function Halls in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/function-halls-fi3"
+       },
+       {
+        "label": "Best Party Halls in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/party-halls-fi3"
+       },
+       {
+        "label": "Best Pool Side Wedding Venues in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/pool-side-venues-fi3"
+       },
+       {
+        "label": "Best Marriage Lawns in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/marriage-lawn-fi3"
+       },
+       {
+        "label": "Best Heritage Properties in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/heritage-property-fi3"
+       },
+       {
+        "label": "Best Open Terraces in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/open-terrace-fi3"
+       },
+       {
+        "label": "Best Amphitheatres in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/amphitheatre-fi3"
+       }
+      ],
+      "Explore Venues in City": [
+       {
+        "label": "Banquet Halls in Bengaluru",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/bengaluru/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Goa",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/goa/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Mumbai",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/mumbai/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Jaipur",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/jaipur/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Udaipur",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/udaipur/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Jodhpur",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/jodhpur/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Jaisalmer",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/jaisalmer/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Delhi",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/delhi/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Greater Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/greater-noida/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Gurugram",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/gurugram/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Ghaziabad",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/ghaziabad/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Faridabad",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/faridabad/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Lonavala",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/lonavala/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Igatpuri",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/igatpuri/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Karjat",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/karjat/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Manesar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/manesar/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Rishikesh",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/rishikesh/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Nainital",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/nainital/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Pushkar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/pushkar/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Ranthambore",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/ranthambore/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Kumbhalgarh",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/kumbhalgarh/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Thane",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/thane/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Mira Bhayandar",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/mira-bhayandar/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Navi Mumbai",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/navi-mumbai/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Hyderabad",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/hyderabad/banquet-halls-fi3"
+       },
+       {
+        "label": "Banquet Halls in Chennai",
+        "slug": "https://www.theweddingcompany.com/wedding-venues/chennai/banquet-halls-fi3"
+       }
+      ],
+      "Other Wedding Services": [
+       {
+        "label": "Wedding Photographers in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-photographers/noida"
+       },
+       {
+        "label": "Wedding Decorators in Noida",
+        "slug": "https://www.theweddingcompany.com/wedding-decorators/noida"
+       }
+      ],
+      "Explore Wedding Ideas": [
+       {
+        "label": "Bridal Lehenga Designs",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/bridal-lehengas"
+       },
+       {
+        "label": "Wedding Cakes Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/wedding-cakes"
+       },
+       {
+        "label": "Wedding Invitations Design",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/invitations"
+       },
+       {
+        "label": "Mehendi Design Photos",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/mehendi-designs"
+       },
+       {
+        "label": "Wedding Saree Design",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/sarees"
+       },
+       {
+        "label": "Blouse Design Photos",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/blouse-designs"
+       },
+       {
+        "label": "Wedding Decoration Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/decoration-ideas"
+       },
+       {
+        "label": "Wedding Photoshoot Poses",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/photoshoot-poses"
+       },
+       {
+        "label": "Bridal Makeup",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/makeup"
+       },
+       {
+        "label": "Jewellery Designs",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/jewellery"
+       },
+       {
+        "label": "Wedding Dresses",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/wedding-dresses"
+       },
+       {
+        "label": "Groom Dresses",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/groom-dresses"
+       },
+       {
+        "label": "Wedding Accessories",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/accessories"
+       },
+       {
+        "label": "Wedding Gift Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/wedding-gifts"
+       },
+       {
+        "label": "Hairstyles",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/hairstyles"
+       },
+       {
+        "label": "Pre Wedding Photoshoot Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/pre-wedding-shoot"
+       },
+       {
+        "label": "Wedding Themes",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/wedding-themes"
+       },
+       {
+        "label": "Venue Ideas",
+        "slug": "https://www.theweddingcompany.com/wedding-ideas/venue-ideas"
+       }
+      ]
+     }
+    }
+   },
+   "__N_SSG": true
+  },
+  "page": "/wedding-venues/[venueCityOrFilter]/[venueLocalityOrDetailOrFilter]",
+  "query": {
+   "venueCityOrFilter": "noida",
+   "venueLocalityOrDetailOrFilter": "banquet-halls-fi3"
+  },
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "dynamicIds": [
+   21579
+  ],
+  "gsp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/8848bf46d578cae6.css",
+  "/_next/static/css/98388d77ac0fd362.css",
+  "/_next/static/css/ce6a73842ea250d3.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-ideas",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues",
+  "/wedding-venues/noida",
+  "/wedding-venues/noida/bellmont-hotel-sector-37",
+  "/wedding-venues/noida/ch-hariram-palace-dadri",
+  "/wedding-venues/noida/chhavi-hotels-hazipur-sector-104-BJ3",
+  "/wedding-venues/noida/fortune-sector-27",
+  "/wedding-venues/noida/golden-leaf-noida-by-surya-palace-sector-31",
+  "/wedding-venues/noida/hotel-red-york-gb-nagar-SOB",
+  "/wedding-venues/noida/milantra-green-banquet-hall-sector-49",
+  "/wedding-venues/noida/moon-cloud-banquet-sector-75",
+  "/wedding-venues/noida/moon-star-banquet-in-noida-extention-greater-noida-west-ithera-iteda",
+  "/wedding-venues/noida/omnia-by-tivoli-noida-hotels-and-banquets-sarfabad-sector-120",
+  "/wedding-venues/noida/park-ascent-sector-62",
+  "/wedding-venues/noida/radisson-noida-sector-55",
+  "/wedding-venues/noida/regenta-central-noida-sector-49",
+  "/wedding-venues/noida/riveria-valley-hotel-and-resort-sector-2",
+  "/wedding-venues/noida/saffron-banquet-and-party-lawn-sector-106-BQ8",
+  "/wedding-venues/noida/saffron-banquet-noida-extension-dadri-main-road",
+  "/wedding-venues/noida/sandal-suites-operated-by-lemon-tree-hotels-sector-135",
+  "/wedding-venues/noida/swarn-banquet-sector-62",
+  "/wedding-venues/noida/the-city-light-banquet-hall-aimnabad",
+  "/wedding-venues/noida/the-eliot-hotel-banquet-sector-104",
+  "/wedding-venues/noida/the-lavanya-banquet-by-baba-sector-132",
+  "/wedding-venues/noida/the-white-palace-banquet-by-khanak-sector-70",
+  "/wedding-venues/noida/tivoli-lotus-court-hotels-banquets-sector-74-2IS",
+  "/wedding-venues/noida/wynnd-hotels-banquets-haibatpur"
+ ],
+ "external_img_domains": [
+  "https://gcpimages.theweddingcompany.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 80659,
+ "bytes": 284580,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><title>10+ Best Banquet Halls in Noida with Price &amp; Reviews</title><meta property=\"og:title\" content=\"10+ Best Banquet Halls in Noida with Price &amp; Reviews\"/><meta name=\"twitter:title\" content=\"10+ Best Banquet Halls in Noida with Price &amp; Reviews\"/><meta name=\"description\" content=\"Find the list of best Banquet Halls in Noida with price, deals, availability, reviews, &amp; photos. Contact for engagements, wedding,"
+}

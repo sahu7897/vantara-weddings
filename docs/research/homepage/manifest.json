@@ -1,0 +1,70 @@
+{
+ "header_nav.html": {
+  "bytes": 2153,
+  "balance": 0,
+  "note": "nav only; Layout owns <main class='pb-2 lg:pb-6'>"
+ },
+ "home-page-revamp.html": {
+  "bytes": 18654,
+  "balance": 0
+ },
+ "client_reviews.html": {
+  "bytes": 1457,
+  "balance": 0,
+  "note": "unlisted: tagembed review widgets"
+ },
+ "how_it_works_outer_section.html": {
+  "bytes": 25810,
+  "balance": 0
+ },
+ "book_venues_section.html": {
+  "bytes": 1699,
+  "balance": 0
+ },
+ "venues_block.html": {
+  "bytes": 543718,
+  "balance": 0,
+  "note": "wrapper A>B with children SLOT = industry + e2e (+C literal)"
+ },
+ "industry_partners_section.html": {
+  "bytes": 3321,
+  "balance": 0
+ },
+ "end_to_end_services_section.html": {
+  "bytes": 4771,
+  "balance": 0
+ },
+ "wedding_proposals_section.html": {
+  "bytes": 24088,
+  "balance": 0
+ },
+ "explore_wedding_ideas_section.html": {
+  "bytes": 3084,
+  "balance": 0
+ },
+ "why_are_we_better_section.html": {
+  "bytes": 3682,
+  "balance": 0
+ },
+ "frequently_asked_questions_section.html": {
+  "bytes": 7166,
+  "balance": 0
+ },
+ "are_you_a_vendor_section.html": {
+  "bytes": 3291,
+  "balance": 0
+ },
+ "more_about_betterhalf_section.html": {
+  "bytes": 12263,
+  "balance": 0
+ },
+ "footer_section.html": {
+  "bytes": 21799,
+  "balance": 0
+ },
+ "sticky_cta_bar.html": {
+  "bytes": 4803,
+  "balance": 0,
+  "note": "sticky WhatsApp + CTA bar inside <main>"
+ }
+}

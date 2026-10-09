@@ -1,0 +1,92 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-ideas/search",
+ "status_title": "",
+ "meta_description": null,
+ "canonical": null,
+ "h1": [],
+ "h2": [],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 1,
+ "inputs": 1,
+ "buttons": 3,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/ec70c9af02a4e84a.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-ideas/search-c52b9e72a95097b7.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {}
+  },
+  "page": "/wedding-ideas/search",
+  "query": {},
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "nextExport": true,
+  "autoExport": true,
+  "isFallback": false,
+  "dynamicIds": [
+   3610
+  ],
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/ec70c9af02a4e84a.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-ideas",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues"
+ ],
+ "external_img_domains": [
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 3775,
+ "bytes": 34495,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><title></title><meta name=\"next-head-count\" content=\"4\"/><link rel=\"preload\" href=\"/_next/static/media/eaead17c7dbfcd5d-s.p.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\" data-next-font=\"size-adjust\"/><link rel=\"preload\" href=\"/_next/static/media/55c20a7790588da9-s.p.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\" data-next-font=\"size-adjust\"/><link rel=\"preload\" href=\"/_next/static/media/155cae559bbd1a77"
+}

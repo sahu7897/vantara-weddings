@@ -1,0 +1,487 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-ideas",
+ "status_title": "The Wedding Company - Book Venues, End to End Wedding Services, Planners in India",
+ "meta_description": "The Wedding Company provides the best wedding services in India. Book end-to-end wedding planning services online with us and grab the best deals for your wedding, engagement, reception, and other events.",
+ "canonical": null,
+ "h1": [
+  "Ideas &amp; inspiration for your wedding"
+ ],
+ "h2": [],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 1,
+ "inputs": 1,
+ "buttons": 47,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/ef46db3751d8e999.css",
+  "/_next/static/css/ec70c9af02a4e84a.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-ideas-391228f6f7e425d4.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "dehydratedState": {
+     "mutations": [],
+     "queries": [
+      {
+       "state": {
+        "data": {
+         "pages": [
+          {
+           "nextPageUrl": "https://weddingconsumerapi.betterhalf.ai/v1/ideabook/search/list?limit=21&page=2",
+           "totalCount": 10000,
+           "result": [
+            {
+             "vendorId": "3ff1b06e-10cb-41a0-b1d8-c81f8354282f",
+             "mediaId": "55AEBCB4-1469-4626-B72F-A5AEDDE08E15",
+             "mediaSlug": "traditional-treasures-55AEBCB4-1469-4626-B72F-A5AEDDE08E15",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/3ff1b06e-10cb-41a0-b1d8-c81f8354282f/55AEBCB4-1469-4626-B72F-A5AEDDE08E15.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/3ff1b06e-10cb-41a0-b1d8-c81f8354282f/55AEBCB4-1469-4626-B72F-A5AEDDE08E15.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Premium",
+             "height": 900,
+             "width": 720,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/55AEBCB4-1469-4626-B72F-A5AEDDE08E15.jpeg"
+            },
+            {
+             "vendorId": "3ff1b06e-10cb-41a0-b1d8-c81f8354282f",
+             "mediaId": "69BE5D0E-B8C4-4971-8C81-F4165795A128",
+             "mediaSlug": "elegant-lehenga-delight-69BE5D0E-B8C4-4971-8C81-F4165795A128",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/3ff1b06e-10cb-41a0-b1d8-c81f8354282f/69BE5D0E-B8C4-4971-8C81-F4165795A128.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/3ff1b06e-10cb-41a0-b1d8-c81f8354282f/69BE5D0E-B8C4-4971-8C81-F4165795A128.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 900,
+             "width": 720,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/69BE5D0E-B8C4-4971-8C81-F4165795A128.jpeg"
+            },
+            {
+             "vendorId": "480f5a5e-8489-465d-9c4a-b7c8bca0b9e6",
+             "mediaId": "360A2DEF-1793-4F7C-9794-F5D974A4426F",
+             "mediaSlug": "enchanting-forest-engagement-360A2DEF-1793-4F7C-9794-F5D974A4426F",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/360A2DEF-1793-4F7C-9794-F5D974A4426F.JPG",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/360A2DEF-1793-4F7C-9794-F5D974A4426F.JPG",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 900,
+             "width": 1350,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/360A2DEF-1793-4F7C-9794-F5D974A4426F.jpeg"
+            },
+            {
+             "vendorId": "480f5a5e-8489-465d-9c4a-b7c8bca0b9e6",
+             "mediaId": "DD071B5D-A009-462C-B8BA-2A08836677AC",
+             "mediaSlug": "beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/DD071B5D-A009-462C-B8BA-2A08836677AC.JPG",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/DD071B5D-A009-462C-B8BA-2A08836677AC.JPG",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Premium",
+             "height": 810,
+             "width": 1440,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/DD071B5D-A009-462C-B8BA-2A08836677AC.jpeg"
+            },
+            {
+             "vendorId": "480f5a5e-8489-465d-9c4a-b7c8bca0b9e6",
+             "mediaId": "38B1CAC6-1BFA-4DAC-AD76-25ABAFEB0742",
+             "mediaSlug": "golden-banquet-38B1CAC6-1BFA-4DAC-AD76-25ABAFEB0742",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/38B1CAC6-1BFA-4DAC-AD76-25ABAFEB0742.JPG",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/38B1CAC6-1BFA-4DAC-AD76-25ABAFEB0742.JPG",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Premium",
+             "height": 900,
+             "width": 1349,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/38B1CAC6-1BFA-4DAC-AD76-25ABAFEB0742.jpeg"
+            },
+            {
+             "vendorId": "9432fb30-3b67-4ea7-96ed-54001f605f7e",
+             "mediaId": "EBB6B702-3F00-4904-B92F-7EDEFB571E88",
+             "mediaSlug": "majestic-forest-groom-EBB6B702-3F00-4904-B92F-7EDEFB571E88",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/9432fb30-3b67-4ea7-96ed-54001f605f7e/EBB6B702-3F00-4904-B92F-7EDEFB571E88.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/9432fb30-3b67-4ea7-96ed-54001f605f7e/EBB6B702-3F00-4904-B92F-7EDEFB571E88.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 900,
+             "width": 720,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/EBB6B702-3F00-4904-B92F-7EDEFB571E88.jpeg"
+            },
+            {
+             "vendorId": "e9b21be3-6b8b-47f4-8a07-c27ecf81d68a",
+             "mediaId": "2BA78D54-E2F6-4BCF-948D-8492CD622318",
+             "mediaSlug": "eternal-promise-2BA78D54-E2F6-4BCF-948D-8492CD622318",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/2BA78D54-E2F6-4BCF-948D-8492CD622318.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/2BA78D54-E2F6-4BCF-948D-8492CD622318.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 900,
+             "width": 1353,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/2BA78D54-E2F6-4BCF-948D-8492CD622318.jpeg"
+            },
+            {
+             "vendorId": "dfda9eab-03d8-44db-bdbc-1f317d478f0c",
+             "mediaId": "24151F1A-D3F4-471F-9BF8-6A05BB5C9D68",
+             "mediaSlug": "intimate-boat-retreat-24151F1A-D3F4-471F-9BF8-6A05BB5C9D68",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/dfda9eab-03d8-44db-bdbc-1f317d478f0c/24151F1A-D3F4-471F-9BF8-6A05BB5C9D68.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/dfda9eab-03d8-44db-bdbc-1f317d478f0c/24151F1A-D3F4-471F-9BF8-6A05BB5C9D68.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Premium",
+             "height": 900,
+             "width": 1351,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/24151F1A-D3F4-471F-9BF8-6A05BB5C9D68.jpeg"
+            },
+            {
+             "vendorId": "dfda9eab-03d8-44db-bdbc-1f317d478f0c",
+             "mediaId": "F31889A8-55D3-4DD2-9108-EE50B241A3E9",
+             "mediaSlug": "floral-delight-F31889A8-55D3-4DD2-9108-EE50B241A3E9",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/dfda9eab-03d8-44db-bdbc-1f317d478f0c/F31889A8-55D3-4DD2-9108-EE50B241A3E9.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/dfda9eab-03d8-44db-bdbc-1f317d478f0c/F31889A8-55D3-4DD2-9108-EE50B241A3E9.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 900,
+             "width": 720,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/F31889A8-55D3-4DD2-9108-EE50B241A3E9.jpeg"
+            },
+            {
+             "vendorId": "e9b21be3-6b8b-47f4-8a07-c27ecf81d68a",
+             "mediaId": "35342776-2938-4505-BC90-3D939D3DE500",
+             "mediaSlug": "red-lehenga-beauty-35342776-2938-4505-BC90-3D939D3DE500",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/35342776-2938-4505-BC90-3D939D3DE500.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/35342776-2938-4505-BC90-3D939D3DE500.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 900,
+             "width": 600,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/35342776-2938-4505-BC90-3D939D3DE500.jpeg"
+            },
+            {
+             "vendorId": "e9b21be3-6b8b-47f4-8a07-c27ecf81d68a",
+             "mediaId": "5A027AB0-B450-4FD0-A6AF-3DC28BCDE9C4",
+             "mediaSlug": "elegant-floral-stage-5A027AB0-B450-4FD0-A6AF-3DC28BCDE9C4",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/5A027AB0-B450-4FD0-A6AF-3DC28BCDE9C4.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/e9b21be3-6b8b-47f4-8a07-c27ecf81d68a/5A027AB0-B450-4FD0-A6AF-3DC28BCDE9C4.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Budget Friendly",
+             "height": 900,
+             "width": 600,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/5A027AB0-B450-4FD0-A6AF-3DC28BCDE9C4.jpeg"
+            },
+            {
+             "vendorId": "e82353ef-9077-4c75-8a7e-9a32714c59eb",
+             "mediaId": "0532B5B8-6654-44C0-AB83-077D3D813126",
+             "mediaSlug": "floral-beauty-0532B5B8-6654-44C0-AB83-077D3D813126",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/e82353ef-9077-4c75-8a7e-9a32714c59eb/0532B5B8-6654-44C0-AB83-077D3D813126.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/e82353ef-9077-4c75-8a7e-9a32714c59eb/0532B5B8-6654-44C0-AB83-077D3D813126.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Premium",
+             "height": 900,
+             "width": 1350,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/0532B5B8-6654-44C0-AB83-077D3D813126.jpeg"
+            },
+            {
+             "vendorId": "e82353ef-9077-4c75-8a7e-9a32714c59eb",
+             "mediaId": "F684A9B7-3269-4A95-A7CB-E09756447442",
+             "mediaSlug": "breathtaking-bridal-gown-F684A9B7-3269-4A95-A7CB-E09756447442",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/e82353ef-9077-4c75-8a7e-9a32714c59eb/F684A9B7-3269-4A95-A7CB-E09756447442.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/e82353ef-9077-4c75-8a7e-9a32714c59eb/F684A9B7-3269-4A95-A7CB-E09756447442.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 900,
+             "width": 600,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/F684A9B7-3269-4A95-A7CB-E09756447442.jpeg"
+            },
+            {
+             "vendorId": "1e1d8c9e-f1ed-41fc-b974-7dd082fab9a0",
+             "mediaId": "CB5A535C-B486-47F4-9FF3-50A800FFE28A",
+             "mediaSlug": "romantic-wedding-archway-CB5A535C-B486-47F4-9FF3-50A800FFE28A",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/DECORATION/1e1d8c9e-f1ed-41fc-b974-7dd082fab9a0/CB5A535C-B486-47F4-9FF3-50A800FFE28A.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/DECORATION/1e1d8c9e-f1ed-41fc-b974-7dd082fab9a0/CB5A535C-B486-47F4-9FF3-50A800FFE28A.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Premium",
+             "height": 619,
+             "width": 960,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/CB5A535C-B486-47F4-9FF3-50A800FFE28A.jpeg"
+            },
+            {
+             "vendorId": "1e1d8c9e-f1ed-41fc-b974-7dd082fab9a0",
+             "mediaId": "5BD62464-FD5C-4281-9E16-01618B27C60F",
+             "mediaSlug": "breathtaking-bridal-pose-5BD62464-FD5C-4281-9E16-01618B27C60F",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/DECORATION/1e1d8c9e-f1ed-41fc-b974-7dd082fab9a0/5BD62464-FD5C-4281-9E16-01618B27C60F.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/DECORATION/1e1d8c9e-f1ed-41fc-b974-7dd082fab9a0/5BD62464-FD5C-4281-9E16-01618B27C60F.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 667,
+             "width": 1000,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/5BD62464-FD5C-4281-9E16-01618B27C60F.jpeg"
+            },
+            {
+             "vendorId": "065b816d-40ce-4078-8259-cb9b33e93ce5",
+             "mediaId": "18F3734A-321F-44C5-9E63-6484AC4D55FF",
+             "mediaSlug": "enchanted-garden-pathway-18F3734A-321F-44C5-9E63-6484AC4D55FF",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/DECORATION/065b816d-40ce-4078-8259-cb9b33e93ce5/18F3734A-321F-44C5-9E63-6484AC4D55FF.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/DECORATION/065b816d-40ce-4078-8259-cb9b33e93ce5/18F3734A-321F-44C5-9E63-6484AC4D55FF.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Premium",
+             "height": 768,
+             "width": 1152,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/18F3734A-321F-44C5-9E63-6484AC4D55FF.jpeg"
+            },
+            {
+             "vendorId": "aca3819b-93cc-4b36-beb6-bc63882f241f",
+             "mediaId": "388D4FEE-A6F2-43E2-B2B9-4391A886B1C8",
+             "mediaSlug": "enchanting-floral-arch-388D4FEE-A6F2-43E2-B2B9-4391A886B1C8",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/DECORATION/aca3819b-93cc-4b36-beb6-bc63882f241f/388D4FEE-A6F2-43E2-B2B9-4391A886B1C8.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/DECORATION/aca3819b-93cc-4b36-beb6-bc63882f241f/388D4FEE-A6F2-43E2-B2B9-4391A886B1C8.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Premium",
+             "height": 705,
+             "width": 564,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/388D4FEE-A6F2-43E2-B2B9-4391A886B1C8.jpeg"
+            },
+            {
+             "vendorId": "aca3819b-93cc-4b36-beb6-bc63882f241f",
+             "mediaId": "DF093315-6F37-4FB1-9D23-0CDF89A0D458",
+             "mediaSlug": "radiant-bride-DF093315-6F37-4FB1-9D23-0CDF89A0D458",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/DECORATION/aca3819b-93cc-4b36-beb6-bc63882f241f/DF093315-6F37-4FB1-9D23-0CDF89A0D458.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/DECORATION/aca3819b-93cc-4b36-beb6-bc63882f241f/DF093315-6F37-4FB1-9D23-0CDF89A0D458.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 900,
+             "width": 713,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/DF093315-6F37-4FB1-9D23-0CDF89A0D458.jpeg"
+            },
+            {
+             "vendorId": "aca3819b-93cc-4b36-beb6-bc63882f241f",
+             "mediaId": "F4C974C9-FF8D-49FF-808B-EF5A98E40868",
+             "mediaSlug": "newlyweds-in-traditional-attire-F4C974C9-FF8D-49FF-808B-EF5A98E40868",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/DECORATION/aca3819b-93cc-4b36-beb6-bc63882f241f/F4C974C9-FF8D-49FF-808B-EF5A98E40868.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/DECORATION/aca3819b-93cc-4b36-beb6-bc63882f241f/F4C974C9-FF8D-49FF-808B-EF5A98E40868.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 810,
+             "width": 1440,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/F4C974C9-FF8D-49FF-808B-EF5A98E40868.jpeg"
+            },
+            {
+             "vendorId": "1e45d3f9-ce19-4ae6-b3f6-6ab28545d2ce",
+             "mediaId": "AC625191-0DEB-45F2-9C6B-3E8FE7F85E97",
+             "mediaSlug": "elegant-wedding-hall-AC625191-0DEB-45F2-9C6B-3E8FE7F85E97",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/1e45d3f9-ce19-4ae6-b3f6-6ab28545d2ce/AC625191-0DEB-45F2-9C6B-3E8FE7F85E97.JPG",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/1e45d3f9-ce19-4ae6-b3f6-6ab28545d2ce/AC625191-0DEB-45F2-9C6B-3E8FE7F85E97.JPG",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": "Premium",
+             "height": 900,
+             "width": 1348,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/AC625191-0DEB-45F2-9C6B-3E8FE7F85E97.jpeg"
+            },
+            {
+             "vendorId": "64bbd4ca-c5eb-409a-90b7-e7beb3b1cc99",
+             "mediaId": "9FDF70D3-5C69-4063-8E62-596424D721CA",
+             "mediaSlug": "street-promenade-9FDF70D3-5C69-4063-8E62-596424D721CA",
+             "thumbnailUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_thumbnail/PHOTOGRAPHY/64bbd4ca-c5eb-409a-90b7-e7beb3b1cc99/9FDF70D3-5C69-4063-8E62-596424D721CA.jpg",
+             "phoneViewUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ideabook_phone_view/PHOTOGRAPHY/64bbd4ca-c5eb-409a-90b7-e7beb3b1cc99/9FDF70D3-5C69-4063-8E62-596424D721CA.jpg",
+             "mediaType": "IMAGE",
+             "mimeType": "image/jpeg",
+             "specialTags": null,
+             "height": 900,
+             "width": 600,
+             "mediaWatermarkUrl": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/watermark_assets/ideabook/9FDF70D3-5C69-4063-8E62-596424D721CA.jpeg"
+            }
+           ]
+          }
+         ],
+         "pageParams": [
+          null
+         ]
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1790796721163,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+       },
+       "queryKey": [
+        "ideabook-masonry-list",
+        "ideabook-home"
+       ],
+       "queryHash": "[\"ideabook-masonry-list\",\"ideabook-home\"]"
+      }
+     ]
+    },
+    "ideabookSeoMetaData": {
+     "head": {
+      "title": {
+       "value": "The Wedding Company - Book Venues, End to End Wedding Services, Planners in India"
+      },
+      "metaDescription": {
+       "value": "The Wedding Company provides the best wedding services in India. Book end-to-end wedding planning services online with us and grab the best deals for your wedding, engagement, reception, and other events."
+      },
+      "metaRobot": {
+       "value": "noindex, follow"
+      }
+     },
+     "openGraph": {
+      "url": {
+       "value": "/"
+      },
+      "type": {
+       "value": "website"
+      },
+      "title": {
+       "value": "The Wedding Company - Book Venues, End to End Wedding Services, Planners in India"
+      },
+      "description": {
+       "value": "The Wedding Company provides the best wedding services in India. Book end-to-end wedding planning services online with us and grab the best deals for your wedding, engagement, reception, and other events."
+      },
+      "site_name": {
+       "value": "The Wedding Company"
+      },
+      "image": {
+       "value": "https://gcpimages.theweddingcompany.com/weddings/assets/HeroSectionBackgroundImageoptimised.webp"
+      }
+     },
+     "twitterCard": {
+      "card": {
+       "value": "summary_large_image"
+      },
+      "site": {
+       "value": "@TheWeddingCmpny"
+      },
+      "title": {
+       "value": "The Wedding Company - Book Venues, End to End Wedding Services, Planners in India"
+      },
+      "description": {
+       "value": "The Wedding Company provides the best wedding services in India. Book end-to-end wedding planning services online with us and grab the best deals for your wedding, engagement, reception, and other events."
+      },
+      "image": {
+       "value": "https://gcpimages.theweddingcompany.com/weddings/assets/HeroSectionBackgroundImageoptimised.webp"
+      }
+     }
+    },
+    "ideabookAbout": {
+     "seoType": "ideabook_homepage",
+     "results": {
+      "about": {}
+     }
+    }
+   },
+   "__N_SSP": true
+  },
+  "page": "/wedding-ideas",
+  "query": {},
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "dynamicIds": [
+   3610
+  ],
+  "gssp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/ec70c9af02a4e84a.css",
+  "/_next/static/css/ef46db3751d8e999.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-ideas",
+  "/wedding-ideas/idea/beach-wedding-delight-DD071B5D-A009-462C-B8BA-2A08836677AC",
+  "/wedding-ideas/idea/breathtaking-bridal-gown-F684A9B7-3269-4A95-A7CB-E09756447442",
+  "/wedding-ideas/idea/breathtaking-bridal-pose-5BD62464-FD5C-4281-9E16-01618B27C60F",
+  "/wedding-ideas/idea/elegant-floral-stage-5A027AB0-B450-4FD0-A6AF-3DC28BCDE9C4",
+  "/wedding-ideas/idea/elegant-lehenga-delight-69BE5D0E-B8C4-4971-8C81-F4165795A128",
+  "/wedding-ideas/idea/elegant-wedding-hall-AC625191-0DEB-45F2-9C6B-3E8FE7F85E97",
+  "/wedding-ideas/idea/enchanted-garden-pathway-18F3734A-321F-44C5-9E63-6484AC4D55FF",
+  "/wedding-ideas/idea/enchanting-floral-arch-388D4FEE-A6F2-43E2-B2B9-4391A886B1C8",
+  "/wedding-ideas/idea/enchanting-forest-engagement-360A2DEF-1793-4F7C-9794-F5D974A4426F",
+  "/wedding-ideas/idea/eternal-promise-2BA78D54-E2F6-4BCF-948D-8492CD622318",
+  "/wedding-ideas/idea/floral-beauty-0532B5B8-6654-44C0-AB83-077D3D813126",
+  "/wedding-ideas/idea/floral-delight-F31889A8-55D3-4DD2-9108-EE50B241A3E9",
+  "/wedding-ideas/idea/golden-banquet-38B1CAC6-1BFA-4DAC-AD76-25ABAFEB0742",
+  "/wedding-ideas/idea/intimate-boat-retreat-24151F1A-D3F4-471F-9BF8-6A05BB5C9D68",
+  "/wedding-ideas/idea/majestic-forest-groom-EBB6B702-3F00-4904-B92F-7EDEFB571E88",
+  "/wedding-ideas/idea/newlyweds-in-traditional-attire-F4C974C9-FF8D-49FF-808B-EF5A98E40868",
+  "/wedding-ideas/idea/radiant-bride-DF093315-6F37-4FB1-9D23-0CDF89A0D458",
+  "/wedding-ideas/idea/red-lehenga-beauty-35342776-2938-4505-BC90-3D939D3DE500",
+  "/wedding-ideas/idea/romantic-wedding-archway-CB5A535C-B486-47F4-9FF3-50A800FFE28A",
+  "/wedding-ideas/idea/street-promenade-9FDF70D3-5C69-4063-8E62-596424D721CA",
+  "/wedding-ideas/idea/traditional-treasures-55AEBCB4-1469-4626-B72F-A5AEDDE08E15",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues"
+ ],
+ "external_img_domains": [
+  "https://imageswedding.theweddingcompany.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 24122,
+ "bytes": 113685,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><title>The Wedding Company - Book Venues, End to End Wedding Services, Planners in India</title><meta property=\"og:title\" content=\"The Wedding Company - Book Venues, End to End Wedding Services, Planners in India\"/><meta name=\"twitter:title\" content=\"The Wedding Company - Book Venues, End to End Wedding Services, Planners in India\"/><meta name=\"description\" content=\"The Wedding Company provides the best wedding services in Indi"
+}

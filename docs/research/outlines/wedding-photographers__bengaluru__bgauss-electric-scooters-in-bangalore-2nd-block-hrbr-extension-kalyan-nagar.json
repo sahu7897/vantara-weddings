@@ -1,0 +1,261 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-photographers/bengaluru/bgauss-electric-scooters-in-bangalore-2nd-block-hrbr-extension-kalyan-nagar",
+ "status_title": null,
+ "meta_description": null,
+ "canonical": null,
+ "h1": [
+  "The Ivory Note"
+ ],
+ "h2": [],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "vendor-mobile-photo-carousel",
+  "contact",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 0,
+ "inputs": 0,
+ "buttons": 6,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/98388d77ac0fd362.css",
+  "/_next/static/css/8c045856cabf1b0f.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-photographers/%5BphotographyCity%5D/%5BphotographyLocalityOrCategorySlug%5D-775e122b59722748.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "vendorDetails": {
+     "businessCategory": "PHOTOGRAPHY",
+     "vendorId": "c7df0de0-e066-448f-ae73-a6b80e34cfee",
+     "name": "The Ivory Note",
+     "userRating": 4.3,
+     "formattedAddress": "5AC-709, Ground Floor,, 2nd Block, HRBR Extension, Kalyan Nagar, 560113, Bengaluru, Karnataka",
+     "displayPic": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+     "coverMedia": [
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/c7df0de0-e066-448f-ae73-a6b80e34cfee/admin_uploads/5069020d-2fea-4ca2-b4e4-4ce40ba87802.webp",
+       "alt": "",
+       "mediaId": "5069020d-2fea-4ca2-b4e4-4ce40ba87802",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/c7df0de0-e066-448f-ae73-a6b80e34cfee/admin_uploads/cdfb454f-06ce-4f89-ba75-e4c52762afa3.webp",
+       "alt": "",
+       "mediaId": "cdfb454f-06ce-4f89-ba75-e4c52762afa3",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/c7df0de0-e066-448f-ae73-a6b80e34cfee/admin_uploads/81250418-c226-42d5-8dcb-4370200e120f.webp",
+       "alt": "",
+       "mediaId": "81250418-c226-42d5-8dcb-4370200e120f",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/c7df0de0-e066-448f-ae73-a6b80e34cfee/admin_uploads/dcb0da01-7373-4bc4-86d2-5786d1448fc0.webp",
+       "alt": "",
+       "mediaId": "dcb0da01-7373-4bc4-86d2-5786d1448fc0",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/c7df0de0-e066-448f-ae73-a6b80e34cfee/admin_uploads/bf9b284a-afd2-4e65-8acf-9683b4352815.webp",
+       "alt": "",
+       "mediaId": "bf9b284a-afd2-4e65-8acf-9683b4352815",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      }
+     ],
+     "website": "https://www.bgauss.com/",
+     "meta": {
+      "experience": "6 - 8 years",
+      "startsAt": 175000,
+      "hasPhotography": null,
+      "hasVideography": null
+     },
+     "about": {},
+     "albums": [
+      {
+       "albumId": "dbe3a40d-1e3b-479e-91de-21c6e3fa8d7b",
+       "albumName": "Candid Pictures"
+      },
+      {
+       "albumId": "46b671af-3119-474a-bf95-03035c8e6ca8",
+       "albumName": "Bridal Portraits"
+      },
+      {
+       "albumId": "07ad5460-8260-4d56-bbc6-3deac1793d6c",
+       "albumName": "Venue Decor Pics"
+      },
+      {
+       "albumId": "6476a3d4-653b-48ca-b585-70346bc3e1c5",
+       "albumName": "Family Pictures"
+      }
+     ],
+     "services": {
+      "skills": [],
+      "occasions": []
+     },
+     "urlSlug": "bgauss-electric-scooters-in-bangalore-2nd-block-hrbr-extension-kalyan-nagar",
+     "userRatingCount": 240,
+     "specialTags": [
+      "Budget Friendly",
+      "TWC’s choice"
+     ],
+     "bhPartnerStatus": true,
+     "bhPartnerDealText": null,
+     "coordinates": [
+      77.6440022,
+      13.0244096
+     ]
+    },
+    "seoMetaData": {
+     "head": {
+      "canonicalTag": {
+       "isSameAsChecked": false,
+       "value": ""
+      },
+      "metaDescription": {
+       "value": ""
+      },
+      "metaRobot": {
+       "value": ""
+      },
+      "title": {
+       "value": ""
+      }
+     },
+     "openGraph": {
+      "description": {
+       "isSameAsChecked": false,
+       "value": ""
+      },
+      "image": {
+       "isSameAsChecked": false,
+       "value": ""
+      },
+      "title": {
+       "isSameAsChecked": false,
+       "value": ""
+      },
+      "type": {
+       "value": ""
+      },
+      "url": {
+       "isSameAsChecked": false,
+       "value": ""
+      }
+     },
+     "twitterCard": {
+      "card": {
+       "value": ""
+      },
+      "description": {
+       "isSameAsChecked": false,
+       "value": ""
+      },
+      "image": {
+       "isSameAsChecked": false,
+       "value": ""
+      },
+      "site": {
+       "value": ""
+      },
+      "title": {
+       "isSameAsChecked": false,
+       "value": ""
+      }
+     },
+     "seoExtra": {
+      "vendorName": "The Ivory Note",
+      "locality": "2nd Block, Hrbr Extension, Kalyan Nagar",
+      "city": "Bengaluru"
+     }
+    },
+    "isLocalitySlug": false
+   },
+   "__N_SSG": true
+  },
+  "page": "/wedding-photographers/[photographyCity]/[photographyLocalityOrCategorySlug]",
+  "query": {
+   "photographyCity": "bengaluru",
+   "photographyLocalityOrCategorySlug": "bgauss-electric-scooters-in-bangalore-2nd-block-hrbr-extension-kalyan-nagar"
+  },
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "gsp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/8c045856cabf1b0f.css",
+  "/_next/static/css/98388d77ac0fd362.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-ideas",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photographers",
+  "/wedding-photographers/bengaluru",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues"
+ ],
+ "external_img_domains": [
+  "https://gcpimages.theweddingcompany.com",
+  "https://maps.gstatic.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 7679,
+ "bytes": 63173,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><link rel=\"preload\" href=\"/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp\" as=\"image\" fetchpriority=\"high\"/><meta name=\"next-head-count\" content=\"4\"/><link rel=\"preload\" href=\"/_next/static/media/eaead17c7dbfcd5d-s.p.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\" data-next-font=\"size-adjust\"/><link rel=\"preload\" href=\"/_next/static/media/55c20a7790588da9-s.p.woff2\" as=\"font\" type=\"font/woff2\" crossor"
+}

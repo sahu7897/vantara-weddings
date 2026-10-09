@@ -1,0 +1,232 @@
+{
+ "url": "https://www.theweddingcompany.com/venue-result",
+ "status_title": "The Wedding Company - Book Venues",
+ "meta_description": "Wedding planning services- choose from the top rated wedding planners in India. Hire a planner who has original, modern &amp; trendy wedding ideas with years of industry experience",
+ "canonical": "https://www.theweddingcompany.com/venue-result",
+ "h1": [
+  "Find the perfect venue"
+ ],
+ "h2": [],
+ "h3": [],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  ":R1jp56:-",
+  ":R2jp56:-",
+  ":R3jp56:-",
+  "portal"
+ ],
+ "has_header_nav": false,
+ "has_footer": false,
+ "forms": 1,
+ "inputs": 15,
+ "buttons": 9,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/0a554fe407282359.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/venue-result-1a813bd7e2e190aa.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "dehydratedState": {
+     "mutations": [],
+     "queries": [
+      {
+       "state": {
+        "data": {
+         "type": "SELECTION_TOOL_LISTING_FILTERS",
+         "sorting": [
+          {
+           "id": "1001",
+           "label": "Our top picks",
+           "key": "sorting"
+          },
+          {
+           "id": "1002",
+           "label": "Price: low to high",
+           "key": "sorting"
+          },
+          {
+           "id": "1003",
+           "label": "Price: high to low",
+           "key": "sorting"
+          }
+         ],
+         "filters": [
+          {
+           "id": "venueBudget",
+           "key": "venueBudget_range",
+           "type": "range",
+           "label": "Venue Budget",
+           "filters": [
+            {
+             "id": "venueBudget_range",
+             "label": "Venue Budget",
+             "minValue": 1000000,
+             "step": 500000,
+             "maxValue": 30000000,
+             "filters": []
+            }
+           ]
+          },
+          {
+           "id": "1000",
+           "label": "Venue Type",
+           "key": "venueType",
+           "type": "checkbox",
+           "filters": [
+            {
+             "id": "1101",
+             "label": "Resort",
+             "labelSlug": "resort-fi3",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "1102",
+             "label": "Hotel",
+             "labelSlug": "hotel-fi3",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "1103",
+             "label": "Marriage Garden",
+             "labelSlug": "marriage-garden-fi3",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "1105",
+             "label": "Heritage Property",
+             "labelSlug": "heritage-fi3",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "1106",
+             "label": "Farmhouse",
+             "labelSlug": "farmhouse-fi3",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "1107",
+             "label": "Palace",
+             "labelSlug": "palace-fi3",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "1110",
+             "label": "Banquet Hall",
+             "labelSlug": "banquet-fi3",
+             "filters": [],
+             "isActive": true
+            }
+           ]
+          },
+          {
+           "id": "7000",
+           "label": "Venue Rating",
+           "key": "venueStarRating",
+           "type": "checkbox",
+           "filters": [
+            {
+             "id": "7101",
+             "label": "5 Star",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "7102",
+             "label": "4 Star",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "7103",
+             "label": "3 Star",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "7104",
+             "label": "2 Star",
+             "filters": [],
+             "isActive": true
+            },
+            {
+             "id": "7106",
+             "label": "Unrated",
+             "filters": [],
+             "isActive": true
+            }
+           ]
+          }
+         ]
+        },
+        "dataUpdateCount": 1,
+        "dataUpdatedAt": 1790610660505,
+        "error": null,
+        "errorUpdateCount": 0,
+        "errorUpdatedAt": 0,
+        "fetchFailureCount": 0,
+        "fetchFailureReason": null,
+        "fetchMeta": null,
+        "isInvalidated": false,
+        "status": "success",
+        "fetchStatus": "idle"
+       },
+       "queryKey": [
+        "venue-search-filters"
+       ],
+       "queryHash": "[\"venue-search-filters\"]"
+      }
+     ]
+    }
+   },
+   "__N_SSG": true
+  },
+  "page": "/venue-result",
+  "query": {},
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "gsp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/0a554fe407282359.css",
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/favicon_new.ico"
+ ],
+ "external_img_domains": [
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 6331,
+ "bytes": 57674,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><title>The Wedding Company - Book Venues</title><meta property=\"og:title\" content=\"The Wedding Company - Book Venues\"/><meta name=\"twitter:title\" content=\"The Wedding Company - Book Venues\"/><meta name=\"description\" content=\"Wedding planning services- choose from the top rated wedding planners in India. Hire a planner who has original, modern &amp; trendy wedding ideas with years of industry experience\"/><meta property=\"og:desc"
+}

@@ -1,0 +1,489 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-decorators/bengaluru/7eventsin-akshaya-gardens-akshayanagar-bengaluru",
+ "status_title": "7events.in Decorator, Bengaluru - Price &amp; Reviews",
+ "meta_description": "7events.in is a Wedding Decorator in Akshaya Gardens, Akshayanagar, Bengaluru, Bengaluru. Check 7events.in price details, latest decor photos &amp; reviews. Book decorator for Wedding, Engagement, Reception and other events.",
+ "canonical": "https://www.theweddingcompany.com/wedding-decorators/bengaluru/7eventsin-akshaya-gardens-akshayanagar-bengaluru",
+ "h1": [
+  "7events.in"
+ ],
+ "h2": [
+  "7events.in - Wedding Decorators in Akshayanagar, Bengaluru",
+  "FAQs"
+ ],
+ "h3": [
+  "Wedding Decor Theme offered by 7events.in",
+  "Pricing Info of 7events.in",
+  "Address of 7events.in",
+  "Q1. Which year did 7events.in start providing decoration services?",
+  "Q2. What are the types of events for which 7events.in provides services?",
+  "Q3. What can the different types of traditional decoration 7events.in provide?",
+  "Q4. What are the different types of modern decorations 7events.in can provide?",
+  "Q5. Which forms of payment do they accept?"
+ ],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "vendor-mobile-photo-carousel",
+  "occasions",
+  "about-us",
+  "about-details",
+  "contact",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 0,
+ "inputs": 0,
+ "buttons": 7,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/98388d77ac0fd362.css",
+  "/_next/static/css/8c045856cabf1b0f.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-decorators/%5BdecorCity%5D/%5BdecorLocalityOrCategorySlug%5D-cc98470fed523068.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "vendorDetails": {
+     "businessCategory": "DECORATION",
+     "vendorId": "ecd0fa5d-ea3e-4b51-b92e-be72018d4572",
+     "name": "7events.in",
+     "userRating": 4.5,
+     "formattedAddress": "1, 1st cross, 1st Main, Yelenahalli Main Rd, Yelenahalli Main Rd, off Baneerghatta Road, 560078, Bengaluru, Karnataka",
+     "displayPic": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+     "coverMedia": [
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/ecd0fa5d-ea3e-4b51-b92e-be72018d4572/admin_uploads/9f5a8623-833e-454a-9f9e-0387e11dc176.webp",
+       "alt": "",
+       "mediaId": "9f5a8623-833e-454a-9f9e-0387e11dc176",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/ecd0fa5d-ea3e-4b51-b92e-be72018d4572/admin_uploads/870b25d6-061f-4959-a2e9-9b577b7d5350.webp",
+       "alt": "",
+       "mediaId": "870b25d6-061f-4959-a2e9-9b577b7d5350",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/ecd0fa5d-ea3e-4b51-b92e-be72018d4572/admin_uploads/92da7d8c-91d2-4ecb-b900-897718e23a56.webp",
+       "alt": "",
+       "mediaId": "92da7d8c-91d2-4ecb-b900-897718e23a56",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/ecd0fa5d-ea3e-4b51-b92e-be72018d4572/admin_uploads/af4770d5-560d-4155-953b-5a83409c06c8.webp",
+       "alt": "",
+       "mediaId": "af4770d5-560d-4155-953b-5a83409c06c8",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/ecd0fa5d-ea3e-4b51-b92e-be72018d4572/admin_uploads/33b6bb95-ec37-4c0f-8145-1e9941e9172e.webp",
+       "alt": "",
+       "mediaId": "33b6bb95-ec37-4c0f-8145-1e9941e9172e",
+       "mimeType": "image/webp",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      }
+     ],
+     "website": "http://www.7events.in/",
+     "meta": {
+      "outdoorPrice": 120000,
+      "indoorPrice": 70000
+     },
+     "about": {
+      "ops": [
+       {
+        "insert": "7events.in - Wedding Decorators in Akshayanagar, Bengaluru"
+       },
+       {
+        "attributes": {
+         "header": 2
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Planning your Bangalore wedding? Forget the cookie-cutter decor and embrace the beauty of simplicity with 7events.in! This "
+       },
+       {
+        "attributes": {
+         "link": "https://www.theweddingcompany.com/wedding-decorators"
+        },
+        "insert": "fantastic wedding decorator"
+       },
+       {
+        "insert": " offers exquisite, fun, and, most "
+       },
+       {
+        "attributes": {
+         "link": "https://www.theweddingcompany.com/wedding-decorators/bengaluru"
+        },
+        "insert": "affordable wedding decor in Bangalore"
+       },
+       {
+        "insert": " that will transport you and your guests to a world of rustic charm. The polite and patient team at 7events.in truly listens to your wishes, ensuring your marriage decor is customized to perfectly reflect your style. Let them transform your wedding into an unforgettable, personalized fairytale!\n"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Wedding Decor Theme offered by 7events.in "
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Sound System & DJ\nDestination Wedding\nVisual Entertainment \nFurniture Rental\nCake Decoration\nCatering\nPhotography\nBanner Prints\nGifts Wrapping\nCar Decoration\n"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Pricing Info of 7events.in "
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Indoor Budget per event. ₹70,000+\nOutdoor Budget per event. ₹1,20,000+\nBanquet hall decor. ₹70,000.\n"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Address of 7events.in "
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "7events.in is a wedding decoration company based in Akshayanagar, Bengaluru.\n"
+       },
+       {
+        "attributes": {
+         "header": 2
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "FAQs"
+       },
+       {
+        "attributes": {
+         "header": 2
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Q1. Which year did 7events.in start providing decoration services?"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Ans. They have been working in the industry since 2015.\n"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Q2. What are the types of events for which 7events.in provides services?"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Ans. They provide services for weddings, poojas, birthdays, anniversaries, housewarming, and upanayana ceremonies.\n"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Q3. What can the different types of traditional decoration 7events.in provide?"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Ans. 7events.in provides traditional floral and mandap decorations for conventional weddings. \n"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Q4. What are the different types of modern decorations 7events.in can provide?"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Ans. They provide thematic and customized designs for modern decoration.\n"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Q5. Which forms of payment do they accept?"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Ans. 7events.in accepts all types of payment methods.\n"
+       }
+      ]
+     },
+     "urlSlug": "7eventsin-akshaya-gardens-akshayanagar-bengaluru",
+     "services": {
+      "occasions": [
+       {
+        "title": "Lawn decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4101.webp",
+        "id": "4101"
+       },
+       {
+        "title": "Wedding decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4102.webp",
+        "id": "4102"
+       },
+       {
+        "title": "Engagement decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4103.webp",
+        "id": "4103"
+       },
+       {
+        "title": "Sangeet decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4104.webp",
+        "id": "4104"
+       },
+       {
+        "title": "Mehandi decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4105.webp",
+        "id": "4105"
+       },
+       {
+        "title": "Reception decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4106.webp",
+        "id": "4106"
+       },
+       {
+        "title": "Haldi decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4107.webp",
+        "id": "4107"
+       },
+       {
+        "title": "Church decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4108.webp",
+        "id": "4108"
+       },
+       {
+        "title": "Nikah decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4109.webp",
+        "id": "4109"
+       },
+       {
+        "title": "Muhurtham decor",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/decoration/occasions/4110.webp",
+        "id": "4110"
+       }
+      ]
+     },
+     "userRatingCount": 139,
+     "specialTags": [],
+     "bhPartnerStatus": true,
+     "bhPartnerDealText": null,
+     "coordinates": [
+      77.61588069999999,
+      12.8733694
+     ]
+    },
+    "seoMetaData": {
+     "head": {
+      "title": {
+       "value": "7events.in Decorator, Bengaluru - Price & Reviews"
+      },
+      "metaDescription": {
+       "value": "7events.in is a Wedding Decorator in Akshaya Gardens, Akshayanagar, Bengaluru, Bengaluru. Check 7events.in price details, latest decor photos & reviews. Book decorator for Wedding, Engagement, Reception and other events."
+      },
+      "metaRobot": {
+       "value": "index, follow"
+      },
+      "canonicalTag": {
+       "value": "/wedding-decorators/bengaluru/7eventsin-akshaya-gardens-akshayanagar-bengaluru",
+       "isSameAsChecked": true
+      }
+     },
+     "openGraph": {
+      "url": {
+       "value": "/wedding-decorators/bengaluru/7eventsin-akshaya-gardens-akshayanagar-bengaluru",
+       "isSameAsChecked": true
+      },
+      "type": {
+       "value": ""
+      },
+      "title": {
+       "value": "7events.in Decorator, Bengaluru - Price & Reviews",
+       "isSameAsChecked": true
+      },
+      "description": {
+       "value": "7events.in is a Wedding Decorator in Akshaya Gardens, Akshayanagar, Bengaluru, Bengaluru. Check 7events.in price details, latest decor photos & reviews. Book decorator for Wedding, Engagement, Reception and other events.",
+       "isSameAsChecked": true
+      },
+      "image": {
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ecd0fa5d-ea3e-4b51-b92e-be72018d4572/gmap/9f597c57-5dbd-4201-bf66-5178f4c4f032_decor.jpg",
+       "isSameAsChecked": true
+      }
+     },
+     "twitterCard": {
+      "card": {
+       "value": ""
+      },
+      "site": {
+       "value": "@TheWeddingCmpny"
+      },
+      "title": {
+       "value": "7events.in Decorator, Bengaluru - Price & Reviews",
+       "isSameAsChecked": true
+      },
+      "description": {
+       "value": "7events.in is a Wedding Decorator in Akshaya Gardens, Akshayanagar, Bengaluru, Bengaluru. Check 7events.in price details, latest decor photos & reviews. Book decorator for Wedding, Engagement, Reception and other events.",
+       "isSameAsChecked": true
+      },
+      "image": {
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/ecd0fa5d-ea3e-4b51-b92e-be72018d4572/gmap/9f597c57-5dbd-4201-bf66-5178f4c4f032_decor.jpg",
+       "isSameAsChecked": true
+      }
+     },
+     "seoExtra": {
+      "vendorName": "7events.in",
+      "locality": "Akshaya Gardens, Akshayanagar, Bengaluru",
+      "city": "Bengaluru"
+     }
+    },
+    "isLocalitySlug": false
+   },
+   "__N_SSG": true
+  },
+  "page": "/wedding-decorators/[decorCity]/[decorLocalityOrCategorySlug]",
+  "query": {
+   "decorCity": "bengaluru",
+   "decorLocalityOrCategorySlug": "7eventsin-akshaya-gardens-akshayanagar-bengaluru"
+  },
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "gsp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/8c045856cabf1b0f.css",
+  "/_next/static/css/98388d77ac0fd362.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-decorators/bengaluru",
+  "/wedding-ideas",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues"
+ ],
+ "external_img_domains": [
+  "https://gcpimages.theweddingcompany.com",
+  "https://maps.gstatic.com",
+  "https://storage.googleapis.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 14985,
+ "bytes": 82796,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><title>7events.in Decorator, Bengaluru - Price &amp; Reviews</title><meta property=\"og:title\" content=\"7events.in Decorator, Bengaluru - Price &amp; Reviews\"/><meta name=\"twitter:title\" content=\"7events.in Decorator, Bengaluru - Price &amp; Reviews\"/><meta name=\"description\" content=\"7events.in is a Wedding Decorator in Akshaya Gardens, Akshayanagar, Bengaluru, Bengaluru. Check 7events.in price details, latest decor photos &amp"
+}

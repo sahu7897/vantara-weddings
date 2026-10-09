@@ -1,0 +1,534 @@
+{
+ "url": "https://www.theweddingcompany.com/wedding-photographers/bengaluru/artsy-lens-photography-mahatma-gandhi-road",
+ "status_title": "Artsy Lens Photography Photographer, Bengaluru - Price &amp; Reviews",
+ "meta_description": "Artsy Lens Photography is a Wedding Photographer in Mahatma Gandhi Road, Bengaluru. Check Artsy Lens Photography price details, latest photo albums &amp; reviews. Book photographer for Wedding, Engagement, Reception and other events now.",
+ "canonical": "https://www.theweddingcompany.com/wedding-photographers/bengaluru/artsy-lens-photography-mahatma-gandhi-road",
+ "h1": [
+  "Artsy Lens Photography"
+ ],
+ "h2": [
+  "Artsy Lens Photography in Church Street, Bangalore",
+  "Services offered by Artsy Lens Photography",
+  "Artsy Lens Photography Details",
+  "FAQs"
+ ],
+ "h3": [
+  "Budget (photo package)",
+  "Budget (Photo + Video)",
+  "Travel Costs",
+  "Booking Policy",
+  "Cancellation Policy",
+  "Delivery Time",
+  "Does Artsy Lens Photography travel to the venue?",
+  "What is the price for a 1-day pre-wedding photoshoot?"
+ ],
+ "section_ids": [],
+ "div_ids": [
+  "__next",
+  "parent-container",
+  "vendor-mobile-photo-carousel",
+  "skills",
+  "occasions",
+  "about-us",
+  "about-details",
+  "contact",
+  "company_links_container",
+  "explore_links_container",
+  "contact_us_links_container",
+  "social_media_and_download_links_container",
+  "portal"
+ ],
+ "has_header_nav": true,
+ "has_footer": true,
+ "forms": 0,
+ "inputs": 0,
+ "buttons": 7,
+ "json_ld": 0,
+ "nprogress": true,
+ "stylesheets": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/98388d77ac0fd362.css",
+  "/_next/static/css/8c045856cabf1b0f.css"
+ ],
+ "page_scripts": [
+  "/_next/static/chunks/pages/_app-953553d747cd63da.js",
+  "/_next/static/chunks/pages/wedding-photographers/%5BphotographyCity%5D/%5BphotographyLocalityOrCategorySlug%5D-775e122b59722748.js"
+ ],
+ "next_data": {
+  "props": {
+   "pageProps": {
+    "vendorDetails": {
+     "businessCategory": "PHOTOGRAPHY",
+     "vendorId": "480f5a5e-8489-465d-9c4a-b7c8bca0b9e6",
+     "name": "Artsy Lens Photography",
+     "userRating": 5,
+     "formattedAddress": "High profile Building, , 1/A, Mahatma Gandhi Road, Church St, Bengaluru, Karnataka, 560001, Bengaluru, Karnataka",
+     "displayPic": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+     "coverMedia": [
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/9229f9cb-1977-48fd-bfa5-2e118205d7b0.png",
+       "alt": "",
+       "mediaId": "9229f9cb-1977-48fd-bfa5-2e118205d7b0",
+       "mimeType": "image/png",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/53b9fc12-e4ea-42e6-b34e-910fc36cf30f.png",
+       "alt": "",
+       "mediaId": "53b9fc12-e4ea-42e6-b34e-910fc36cf30f",
+       "mimeType": "image/png",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/cfb23720-5682-410f-9462-3e9413df608a.png",
+       "alt": "",
+       "mediaId": "cfb23720-5682-410f-9462-3e9413df608a",
+       "mimeType": "image/png",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/97fc4261-eb54-45ac-9741-6e76662749a2.png",
+       "alt": "",
+       "mediaId": "97fc4261-eb54-45ac-9741-6e76662749a2",
+       "mimeType": "image/png",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      },
+      {
+       "mediaUrl": "https://gcpimages.theweddingcompany.com/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/bb441c4e-36e4-4f64-926c-06a83ac3a8cd.png",
+       "alt": "",
+       "mediaId": "bb441c4e-36e4-4f64-926c-06a83ac3a8cd",
+       "mimeType": "image/png",
+       "compressedMediaUrl": null,
+       "videoThumbnailUrl": null
+      }
+     ],
+     "website": "https://www.theweddingcompany.com/wedding-services?source=gmaps",
+     "meta": {
+      "experience": "2 - 4 years",
+      "startsAt": 40000,
+      "hasPhotography": true,
+      "hasVideography": true
+     },
+     "about": {
+      "ops": [
+       {
+        "insert": "Artsy Lens Photography in Church Street, Bangalore"
+       },
+       {
+        "attributes": {
+         "header": 2
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Artsy Lens Photography is one of the leading "
+       },
+       {
+        "attributes": {
+         "link": "https://www.theweddingcompany.com/wedding-photographers/bengaluru"
+        },
+        "insert": "wedding photographers in Bangalore"
+       },
+       {
+        "insert": ". Their wedding films and photos have been trending on social media and are setting the benchmark for wedding photography. With over 10 years of expertise under their sleeve, they are a reliable team of workmen to opt for your wedding day.  Artsy Lens Photography costs are pocket-friendly \n\n\nServices offered by Artsy Lens Photography"
+       },
+       {
+        "attributes": {
+         "header": 2
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": " Artsy Lens Photography offers a variety of photo and video shoots depending on your needs. The general services provided by  Artsy Lens Photography are \nTraditional Photography & Videography"
+       },
+       {
+        "attributes": {
+         "list": "bullet"
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Crane Photography & Videography"
+       },
+       {
+        "attributes": {
+         "list": "bullet"
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Candid Photography"
+       },
+       {
+        "attributes": {
+         "list": "bullet"
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Cinematic Video"
+       },
+       {
+        "attributes": {
+         "list": "bullet"
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Pre-wedding Shoots"
+       },
+       {
+        "attributes": {
+         "list": "bullet"
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Post-wedding shoots"
+       },
+       {
+        "attributes": {
+         "list": "bullet"
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Wedding Films"
+       },
+       {
+        "attributes": {
+         "list": "bullet"
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Album Shoots"
+       },
+       {
+        "attributes": {
+         "list": "bullet"
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "\n\nArtsy Lens Photography Details"
+       },
+       {
+        "attributes": {
+         "header": 2
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "\nBudget (photo package)"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Starts at ₹25,000/day\n\n\nBudget (Photo + Video)"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Starts at ₹45,000/day\n\n\nTravel Costs"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "For outstation weddings, travel and stay the client covers costs\n\n\nBooking Policy"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "50% advance payment\n\n\nCancellation Policy"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Discuss cancellation & refund policy with the vendor\n\n\nDelivery Time"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "30 weeks\n\n\nFAQs"
+       },
+       {
+        "attributes": {
+         "header": 2
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "\n\nDoes Artsy Lens Photography travel to the venue?"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "Yes\n\n\nWhat is the price for a 1-day pre-wedding photoshoot?"
+       },
+       {
+        "attributes": {
+         "header": 3
+        },
+        "insert": "\n"
+       },
+       {
+        "insert": "₹30,000 per day (appx.)\n"
+       }
+      ]
+     },
+     "albums": [
+      {
+       "albumId": "dbe3a40d-1e3b-479e-91de-21c6e3fa8d7b",
+       "albumName": "Candid Pictures"
+      },
+      {
+       "albumId": "15581c1b-c2c2-4a3e-90b8-85785bc1e33f",
+       "albumName": "Couple Pictures"
+      },
+      {
+       "albumId": "bdb98d89-e5e6-4faf-98a5-fea83e883a9d",
+       "albumName": "Bridal"
+      }
+     ],
+     "services": {
+      "skills": [
+       {
+        "title": "Drone shoot",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/skills/6101.webp",
+        "id": "6101"
+       },
+       {
+        "title": "Traditional",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/skills/6103.webp",
+        "id": "6103"
+       },
+       {
+        "title": "Cinematic",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/skills/6104.webp",
+        "id": "6104"
+       },
+       {
+        "title": "Candid",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/skills/6105.webp",
+        "id": "6105"
+       }
+      ],
+      "occasions": [
+       {
+        "title": "Pre wedding",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/occasions/5101.webp",
+        "id": "5101"
+       },
+       {
+        "title": "Wedding",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/occasions/5102.webp",
+        "id": "5102"
+       },
+       {
+        "title": "Haldi",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/occasions/5103.webp",
+        "id": "5103"
+       },
+       {
+        "title": "Sangeet",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/occasions/5104.webp",
+        "id": "5104"
+       },
+       {
+        "title": "Mehandi",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/occasions/5105.webp",
+        "id": "5105"
+       },
+       {
+        "title": "Reception",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/occasions/5106.webp",
+        "id": "5106"
+       },
+       {
+        "title": "Muhurtham",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/occasions/5107.webp",
+        "id": "5107"
+       },
+       {
+        "title": "Engagement",
+        "url": "https://storage.googleapis.com/bh_dev_bucket/weddings/photography/occasions/5108.webp",
+        "id": "5108"
+       }
+      ]
+     },
+     "urlSlug": "artsy-lens-photography-mahatma-gandhi-road",
+     "userRatingCount": null,
+     "specialTags": [
+      "Budget Friendly",
+      "Bestseller",
+      "TWC’s choice"
+     ],
+     "bhPartnerStatus": true,
+     "bhPartnerDealText": null,
+     "coordinates": [
+      77.6072447,
+      12.9740205
+     ]
+    },
+    "seoMetaData": {
+     "head": {
+      "canonicalTag": {
+       "isSameAsChecked": true,
+       "value": "/wedding-photographers/bengaluru/artsy-lens-photography-mahatma-gandhi-road"
+      },
+      "metaDescription": {
+       "value": "Artsy Lens Photography is a Wedding Photographer in Mahatma Gandhi Road, Bengaluru. Check Artsy Lens Photography price details, latest photo albums & reviews. Book photographer for Wedding, Engagement, Reception and other events now."
+      },
+      "metaRobot": {
+       "value": "index, follow"
+      },
+      "title": {
+       "value": "Artsy Lens Photography Photographer, Bengaluru - Price & Reviews"
+      }
+     },
+     "openGraph": {
+      "description": {
+       "isSameAsChecked": true,
+       "value": "Artsy Lens Photography is a Wedding Photographer in Mahatma Gandhi Road, Bengaluru. Check Artsy Lens Photography price details, latest photo albums & reviews. Book photographer for Wedding, Engagement, Reception and other events now."
+      },
+      "image": {
+       "isSameAsChecked": true,
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/9229f9cb-1977-48fd-bfa5-2e118205d7b0.png"
+      },
+      "title": {
+       "isSameAsChecked": true,
+       "value": "Artsy Lens Photography Photographer, Bengaluru - Price & Reviews"
+      },
+      "type": {
+       "value": "website"
+      },
+      "url": {
+       "isSameAsChecked": true,
+       "value": "/wedding-photographers/bengaluru/artsy-lens-photography-mahatma-gandhi-road"
+      }
+     },
+     "twitterCard": {
+      "card": {
+       "value": "summary_large_image"
+      },
+      "description": {
+       "isSameAsChecked": true,
+       "value": "Artsy Lens Photography is a Wedding Photographer in Mahatma Gandhi Road, Bengaluru. Check Artsy Lens Photography price details, latest photo albums & reviews. Book photographer for Wedding, Engagement, Reception and other events now."
+      },
+      "image": {
+       "isSameAsChecked": true,
+       "value": "https://imageswedding.theweddingcompany.com/bh_prod_bucket/weddings/480f5a5e-8489-465d-9c4a-b7c8bca0b9e6/admin_uploads/9229f9cb-1977-48fd-bfa5-2e118205d7b0.png"
+      },
+      "site": {
+       "value": "@TheWeddingCmpny"
+      },
+      "title": {
+       "isSameAsChecked": true,
+       "value": "Artsy Lens Photography Photographer, Bengaluru - Price & Reviews"
+      }
+     },
+     "seoExtra": {
+      "vendorName": "Artsy Lens Photography",
+      "locality": "Mahatma Gandhi Road",
+      "city": "Bengaluru"
+     }
+    },
+    "isLocalitySlug": false
+   },
+   "__N_SSG": true
+  },
+  "page": "/wedding-photographers/[photographyCity]/[photographyLocalityOrCategorySlug]",
+  "query": {
+   "photographyCity": "bengaluru",
+   "photographyLocalityOrCategorySlug": "artsy-lens-photography-mahatma-gandhi-road"
+  },
+  "buildId": "GP-9a4dTH6S6yEF7jhjhm",
+  "isFallback": false,
+  "isExperimentalCompile": true,
+  "gsp": true,
+  "scriptLoader": []
+ },
+ "internal_links": [
+  "/_next/static/css/12807397349bb01c.css",
+  "/_next/static/css/8c045856cabf1b0f.css",
+  "/_next/static/css/98388d77ac0fd362.css",
+  "/_next/static/media/0484562807a97172-s.p.woff2",
+  "/_next/static/media/155cae559bbd1a77-s.p.woff2",
+  "/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+  "/_next/static/media/55c20a7790588da9-s.p.woff2",
+  "/_next/static/media/6245472ced48d3be-s.p.woff2",
+  "/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+  "/_next/static/media/6d664cce900333ee-s.p.woff2",
+  "/_next/static/media/7db6c35d839a711c-s.p.woff2",
+  "/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+  "/_next/static/media/9dea9b885e976a81-s.p.woff",
+  "/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+  "/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+  "/_next/static/media/dc7a94c820ec8cf3-s.p.woff",
+  "/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+  "/_next/static/media/eafabf029ad39a43-s.p.woff2",
+  "/about-us",
+  "/account-deletion",
+  "/careers",
+  "/contact-us",
+  "/favicon_new.ico",
+  "/partner-onboarding-form",
+  "/price-beat-challenge",
+  "/twc-client-terms",
+  "/twc-privacy-policy",
+  "/twc-refund-policy",
+  "/twc-vendor-terms",
+  "/wedding",
+  "/wedding-decorators",
+  "/wedding-ideas",
+  "/wedding-invitation-card",
+  "/wedding-payment-plan",
+  "/wedding-photographers",
+  "/wedding-photographers/bengaluru",
+  "/wedding-photography",
+  "/wedding-services",
+  "/wedding-venues"
+ ],
+ "external_img_domains": [
+  "https://gcpimages.theweddingcompany.com",
+  "https://maps.gstatic.com",
+  "https://storage.googleapis.com",
+  "https://www.googletagmanager.com"
+ ],
+ "text_len": 14945,
+ "bytes": 83077,
+ "head_first_600": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon_new.ico\" sizes=\"any\"/><link rel=\"canonical\" href=\"https://www.theweddingcompany.com/wedding-photographers/bengaluru/artsy-lens-photography-mahatma-gandhi-road\"/><meta name=\"description\" content=\"Artsy Lens Photography is a Wedding Photographer in Mahatma Gandhi Road, Bengaluru. Check Artsy Lens Photography price details, latest photo albums &amp; reviews. Book photographer for Wedding, Engagement, Reception and other events now.\"/><meta property=\"og"
+}

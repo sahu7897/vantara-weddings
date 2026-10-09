@@ -1,0 +1,7 @@
+{
+ "deferred": [
+  "imageswedding.theweddingcompany.com gallery photos -> Stage 5 (image URLs come from API)",
+  "cdn.prod.website-files.com (Webflow: wedding-portfolio, wedding-invitation-card, success-stories, careers, privacy x2, safety-guideline) -> Stage 10",
+  "third-party widgets (tagembed/taggbox/clarity/mixpanel/posthog) -> hotlink embeds, activation per D7"
+ ]
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Vantara Weddings">
+  <title>Vantara Weddings</title>
+  <defs>
+    <linearGradient id="goldDeep" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0" stop-color="#C9A03C"/>
+      <stop offset="0.3" stop-color="#96701C"/>
+      <stop offset="0.55" stop-color="#C49B36"/>
+      <stop offset="0.8" stop-color="#8A6516"/>
+      <stop offset="1" stop-color="#B4882B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Top ornament -->
+  <g fill="none" stroke="url(#goldDeep)" stroke-width="1.6" stroke-linecap="round">
+    <path d="M 430 100 H 566"/>
+    <path d="M 634 100 H 770"/>
+  </g>
+  <path d="M 600 86 L 614 100 L 600 114 L 586 100 Z" fill="url(#goldDeep)"/>
+
+  <!-- Script wordmark -->
+  <text x="600" y="290" text-anchor="middle"
+        font-family="'Snell Roundhand','Segoe Script','Brush Script MT','Lucida Handwriting','Apple Chancery','Coronet script',cursive"
+        font-size="170" font-style="italic" fill="url(#goldDeep)">Vantara</text>
+
+  <!-- Flourish divider -->
+  <g fill="none" stroke="url(#goldDeep)" stroke-width="2.2" stroke-linecap="round">
+    <path d="M 586 352 C 520 354 462 346 408 322"/>
+    <path d="M 614 352 C 680 354 738 346 792 322"/>
+  </g>
+  <path d="M 600 341 L 611 352 L 600 363 L 589 352 Z" fill="url(#goldDeep)"/>
+
+  <!-- Subline -->
+  <g fill="none" stroke="url(#goldDeep)" stroke-width="1.2" stroke-linecap="round" opacity="0.85">
+    <path d="M 300 426 H 382"/>
+    <path d="M 818 426 H 900"/>
+  </g>
+  <text x="609" y="440" text-anchor="middle"
+        font-family="'Didot','Bodoni MT','GFS Didot','Georgia','Times New Roman',serif"
+        font-size="44" letter-spacing="19" fill="#8A6516">WEDDINGS</text>
+</svg>

@@ -1,0 +1,98 @@
+/**
+ * SectionAbout — generated from docs/research/homepage/sections/more_about_betterhalf_section.html by scripts/html2tsx.py.
+ * Source of truth = captured DOM. Hand extensions (interactivity) are allowed but
+ * must be marked with `// HAND-EXTENSION:` comments so regeneration can be merged.
+ 
+ */
+export default function SectionAbout() {
+  return (
+    <>
+    <section className="mb-8 " id="more_about_betterhalf_section">
+            <div className="w-full"><img alt="" loading="lazy" width="360" height="30" decoding="async" data-nimg="1" className="max-h-20 w-full object-cover object-top" style={{color: 'transparent'}} src="/images/HomePage/new/pink-curve.svg" /></div>
+            <div className="bg-[#FFEFF4] pb-8 text-primaryTextColor">
+                <div className="mx-auto flex max-w-screen-lg flex-col justify-center px-4 md:items-center md:px-0 ">
+                    <p className="mb-5 font-playfair text-3xl font-semibold md:mb-12 md:text-[44px]">About Vantara</p>
+                    <div className="flex flex-col items-center  gap-y-8">
+                        <div className=" flex w-full flex-col justify-center gap-3 ">
+                            <h1 className="text-2xl font-extrabold md:text-3xl">Best Vantara Services in India</h1>
+                            <div className="flex flex-col gap-y-2">
+                                <p className="text-base">Vantara is here to help you plan your perfect wedding and make sure that your wedding dream doesn’t just remain a dream; we will make it a reality.</p>
+                                <p className="text-base">Being India’s largest wedding planning company, we understand that planning a wedding can be overwhelming and stress-inducing. Our <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-services">end-to-end wedding services</a>                                make sure you enjoy your special day of your life without any problem. We already have done more than 1,000+ weddings and have launched different types of wedding services like venue booking, decorator booking, photographers,
+                                    mehendi artists, etc.</p>
+                            </div>
+                        </div>
+                        <div className="hidden space-y-7">
+                            <div className=" flex w-full flex-col justify-center gap-3 ">
+                                <h2 className="text-xl font-extrabold md:text-2xl">Wedding Planning Services Offered by Vantara</h2>
+                                <div className="flex flex-col gap-y-2">
+                                    <p className="text-base">Whether you’re looking for Indian wedding planning services online or offline, our experts at Vantara do both with equal care. We help you book all types of wedding services, big or small. Most importantly,
+                                        we help you allocate your budget in the right way and choose the most perfect service for you as per your preferences. So, how small or big your wedding budget is, we help you find the best! Check out some of the top
+                                        wedding services that we offer!</p>
+                                </div>
+                            </div>
+                            <div className=" flex w-full flex-col justify-center gap-3 ">
+                                <h3 className="text-lg font-extrabold md:text-lg">Vantara Venues (Venue Booking Services)</h3>
+                                <div className="flex flex-col gap-y-2">
+                                    <p className="text-base">Choosing the right a wedding venue is very important for making your dream wedding happen. Vantara can help you with this big decision. We have a large network of over 30,000 <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-venues">wedding venues</a> across India. No matter what you’re looking for — <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-venues/bengaluru">wedding venues in Bangalore</a>                                    or <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-venues/delhi-ncr">wedding venues in Delhi</a> or <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-venues/jaipur">wedding venues in Jaipur</a> or <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-venues/noida/banquet-halls-fi3">marriage halls in Noida</a>                                    - we have options for you.</p>
+                                    <p className="text-base">Our platform allows you to use filters to find venues that match your preferences. You can filter by location, budget, capacity and other factors to narrow down your search. This way, you can easily find and book the perfect
+                                        venue that fits your dream wedding vision and requirements.</p>
+                                </div>
+                            </div>
+                            <div className=" flex w-full flex-col justify-center gap-3 ">
+                                <h3 className="text-lg font-extrabold md:text-lg">Vantara Decoration Services</h3>
+                                <div className="flex flex-col gap-y-2">
+                                    <p className="text-base">Whether you’re doing wedding planning online or offline, decoration services are a crucial part. People have different preferences for decoration at their weddings. Trust our experts, they can guide you in choosing the
+                                        right wedding decoration services. As India’s largest wedding planning company, our wide network of decorators helps you choose the top one as per your preferences. No matter if you’re looking for <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-decorators">top wedding decorators</a> in Bangalore, Delhi or any other city, we will find the best one!</p>
+                                </div>
+                            </div>
+                            <div className=" flex w-full flex-col justify-center gap-3 ">
+                                <h3 className="text-lg font-extrabold md:text-lg">Vantara Photography Services</h3>
+                                <div className="flex flex-col gap-y-2">
+                                    <p className="text-base">At Vantara, we also help you capture your wedding memories in the best way possible. And you know what’s the best thing? We will first ask your budget and then only give you options from which you can choose
+                                        the right one for you. And it doesn’t matter if you are looking for <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-photographers">top wedding photographers</a> in Bangalore
+                                        or wedding photographers in Delhi NCR, we can help you!</p>
+                                </div>
+                            </div>
+                            <div className=" flex w-full flex-col justify-center gap-3 ">
+                                <h3 className="text-lg font-extrabold md:text-lg">Explore Best Vantara Ideas with Ideabook</h3>
+                                <div className="flex flex-col gap-y-2">
+                                    <p className="text-base">Every idea you’re putting in your wedding should be the best one out there. To make it possible, we have curated more than 10,000 <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-ideas">wedding ideas</a>                                    across different categories like Mehendi, Wedding decoration, Bridal Lehenga, <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-ideas?category=sarees">Saree</a>, <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-ideas?category=pre-wedding-shoot">Pre-wedding photoshoot</a>, etc.</p>
+                                    <p className="text-base">What do you need to do? Just go through these ideas and add the ones you like to your personal ideabook. You can call it Pinterest for your wedding. So, whether you’re confused about your mehndi design or groom dresses,
+                                        we have got everything covered! Some of the most popular ideabook categories are <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-ideas?category=jewellery">jewellery</a>, <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-ideas?category=venue-ideas">venue ideas</a>, <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-ideas?category=photoshoot-poses">photoshoot poses</a>, makeup,
+                                        <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-ideas?category=groom-dresses">groom dresses</a>, bride dresses and <a className="text-TWCPrimaryTheme hover:text-TWCPrimaryTheme/80" target="_blank" href="/wedding-ideas?category=bridal-lehengas">bridal lehengas</a>.</p>
+                                </div>
+                            </div>
+                            <div className=" flex w-full flex-col justify-center gap-3 ">
+                                <h2 className="text-xl font-extrabold md:text-2xl">Why Choose Us?</h2>
+                            </div>
+                            <div className=" flex w-full flex-col justify-center gap-3 ">
+                                <h3 className="text-lg font-extrabold md:text-lg">Best Deals in Industry</h3>
+                                <div className="flex flex-col gap-y-2">
+                                    <p className="text-base">When it comes to planning a perfect wedding, everybody wants the best deals for themselves. As India’s largest wedding planning company, we have partnered with the best vendors. This helps us give you the best deals and
+                                        offers across all types of wedding services. From venue booking to catering, decoration, and more, our deals will be unique for you as it is curated and made only for you once you share your requirements with us. And
+                                        while doing all of this, we will not compromise with the quality.</p>
+                                </div>
+                            </div>
+                            <div className=" flex w-full flex-col justify-center gap-3 ">
+                                <h3 className="text-lg font-extrabold md:text-lg">Expert Insights &amp; Customized Wedding Planning</h3>
+                                <div className="flex flex-col gap-y-2">
+                                    <p className="text-base">You don’t have to go through wedding planning on your own. At Vantara, all our experts have years of experience in Indian Wedding Planning Online and offline. Right at the beginning, you will get an expert who
+                                        will guide you until the last day of your wedding. We listen to you. We take time to understand what you want. And once we get enough, we give customized recommendations and ideas within your budget. We will find the
+                                        perfect venue for you. We will find the perfect decor for you. Trust our wedding experts to bring your wedding vision to a reality!</p>
+                                </div>
+                            </div>
+                            <div className=" flex w-full flex-col justify-center gap-3 ">
+                                <h3 className="text-lg font-extrabold md:text-lg">Stress-free Vantara Services</h3>
+                                <div className="flex flex-col gap-y-2">
+                                    <p className="text-base">Planning a wedding by yourself can be an overwhelming and stressful experience. We understand it and that’s why our main goal is to let you enjoy your special day in a stress-free manner. Our dedicated team of experts handle
+                                        everything with utmost care and professionalism. We take care of all the vendors. We make sure everything happens on time. We make sure ‘Stress’ isn’t included in your wedding guest list. To give you comprehensive support,
+                                        we also do wedding planning online.</p>
+                                </div>
+                            </div>
+                        </div><button className="self-start border-b-[1.5px] border-TWCPrimaryTheme pt-1 text-TWCPrimaryTheme">Read more</button></div>
+                </div>
+            </div>
+        </section>
+    </>
+  );
+}
