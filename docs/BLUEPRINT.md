@@ -563,6 +563,19 @@ Tables: `profiles`, `vendors`, `venues`, `vendor_media`, `cities`, `localities`
     Remaining audit output is verified-benign: the 7 legacy city slugs are
     covered by `next.config` redirects and
     `/integrity-program/assets/*.css` is a captured stylesheet link, not a route.
+  - **Gates verified on this exact tree:** 	sc --noEmit 0, eslint .
+    --max-warnings 0 0, 
+ext build 0 — 35 routes, middleware 94.7 kB. The
+    build prerendered the directory routes **from live Supabase rows**
+    (/wedding-venues/{banda,lucknow,jhansi,delhi-ncr} plus five localities),
+    which is independent proof that the read path is reaching the real database.
+    Note: adding _app.getInitialProps marks every page ƒ (Dynamic) in the
+    build table even though ISR still applies (venue routes still list
+    Revalidate 10m) — an accepted trade for globally CMS-driven branding.
+  - **Git:** the project had **no repository** (.gitignore existed but no
+    .git), so none of the above had a rollback point. git init + an initial
+    commit now tracks 2,432 files; .env.local is confirmed ignored and the
+    staged content was grepped for credential material before committing.
   - **Still open:** apply 0008 to the live project (no local Postgres, and
     outbound HTTPS is blocked in this environment, so it could not be executed
     here); the original 5th hero slide ("Chitwan & Abhitendra") is still absent
