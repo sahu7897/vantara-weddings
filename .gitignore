@@ -28,12 +28,16 @@ next-env.d.ts
 # tools
 .eslintcache
 
-# -- Large captured media (kept OUT of git on purpose) -----------------------
-# ~600 MB of theweddingcompany.com image/video captures:
-#   public/webflow     ~394 MB
-#   public/gcpimages   ~206 MB
-# These stay on disk so local dev works exactly as before; `git add -A` will
-# not pick them up. Host them in Supabase Storage (or Git LFS) when the site
-# is deployed, then update the asset paths. See README "Media assets".
-/public/webflow/
-/public/gcpimages/
+# ── Site media IS tracked ───────────────────────────────────────────────────
+# public/webflow (~394 MB) and public/gcpimages (~206 MB) hold the images and
+# hero videos the live site serves. Vercel deploys `public/` straight from this
+# repository, so these MUST be committed — excluding them (as an earlier commit
+# did) produces a live site with missing images and no hero videos.
+#
+# Largest single file is ~8.5 MB, so plain git is fine: GitHub's hard limit is
+# 100 MB per file, and Git LFS is not required. If this ever grows past a few GB,
+# move the media to Supabase Storage / a CDN and rewrite the paths instead.
+#
+# public/__l5e is a captured build artefact (not referenced by any page), so it
+# stays untracked to avoid ~2 MB of dead weight.
+/public/__l5e/
