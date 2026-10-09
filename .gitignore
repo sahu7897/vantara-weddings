@@ -27,3 +27,13 @@ next-env.d.ts
 
 # tools
 .eslintcache
+
+# -- Large captured media (kept OUT of git on purpose) -----------------------
+# ~600 MB of theweddingcompany.com image/video captures:
+#   public/webflow     ~394 MB
+#   public/gcpimages   ~206 MB
+# These stay on disk so local dev works exactly as before; `git add -A` will
+# not pick them up. Host them in Supabase Storage (or Git LFS) when the site
+# is deployed, then update the asset paths. See README "Media assets".
+/public/webflow/
+/public/gcpimages/
