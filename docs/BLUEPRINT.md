@@ -582,6 +582,28 @@ ext build 0 — 35 routes, middleware 94.7 kB. The
     from both the DB `hero` row and `DEFAULT_HERO_CONTENT`, pending client
     confirmation; and the repo has no Git history, so there is no rollback point
     for any of this.
+- **Local panel verification in a real browser (2026-10-10):** drove headless Chrome over
+  the DevTools Protocol against `next dev` on **http://localhost:3001** (port 3000 was
+  occupied by another process) and signed in through the app's own
+  `/auth/callback?token_hash=…&type=magiclink` route — no auth bypass, no mocked data.
+  **Verified:** `/login` renders both methods (switching to *Email link* reveals the email
+  field; the OTP step and its resend cooldown render); `/admin/dashboard` authenticates,
+  shows all 8 tabs and loads real rows (Leads 6/6 with search + status filter, Vendors
+  queue, Site Settings with 18 fields incl. phone `+91 73551 91261` /
+  `bookings@vantaraweddings.com` / the real Instagram URL and **no** `95381` placeholder);
+  `/vendor/dashboard` admits the role and shows its honest "no vendor profile linked"
+  state; `/account` renders role + enquiries. Screenshots in `docs/screenshots/`.
+  **Migration 0008 was applied to the live project from this session** (via the service-role
+  API, since no local Postgres client exists) and read back verified; the homepage then
+  rendered `wa.me/917355191261`, the real tel/mailto and the real social links — the CMS
+  read path is confirmed working end-to-end against production data.
+  **NEW BLOCKER FOUND (deployment, not code): the Supabase project has phone auth
+  DISABLED** — `/auth/v1/settings` reports `phone: false` / `sms provider: false`, so a
+  phone OTP request fails with `400 Unsupported phone provider` (surfaced honestly by the
+  login page). The MSG91 *Send SMS* hook must be deployed and the phone provider enabled
+  before OTP sign-in can work; email magic links and Google remain the only functioning
+  methods until then. Local test artifacts (temporary vendor/lead/booking rows) were
+  created and fully removed during verification.
 ### 13.11 Content-policy amendment (recorded 2026-10-04, client-confirmed)
 
 After an initial instruction that conflicted with O4, the client was asked
