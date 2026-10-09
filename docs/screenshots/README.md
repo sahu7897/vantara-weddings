@@ -31,12 +31,19 @@ out blank.
 
 | File | What it shows |
 |---|---|
-| `admin-media-library.png` | Media tab — image **and video** upload, external CDN URL form, type filters |
+| `admin-media-library.png` | Media tab ï¿½ image **and video** upload, external CDN URL form, type filters |
 | `admin-media-library-filled.png` | Media tab after uploading a real PNG + MP4 through the panel |
 | `admin-hero-media-picker.png` | Hero slide's **Choose / Upload** modal (Library / Upload new / External URL), with live thumbnails on the fields |
-| `admin-hero-after-pick.png` | Hero panel after picking a library asset — the URL is written back into the CMS field |
+| `admin-hero-after-pick.png` | Hero panel after picking a library asset ï¿½ the URL is written back into the CMS field |
 
 Verified end-to-end in this run: a PNG and an MP4 were uploaded through the panel, registered
 in `cms_media` with the correct `media_type`, rendered with inline previews, and the picker
-wrote the public URL back into the hero field. Test rows were removed afterwards — the media
+wrote the public URL back into the hero field. Test rows were removed afterwards ï¿½ the media
 library was left at its original 0 rows.
+
+## Email rate limit (Supabase built-in sender)
+
+| File | What it shows |
+|---|---|
+| `login-rate-limit.png` | `/login` after a 429 `over_email_send_rate_limit` â€” actionable copy plus a disabled "Wait 55s" button |
+| `login-rate-limit-after-reload.png` | The same cooldown still counting down after a page reload (it is persisted to `localStorage`) |

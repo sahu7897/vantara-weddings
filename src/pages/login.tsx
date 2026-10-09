@@ -9,7 +9,7 @@
  */
 import Head from 'next/head';
 import { useRouter } from 'next/router';
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { toast } from 'react-toastify';
 import { site } from '@/config/site';
 import SiteFooter from '@/components/layout/SiteFooter';
@@ -20,6 +20,55 @@ import { getSupabaseBrowserClient, isSupabaseConfigured } from '@/lib/supabase/c
 type Step = 'phone' | 'otp' | 'email-sent';
 
 const RESEND_COOLDOWN_S = 60;
+/** Survives a page reload so a fresh tab cannot immediately re-fire an email. */
+const COOLDOWN_KEY = 'vantara.auth.cooldownUntil';
+const DEFAULT_RATE_LIMIT_S = 60;
+
+/**
+ * GoTrue rejects sends with `over_email_send_rate_limit` (429) once Supabase's
+ * built-in email sender quota is spent — the default sender is heavily
+ * throttled, so this is easy to hit. Say what to do instead of surfacing the
+ * bare "email rate limit exceeded".
+ */
+function describeAuthError(err: unknown, channel: 'email' | 'phone'): { limited: boolean; seconds: number; message: string } {
+  const anyErr = err as { code?: string; status?: number; message?: string } | null;
+  const raw = anyErr?.message ?? String(err ?? 'Something went wrong.');
+  const limited =
+    anyErr?.status === 429 ||
+    anyErr?.code === 'over_email_send_rate_limit' ||
+    anyErr?.code === 'over_sms_send_rate_limit' ||
+    /rate limit/i.test(raw);
+  if (!limited) return { limited: false, seconds: 0, message: raw };
+  const who = channel === 'email' ? 'confirmation emails' : 'SMS messages';
+  return {
+    limited: true,
+    seconds: DEFAULT_RATE_LIMIT_S,
+    message:
+      `Too many ${who} requested — Supabase's built-in sender is rate limited and resets shortly. ` +
+      'Wait about a minute, use another sign-in method, or connect your own SMTP provider in ' +
+      'Supabase → Authentication → Emails to remove the limit.',
+  };
+}
+
+function readCooldown(): number {
+  if (typeof window === 'undefined') return 0;
+  try {
+    const until = Number(window.localStorage.getItem(COOLDOWN_KEY) ?? 0);
+    return until > Date.now() ? Math.ceil((until - Date.now()) / 1000) : 0;
+  } catch {
+    return 0;
+  }
+}
+
+function writeCooldown(seconds: number): void {
+  if (typeof window === 'undefined') return;
+  try {
+    if (seconds <= 0) window.localStorage.removeItem(COOLDOWN_KEY);
+    else window.localStorage.setItem(COOLDOWN_KEY, String(Date.now() + seconds * 1000));
+  } catch {
+    /* storage unavailable — the in-memory cooldown still applies */
+  }
+}
 
 function authCallbackUrl(next: unknown): string {
   const base =
@@ -72,10 +121,28 @@ export default function LoginPage() {
     };
   }, [router.isReady, configured, finish]);
 
-  // Resend cooldown ticker.
+  // Restore a cooldown persisted by an earlier page load (once), so a refresh
+  // cannot be used to bypass the wait and immediately hit the rate limit again.
+  const restoredRef = useRef(false);
+  useEffect(() => {
+    if (restoredRef.current) return;
+    restoredRef.current = true;
+    const remaining = readCooldown();
+    if (remaining > 0) setCooldown(remaining);
+  }, []);
+
+  // Resend cooldown ticker — clears the stored deadline once it elapses.
   useEffect(() => {
     if (cooldown <= 0) return;
-    const id = setInterval(() => setCooldown((c) => (c > 0 ? c - 1 : 0)), 1000);
+    const id = setInterval(() => {
+      setCooldown((c) => {
+        if (c <= 1) {
+          writeCooldown(0);
+          return 0;
+        }
+        return c - 1;
+      });
+    }, 1000);
     return () => clearInterval(id);
   }, [cooldown]);
 
@@ -92,9 +159,15 @@ export default function LoginPage() {
       if (err) throw err;
       setStep('otp');
       setCooldown(RESEND_COOLDOWN_S);
+      writeCooldown(RESEND_COOLDOWN_S);
       toast.success('OTP sent to your phone');
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Could not send the OTP. Try again.');
+      const info = describeAuthError(err, 'phone');
+      setError(info.message);
+      if (info.limited) {
+        setCooldown(info.seconds);
+        writeCooldown(info.seconds);
+      }
     } finally {
       setBusy(false);
     }
@@ -137,9 +210,16 @@ export default function LoginPage() {
       });
       if (err) throw err;
       setStep('email-sent');
+      setCooldown(RESEND_COOLDOWN_S);
+      writeCooldown(RESEND_COOLDOWN_S);
       toast.success('Magic link sent — check your inbox');
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Could not send the email. Try again.');
+      const info = describeAuthError(err, 'email');
+      setError(info.message);
+      if (info.limited) {
+        setCooldown(info.seconds);
+        writeCooldown(info.seconds);
+      }
     } finally {
       setBusy(false);
     }
@@ -243,7 +323,7 @@ export default function LoginPage() {
                     />
                   </label>
                   <button type="button" className={primaryButtonClass} disabled={busy} onClick={sendOtp}>
-                    {busy ? 'Sending…' : 'Send OTP'}
+                    {busy ? 'Sending…' : cooldown > 0 ? `Wait ${cooldown}s` : 'Send OTP'}
                   </button>
                 </div>
               )}
@@ -302,8 +382,8 @@ export default function LoginPage() {
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                   />
-                  <button type="button" className={primaryButtonClass} disabled={busy} onClick={sendMagicLink}>
-                    {busy ? 'Sending…' : 'Send magic link'}
+                  <button type="button" className={primaryButtonClass} disabled={busy || cooldown > 0} onClick={sendMagicLink}>
+                    {busy ? 'Sending…' : cooldown > 0 ? `Wait ${cooldown}s` : 'Send magic link'}
                   </button>
                 </div>
               )}
