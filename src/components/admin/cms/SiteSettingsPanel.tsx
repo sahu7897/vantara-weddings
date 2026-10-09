@@ -10,6 +10,7 @@ import type {
   SeoSettings,
   SocialSettings,
 } from '@/lib/supabase/types';
+import MediaPicker from './MediaPicker';
 import {
   DEFAULT_CONTACT_SETTINGS,
   DEFAULT_GENERAL_SETTINGS,
@@ -155,27 +156,23 @@ export default function SiteSettingsPanel() {
             />
           </div>
 
-          <div>
-            <label className="block text-xs font-semibold text-gray-700">Logo Image URL</label>
-            <input
-              type="text"
-              value={general.logoUrl}
-              onChange={(e) => setGeneral({ ...general, logoUrl: e.target.value })}
-              placeholder="/brand/vantara-logo.png"
-              className="mt-1 w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:border-[#7B0242] focus:outline-none"
-            />
-          </div>
+          <MediaPicker
+            label="Logo Image"
+            hint="Header and footer logo. A wide transparent PNG/SVG/WebP works best."
+            expected="image"
+            value={general.logoUrl}
+            onChange={(url) => setGeneral({ ...general, logoUrl: url })}
+            placeholder="/brand/vantara-logo.png"
+          />
 
-          <div>
-            <label className="block text-xs font-semibold text-gray-700">Favicon URL</label>
-            <input
-              type="text"
-              value={general.faviconUrl}
-              onChange={(e) => setGeneral({ ...general, faviconUrl: e.target.value })}
-              placeholder="/brand/favicon.png"
-              className="mt-1 w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:border-[#7B0242] focus:outline-none"
-            />
-          </div>
+          <MediaPicker
+            label="Favicon"
+            hint="Browser-tab icon. Square, 32x32 or larger."
+            expected="image"
+            value={general.faviconUrl}
+            onChange={(url) => setGeneral({ ...general, faviconUrl: url })}
+            placeholder="/brand/favicon.png"
+          />
         </div>
       </div>
 
@@ -333,16 +330,14 @@ export default function SiteSettingsPanel() {
             />
           </div>
 
-          <div>
-            <label className="block text-xs font-semibold text-gray-700">Default OG Social Image URL</label>
-            <input
-              type="text"
-              value={seo.defaultOgImage}
-              onChange={(e) => setSeo({ ...seo, defaultOgImage: e.target.value })}
-              placeholder="/brand/vantara-logo.png"
-              className="mt-1 w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:border-[#7B0242] focus:outline-none"
-            />
-          </div>
+          <MediaPicker
+            label="Default OG Social Image"
+            hint="Preview image when a page is shared on WhatsApp / Facebook. 1200x630."
+            expected="image"
+            value={seo.defaultOgImage}
+            onChange={(url) => setSeo({ ...seo, defaultOgImage: url })}
+            placeholder="/brand/vantara-logo.png"
+          />
         </div>
       </div>
 

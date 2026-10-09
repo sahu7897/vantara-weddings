@@ -9,7 +9,8 @@
  * commission summary.
  */
 import Head from 'next/head';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
+import { useRouter } from 'next/router';
 import type { InferGetServerSidePropsType } from 'next';
 import { site } from '@/config/site';
 import SiteFooter from '@/components/layout/SiteFooter';
@@ -56,7 +57,30 @@ export default function AdminDashboardPage({
   email,
   phone,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) {
+  const router = useRouter();
   const [tab, setTab] = useState<Tab>('leads');
+
+  /**
+   * The active tab lives in `?tab=` so a panel can be linked, bookmarked and
+   * survives a refresh (previously every reload dropped you back on Leads).
+   * `shallow: true` keeps this client-side — the page's GSSP does not need to
+   * re-run just because you switched panels.
+   */
+  const selectTab = (next: Tab) => {
+    setTab(next);
+    void router.replace(
+      { pathname: router.pathname, query: next === 'leads' ? {} : { tab: next } },
+      undefined,
+      { shallow: true },
+    );
+  };
+
+  useEffect(() => {
+    if (!router.isReady) return;
+    const requested = typeof router.query.tab === 'string' ? router.query.tab : '';
+    const match = TABS.find((item) => item.id === requested);
+    if (match) setTab(match.id);
+  }, [router.isReady, router.query.tab]);
 
   const handleSignOut = async () => {
     if (!isSupabaseConfigured()) return;
@@ -94,7 +118,7 @@ export default function AdminDashboardPage({
                 <button
                   key={item.id}
                   type="button"
-                  onClick={() => setTab(item.id)}
+                  onClick={() => selectTab(item.id)}
                   aria-current={tab === item.id ? 'page' : undefined}
                   className={`rounded-t-xl px-5 py-2.5 text-sm font-bold transition ${
                     tab === item.id

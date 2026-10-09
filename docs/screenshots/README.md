@@ -26,3 +26,17 @@ values the admin panel now edits.
 Note: these were captured in headless Chrome, which reports a zero-size layout viewport on
 first paint; every capture sets an explicit device-metrics override, otherwise the PNG comes
 out blank.
+
+## Media editing from the admin panel (added later)
+
+| File | What it shows |
+|---|---|
+| `admin-media-library.png` | Media tab — image **and video** upload, external CDN URL form, type filters |
+| `admin-media-library-filled.png` | Media tab after uploading a real PNG + MP4 through the panel |
+| `admin-hero-media-picker.png` | Hero slide's **Choose / Upload** modal (Library / Upload new / External URL), with live thumbnails on the fields |
+| `admin-hero-after-pick.png` | Hero panel after picking a library asset — the URL is written back into the CMS field |
+
+Verified end-to-end in this run: a PNG and an MP4 were uploaded through the panel, registered
+in `cms_media` with the correct `media_type`, rendered with inline previews, and the picker
+wrote the public URL back into the hero field. Test rows were removed afterwards — the media
+library was left at its original 0 rows.

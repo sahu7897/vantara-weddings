@@ -6,6 +6,7 @@ import { useEffect, useState } from 'react';
 import { getSupabaseBrowserClient, isSupabaseConfigured } from '@/lib/supabase/client';
 import type { HeroSectionContent, HeroSlide } from '@/lib/supabase/types';
 import { DEFAULT_HERO_CONTENT } from '@/services/cmsData';
+import MediaPicker from './MediaPicker';
 
 /** Shown instead of an unhandled throw when the build has no Supabase keys. */
 const NOT_CONFIGURED =
@@ -301,40 +302,35 @@ export default function HeroSectionPanel() {
                 />
               </div>
 
-              <div className="sm:col-span-3">
-                <label className="block text-xs font-semibold text-gray-700">Desktop Video URL (.mp4 or CDN)</label>
-                <input
-                  type="text"
-                  value={slide.desktopUrl}
-                  onChange={(e) => handleUpdateSlide(idx, { desktopUrl: e.target.value })}
-                  placeholder="/gcpimages/weddings/... or Cloudinary URL"
-                  className="mt-1 w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:border-[#7B0242] focus:outline-none"
-                  required
-                />
-              </div>
+              <MediaPicker
+                className="sm:col-span-3"
+                label="Desktop Video"
+                hint="Shown above 768px. Upload an MP4 or point at a CDN URL."
+                expected="video"
+                value={slide.desktopUrl}
+                onChange={(url) => handleUpdateSlide(idx, { desktopUrl: url })}
+                placeholder="/gcpimages/weddings/... or Cloudinary .mp4"
+              />
 
-              <div className="sm:col-span-3">
-                <label className="block text-xs font-semibold text-gray-700">Mobile Video URL (.mp4 or CDN)</label>
-                <input
-                  type="text"
-                  value={slide.mobileUrl}
-                  onChange={(e) => handleUpdateSlide(idx, { mobileUrl: e.target.value })}
-                  placeholder="/gcpimages/weddings/... or Cloudinary URL"
-                  className="mt-1 w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:border-[#7B0242] focus:outline-none"
-                  required
-                />
-              </div>
+              <MediaPicker
+                className="sm:col-span-3"
+                label="Mobile Video"
+                hint="Shown at 768px and below — a portrait crop works best."
+                expected="video"
+                value={slide.mobileUrl}
+                onChange={(url) => handleUpdateSlide(idx, { mobileUrl: url })}
+                placeholder="/gcpimages/weddings/... or Cloudinary .mp4"
+              />
 
-              <div className="sm:col-span-3">
-                <label className="block text-xs font-semibold text-gray-700">Poster Thumbnail Image URL</label>
-                <input
-                  type="text"
-                  value={slide.posterUrl}
-                  onChange={(e) => handleUpdateSlide(idx, { posterUrl: e.target.value })}
-                  placeholder="/gcpimages/weddings/... or WebP thumbnail"
-                  className="mt-1 w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:border-[#7B0242] focus:outline-none"
-                />
-              </div>
+              <MediaPicker
+                className="sm:col-span-3"
+                label="Poster Thumbnail"
+                hint="Still frame while the video loads — also used for social previews."
+                expected="image"
+                value={slide.posterUrl}
+                onChange={(url) => handleUpdateSlide(idx, { posterUrl: url })}
+                placeholder="/gcpimages/weddings/... or a .webp thumbnail"
+              />
             </div>
           </div>
         ))}

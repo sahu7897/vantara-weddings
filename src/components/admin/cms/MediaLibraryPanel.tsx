@@ -1,12 +1,29 @@
 /**
- * Admin → Media Library (Phase 6 CMS): Manage site-wide imagery and video assets.
- * Supports:
- *   1. Direct upload of images/thumbnails to Supabase Storage ('site-media' bucket).
- *   2. Adding external CDN links (Cloudinary / YouTube / Vimeo) to protect against 5 GB Supabase egress exhaustion.
- *   3. Instant 1-click URL copying for pasting into Hero slides, pages, or settings.
+ * Admin → Media Library (Phase 6 CMS): the site-wide image and video store.
+ *
+ * Three ways in, all funnelling through `src/lib/media/siteMedia.ts`:
+ *   1. Upload a file to the public `site-media` bucket and register a `cms_media` row.
+ *   2. Register an external CDN / video URL (Cloudinary, Vimeo, S3) — nothing is
+ *      uploaded, which matters because Supabase's free egress is finite.
+ *   3. Copy an asset's public URL for any field that still takes a raw path.
+ *
+ * Fixed here: the previous inline implementation enforced a **5 MB** cap and
+ * advertised "WebP, PNG, JPG", so uploading a hero video was impossible even
+ * though the file input hinted at `video/mp4`. Limits now come from one shared
+ * module (40 MB upload / 500 MB absolute) and videos get an inline preview
+ * instead of a 🎬 placeholder.
  */
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import { getSupabaseBrowserClient, isSupabaseConfigured } from '@/lib/supabase/client';
+import {
+  ALL_MEDIA_ACCEPT,
+  deleteSiteMedia,
+  fetchSiteMedia,
+  humanSize,
+  registerExternalMedia,
+  uploadSiteMedia,
+  type MediaKind,
+} from '@/lib/media/siteMedia';
 import type { CmsMediaRow } from '@/lib/supabase/types';
 
 /** Shown instead of an unhandled throw when the build has no Supabase keys. */
@@ -19,13 +36,15 @@ export default function MediaLibraryPanel() {
   const [uploading, setUploading] = useState(false);
   const [notice, setNotice] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [filter, setFilter] = useState<'all' | MediaKind>('all');
+  const [copied, setCopied] = useState<string | null>(null);
 
-  // External URL modal / inline form
+  // External URL form
   const [externalUrl, setExternalUrl] = useState('');
   const [externalName, setExternalName] = useState('');
-  const [externalType, setExternalType] = useState<'image' | 'video'>('video');
+  const [externalType, setExternalType] = useState<MediaKind>('video');
 
-  const load = async () => {
+  const load = useCallback(async () => {
     setLoading(true);
     setError(null);
     if (!isSupabaseConfigured()) {
@@ -34,80 +53,56 @@ export default function MediaLibraryPanel() {
       return;
     }
     try {
-      const supabase = getSupabaseBrowserClient();
-      const { data, error: fetchErr } = await supabase
-        .from('cms_media')
-        .select('*')
-        .order('created_at', { ascending: false });
-
-      if (fetchErr) {
-        setError(fetchErr.message);
-      } else if (data) {
-        setMediaList(data as CmsMediaRow[]);
-      }
+      setMediaList(await fetchSiteMedia(getSupabaseBrowserClient()));
     } catch (loadError) {
       setError(loadError instanceof Error ? loadError.message : String(loadError));
     } finally {
       setLoading(false);
     }
-  };
+  }, []);
 
   useEffect(() => {
     void load();
-  }, []);
+  }, [load]);
 
-  const handleFileUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
-    const file = e.target.files?.[0];
-    if (!file) return;
+  const visible = useMemo(
+    () => (filter === 'all' ? mediaList : mediaList.filter((m) => m.media_type === filter)),
+    [mediaList, filter],
+  );
 
-    if (file.size > 5 * 1024 * 1024) {
-      setError('File size exceeds 5 MB. Please compress images before uploading to save bandwidth.');
-      return;
-    }
+  const counts = useMemo(
+    () => ({
+      all: mediaList.length,
+      image: mediaList.filter((m) => m.media_type === 'image').length,
+      video: mediaList.filter((m) => m.media_type === 'video').length,
+    }),
+    [mediaList],
+  );
 
-    if (!isSupabaseConfigured()) {
-      setError(NOT_CONFIGURED);
-      return;
-    }
-
+  const handleFiles = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const files = Array.from(e.target.files ?? []);
+    if (files.length === 0) return;
     setUploading(true);
     setError(null);
     setNotice(null);
-
+    if (!isSupabaseConfigured()) {
+      setError(NOT_CONFIGURED);
+      setUploading(false);
+      return;
+    }
     try {
       const supabase = getSupabaseBrowserClient();
-      const ext = file.name.split('.').pop()?.toLowerCase() ?? 'jpg';
-      const cleanName = file.name.replace(/[^a-zA-Z0-9.-]/g, '_');
-      const storagePath = `uploads/${Date.now()}_${cleanName}`;
-
-      // 1. Upload to Supabase Storage
-      const { error: uploadErr } = await supabase.storage
-        .from('site-media')
-        .upload(storagePath, file, { cacheControl: '3600', upsert: false });
-
-      if (uploadErr) throw uploadErr;
-
-      // 2. Get Public URL
-      const { data: urlData } = supabase.storage.from('site-media').getPublicUrl(storagePath);
-      const publicUrl = urlData.publicUrl;
-
-      // 3. Register in cms_media
-      const mediaType = file.type.startsWith('video') ? 'video' : 'image';
-      const { error: insertErr } = await supabase.from('cms_media').insert({
-        filename: file.name,
-        storage_path: storagePath,
-        public_url: publicUrl,
-        media_type: mediaType,
-        size_bytes: file.size,
-        alt_text: file.name.replace(`.${ext}`, ''),
-      });
-
-      if (insertErr) throw insertErr;
-
-      setNotice(`File "${file.name}" uploaded successfully!`);
+      const done: string[] = [];
+      for (const file of files) {
+        // uploadSiteMedia validates size/type and rolls storage back on failure
+        await uploadSiteMedia(supabase, file);
+        done.push(file.name);
+      }
+      setNotice(`Uploaded ${done.length} file${done.length === 1 ? '' : 's'}: ${done.join(', ')}`);
       await load();
-    } catch (err: unknown) {
-      setError((err as Error).message || 'Failed to upload media file.');
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Failed to upload media file.');
+      await load();
     } finally {
       setUploading(false);
       e.target.value = '';
@@ -116,99 +111,87 @@ export default function MediaLibraryPanel() {
 
   const handleAddExternalMedia = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!externalUrl.trim() || !externalName.trim()) return;
-
     if (!isSupabaseConfigured()) {
       setError(NOT_CONFIGURED);
       return;
     }
-
     setUploading(true);
     setError(null);
     setNotice(null);
-
     try {
-      const supabase = getSupabaseBrowserClient();
-      const { error: insertErr } = await supabase.from('cms_media').insert({
-        filename: externalName.trim(),
-        storage_path: null,
-        public_url: externalUrl.trim(),
-        media_type: externalType,
-        size_bytes: null,
-        alt_text: externalName.trim(),
+      const row = await registerExternalMedia(getSupabaseBrowserClient(), {
+        filename: externalName,
+        url: externalUrl,
+        mediaType: externalType,
       });
-
-      if (insertErr) throw insertErr;
-
-      setNotice(`External media "${externalName}" registered successfully!`);
+      setNotice(`Registered "${row.filename}" (external URL).`);
       setExternalUrl('');
       setExternalName('');
       await load();
-    } catch (err: unknown) {
-      setError((err as Error).message || 'Failed to register external media.');
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Failed to register external media.');
     } finally {
       setUploading(false);
     }
   };
 
   const handleDeleteMedia = async (media: CmsMediaRow) => {
-    if (!confirm(`Are you sure you want to remove "${media.filename}"?`)) return;
+    if (!window.confirm(`Remove "${media.filename}" from the library?`)) return;
     if (!isSupabaseConfigured()) {
       setError(NOT_CONFIGURED);
       return;
     }
-
+    setError(null);
     try {
-      const supabase = getSupabaseBrowserClient();
-
-      if (media.storage_path) {
-        await supabase.storage.from('site-media').remove([media.storage_path]);
-      }
-
-      await supabase.from('cms_media').delete().eq('id', media.id);
+      await deleteSiteMedia(getSupabaseBrowserClient(), media);
       setNotice(`"${media.filename}" deleted.`);
       await load();
-    } catch (deleteError) {
-      setError(deleteError instanceof Error ? deleteError.message : String(deleteError));
+    } catch (err) {
+      setError(err instanceof Error ? err.message : String(err));
     }
   };
 
-  const copyToClipboard = (url: string) => {
-    void navigator.clipboard.writeText(url);
-    alert('Public URL copied to clipboard! You can now paste it into Hero slides or settings.');
+  const copyUrl = async (url: string) => {
+    try {
+      await navigator.clipboard.writeText(url);
+      setCopied(url);
+      window.setTimeout(() => setCopied(null), 2000);
+    } catch {
+      setError('Could not access the clipboard — copy the URL manually from the field.');
+    }
   };
 
   return (
     <div className="space-y-8">
       {notice && (
-        <div className="rounded-xl border border-emerald-300 bg-emerald-50 p-4 text-sm text-emerald-800">
-          {notice}
-        </div>
+        <div className="rounded-xl border border-emerald-300 bg-emerald-50 p-4 text-sm text-emerald-800">{notice}</div>
       )}
       {error && (
-        <div className="rounded-xl border border-rose-300 bg-rose-50 p-4 text-sm text-rose-800">
-          {error}
-        </div>
+        <div className="rounded-xl border border-rose-300 bg-rose-50 p-4 text-sm text-rose-800">{error}</div>
       )}
 
-      {/* Upload and External Link Actions */}
       <div className="grid gap-6 md:grid-cols-2">
         {/* Upload directly */}
         <div className="rounded-2xl border border-gray-100 bg-white p-6 shadow-sm">
-          <h2 className="text-base font-bold text-gray-900">Upload to Storage (Images & Thumbs)</h2>
+          <h2 className="text-base font-bold text-gray-900">Upload images &amp; videos</h2>
           <p className="mt-1 text-xs text-gray-500">
-            Files stored in the public <code className="font-mono">site-media</code> bucket (max 5 MB).
+            Stored in the public <code className="font-mono">site-media</code> bucket. Multiple files allowed.
           </p>
           <label className="mt-4 flex cursor-pointer flex-col items-center justify-center rounded-xl border-2 border-dashed border-gray-200 p-6 transition hover:border-[#7B0242]">
             <span className="text-xs font-bold text-[#7B0242]">
-              {uploading ? 'Uploading...' : '+ Select image or video file'}
+              {uploading ? 'Uploading…' : '+ Select image or video files'}
             </span>
-            <span className="mt-1 text-[11px] text-gray-400">WebP, PNG, JPG up to 5 MB</span>
+            <span className="mt-1 text-center text-[11px] text-gray-400">
+              WebP · JPG · PNG · GIF · AVIF — and MP4 · WebM · MOV
+              <br />
+              up to 40 MB each (larger videos → use an external URL)
+            </span>
             <input
               type="file"
-              onChange={handleFileUpload}
+              multiple
+              onChange={handleFiles}
               disabled={uploading}
-              accept="image/*,video/mp4"
+              accept={ALL_MEDIA_ACCEPT}
               className="hidden"
             />
           </label>
@@ -216,36 +199,31 @@ export default function MediaLibraryPanel() {
 
         {/* Add external CDN URL */}
         <div className="rounded-2xl border border-gray-100 bg-white p-6 shadow-sm">
-          <h2 className="text-base font-bold text-gray-900">Add External Media (CDN / Video)</h2>
+          <h2 className="text-base font-bold text-gray-900">Add external media (CDN / video)</h2>
           <p className="mt-1 text-xs text-gray-500">
-            Recommended for heavy videos (Cloudinary, Vimeo, YouTube) to avoid Supabase 5 GB bandwidth limits.
+            Recommended for heavy videos (Cloudinary, Vimeo, your own CDN) to avoid Supabase bandwidth limits.
           </p>
-
           <form onSubmit={handleAddExternalMedia} className="mt-4 space-y-3">
-            <div>
-              <input
-                type="text"
-                placeholder="Asset Label (e.g. Goa Destination Video)"
-                value={externalName}
-                onChange={(e) => setExternalName(e.target.value)}
-                className="w-full rounded-lg border border-gray-200 px-3 py-1.5 text-xs focus:border-[#7B0242] focus:outline-none"
-                required
-              />
-            </div>
-            <div>
-              <input
-                type="url"
-                placeholder="External CDN / Video URL (https://...)"
-                value={externalUrl}
-                onChange={(e) => setExternalUrl(e.target.value)}
-                className="w-full rounded-lg border border-gray-200 px-3 py-1.5 text-xs focus:border-[#7B0242] focus:outline-none"
-                required
-              />
-            </div>
+            <input
+              type="text"
+              placeholder="Asset label (e.g. Goa Destination Video)"
+              value={externalName}
+              onChange={(e) => setExternalName(e.target.value)}
+              className="w-full rounded-lg border border-gray-200 px-3 py-1.5 text-xs focus:border-[#7B0242] focus:outline-none"
+              required
+            />
+            <input
+              type="text"
+              placeholder="https://…mp4 or /gcpimages/…webp"
+              value={externalUrl}
+              onChange={(e) => setExternalUrl(e.target.value)}
+              className="w-full rounded-lg border border-gray-200 px-3 py-1.5 text-xs focus:border-[#7B0242] focus:outline-none"
+              required
+            />
             <div className="flex items-center justify-between">
               <select
                 value={externalType}
-                onChange={(e) => setExternalType(e.target.value as 'image' | 'video')}
+                onChange={(e) => setExternalType(e.target.value as MediaKind)}
                 className="rounded-lg border border-gray-200 px-2 py-1 text-xs focus:border-[#7B0242] focus:outline-none"
               >
                 <option value="video">Type: Video</option>
@@ -265,28 +243,54 @@ export default function MediaLibraryPanel() {
 
       {/* Media Grid */}
       <div className="rounded-2xl border border-gray-100 bg-white p-6 shadow-sm">
-        <h2 className="text-base font-bold text-gray-900">Media Library ({mediaList.length})</h2>
+        <div className="flex flex-wrap items-center justify-between gap-2">
+          <h2 className="text-base font-bold text-gray-900">Media Library ({mediaList.length})</h2>
+          <div className="flex gap-1">
+            {(['all', 'image', 'video'] as const).map((f) => (
+              <button
+                key={f}
+                type="button"
+                onClick={() => setFilter(f)}
+                className={`rounded-lg px-2.5 py-1 text-[10px] font-bold uppercase transition ${
+                  filter === f ? 'bg-[#7B0242] text-white' : 'bg-gray-100 text-gray-500 hover:bg-gray-200'
+                }`}
+              >
+                {f} ({counts[f]})
+              </button>
+            ))}
+          </div>
+        </div>
+        <p className="mt-1 text-[11px] text-gray-400">
+          Tip: every media field in the CMS (hero slides, logo, OG image) has its own
+          <strong> Choose / Upload</strong> button, so you rarely need to copy URLs by hand.
+        </p>
 
         {loading ? (
-          <div className="py-10 text-center text-xs text-gray-400">Loading media library...</div>
-        ) : mediaList.length === 0 ? (
+          <div className="py-10 text-center text-xs text-gray-400">Loading media library…</div>
+        ) : visible.length === 0 ? (
           <div className="py-10 text-center text-xs text-gray-400">
-            No media uploaded yet. Use the upload or external link box above.
+            {mediaList.length === 0
+              ? 'No media uploaded yet. Use the upload or external link box above.'
+              : `No ${filter} assets in the library.`}
           </div>
         ) : (
           <div className="mt-4 grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-            {mediaList.map((item) => (
+            {visible.map((item) => (
               <div
                 key={item.id}
-                className="overflow-hidden rounded-xl border border-gray-100 bg-gray-50 flex flex-col justify-between"
+                className="flex flex-col justify-between overflow-hidden rounded-xl border border-gray-100 bg-gray-50"
               >
-                <div className="relative aspect-video bg-gray-200 overflow-hidden flex items-center justify-center">
+                <div className="relative flex aspect-video items-center justify-center overflow-hidden bg-gray-200">
                   {item.media_type === 'video' ? (
-                    <div className="flex flex-col items-center justify-center text-gray-500">
-                      <span className="text-2xl">🎬</span>
-                      <span className="text-[10px] mt-1 font-semibold uppercase">Video Asset</span>
-                    </div>
+                    <video
+                      src={item.public_url}
+                      className="h-full w-full object-cover"
+                      muted
+                      playsInline
+                      preload="metadata"
+                    />
                   ) : (
+                    // eslint-disable-next-line @next/next/no-img-element
                     <img
                       src={item.public_url}
                       alt={item.alt_text ?? item.filename}
@@ -296,7 +300,7 @@ export default function MediaLibraryPanel() {
                       }}
                     />
                   )}
-                  <span className="absolute top-2 right-2 rounded bg-black/60 px-1.5 py-0.5 text-[9px] font-bold text-white uppercase">
+                  <span className="absolute right-2 top-2 rounded bg-black/60 px-1.5 py-0.5 text-[9px] font-bold uppercase text-white">
                     {item.media_type}
                   </span>
                 </div>
@@ -306,22 +310,23 @@ export default function MediaLibraryPanel() {
                     {item.filename}
                   </div>
                   <div className="mt-1 flex items-center justify-between text-[10px] text-gray-400">
-                    <span>{item.size_bytes ? `${Math.round(item.size_bytes / 1024)} KB` : 'External CDN'}</span>
+                    <span>{humanSize(item.size_bytes)}</span>
                     <span>{new Date(item.created_at).toLocaleDateString()}</span>
                   </div>
 
                   <div className="mt-3 flex items-center gap-1.5">
                     <button
                       type="button"
-                      onClick={() => copyToClipboard(item.public_url)}
-                      className="flex-1 rounded-lg bg-white border border-gray-200 py-1 text-[11px] font-semibold text-gray-700 hover:bg-gray-50 transition"
+                      onClick={() => void copyUrl(item.public_url)}
+                      className="flex-1 rounded-lg border border-gray-200 bg-white py-1 text-[11px] font-semibold text-gray-700 transition hover:bg-gray-50"
                     >
-                      Copy URL
+                      {copied === item.public_url ? '✓ Copied' : 'Copy URL'}
                     </button>
                     <button
                       type="button"
-                      onClick={() => handleDeleteMedia(item)}
-                      className="rounded-lg border border-rose-200 bg-rose-50 px-2 py-1 text-[11px] font-bold text-rose-600 hover:bg-rose-100 transition"
+                      onClick={() => void handleDeleteMedia(item)}
+                      className="rounded-lg border border-rose-200 bg-rose-50 px-2 py-1 text-[11px] font-bold text-rose-600 transition hover:bg-rose-100"
+                      aria-label={`Delete ${item.filename}`}
                     >
                       ✕
                     </button>
