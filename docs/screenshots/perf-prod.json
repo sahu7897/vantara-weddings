@@ -1,0 +1,40 @@
+[
+  {
+    "path": "/",
+    "requests": 255,
+    "total": 2617838,
+    "by": {
+      "document/other": 198580,
+      "image": 1142776,
+      "font": 507805,
+      "css": 42857,
+      "script": 549858,
+      "video": 175962
+    },
+    "nav": {
+      "dcl": 141,
+      "load": 285,
+      "ttfb": 7
+    },
+    "wall": 7525
+  },
+  {
+    "path": "/wedding-venues",
+    "requests": 35,
+    "total": 735856,
+    "by": {
+      "document/other": 10031,
+      "font": 164135,
+      "css": 18917,
+      "image": 166340,
+      "script": 376433,
+      "inline": 0
+    },
+    "nav": {
+      "dcl": 63,
+      "load": 74,
+      "ttfb": 16
+    },
+    "wall": 7547
+  }
+]

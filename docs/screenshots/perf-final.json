@@ -1,0 +1,1494 @@
+[
+  {
+    "path": "/",
+    "requests": 255,
+    "total": 2467322,
+    "by": {
+      "document/other": 198788,
+      "image": 991803,
+      "css": 42926,
+      "font": 507840,
+      "script": 550003,
+      "video": 175962
+    },
+    "nav": {
+      "dcl": 71,
+      "load": 278,
+      "ttfb": 8
+    },
+    "wall": 7534,
+    "rows": [
+      {
+        "url": "http://localhost:3100/",
+        "type": "document/other",
+        "bytes": 49981
+      },
+      {
+        "url": "http://localhost:3100/brand/vantara-logo.webp",
+        "type": "image",
+        "bytes": 12740
+      },
+      {
+        "url": "http://localhost:3100/flowerbg.webp",
+        "type": "image",
+        "bytes": 48782
+      },
+      {
+        "url": "http://localhost:3100/_next/static/css/dc052d6044423f1d.css",
+        "type": "css",
+        "bytes": 18917
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+        "type": "font",
+        "bytes": 14280
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/7ff6869a1704182a-s.p.woff2",
+        "type": "font",
+        "bytes": 14024
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/6d664cce900333ee-s.p.woff2",
+        "type": "font",
+        "bytes": 14468
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/155cae559bbd1a77-s.p.woff2",
+        "type": "font",
+        "bytes": 14212
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+        "type": "font",
+        "bytes": 38760
+      },
+      {
+        "url": "http://localhost:3100/gcpimages/weddings/d0e26332-36c0-4d65-b839-b18d17c0494e/admin_uploads/d2bfa004-e6c1-41e5-830e-16ce72835de5_thumbnail.jpg",
+        "type": "image",
+        "bytes": 76393
+      },
+      {
+        "url": "http://localhost:3100/gcpimages/weddings/574a86ee-cc45-4a2c-bfb1-d23ef44b7ec2/admin_uploads/8a77d481-66fd-443a-a8f5-e9833d9bb536.webp",
+        "type": "image",
+        "bytes": 60552
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+        "type": "font",
+        "bytes": 27572
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/4c285fdca692ea22-s.p.woff2",
+        "type": "font",
+        "bytes": 8143
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/0484562807a97172-s.p.woff2",
+        "type": "font",
+        "bytes": 8291
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+        "type": "font",
+        "bytes": 8039
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/eafabf029ad39a43-s.p.woff2",
+        "type": "font",
+        "bytes": 8199
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+        "type": "font",
+        "bytes": 8147
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/webpack-a5a1681c77c4b1f8.js",
+        "type": "script",
+        "bytes": 2248
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/pages/_app-5a73f079d0f4ac5a.js",
+        "type": "script",
+        "bytes": 14868
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/main-1263f9233414954e.js",
+        "type": "script",
+        "bytes": 35962
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/8230-290ec8bd26c09398.js",
+        "type": "script",
+        "bytes": 2716
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/dc553f02-12db3e348e0fe555.js",
+        "type": "script",
+        "bytes": 14695
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/framework-67e87833b9140bb8.js",
+        "type": "script",
+        "bytes": 69329
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/4591-ce2b57eda4167b8b.js",
+        "type": "script",
+        "bytes": 5718
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/5383-f38c44c24490ef5d.js",
+        "type": "script",
+        "bytes": 9534
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/1112-ac4c0486c7ae6cac.js",
+        "type": "script",
+        "bytes": 43584
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/7783-a906becb76a3adba.js",
+        "type": "script",
+        "bytes": 6223
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/4280-3daf1617e38e8226.js",
+        "type": "script",
+        "bytes": 50486
+      },
+      {
+        "url": "http://localhost:3100/media/weddingStep1.a532ad30.webp",
+        "type": "image",
+        "bytes": 64652
+      },
+      {
+        "url": "http://localhost:3100/_next/static/sgFOsUGIdAeSELZVMfdQ4/_buildManifest.js",
+        "type": "script",
+        "bytes": 1773
+      },
+      {
+        "url": "http://localhost:3100/_next/static/sgFOsUGIdAeSELZVMfdQ4/_ssgManifest.js",
+        "type": "script",
+        "bytes": 653
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/pages/index-455b7cf8c368a32d.js",
+        "type": "script",
+        "bytes": 51789
+      },
+      {
+        "url": "http://localhost:3100/brand/inline/SectionHowItWorks-inline-1.webp",
+        "type": "image",
+        "bytes": 2510
+      },
+      {
+        "url": "http://localhost:3100/media/weddingStep3.e7bf9f67.webp",
+        "type": "image",
+        "bytes": 58624
+      },
+      {
+        "url": "http://localhost:3100/media/weddingStep2.9d688910.webp",
+        "type": "image",
+        "bytes": 68431
+      },
+      {
+        "url": "http://localhost:3100/brand/inline/SectionVenuesBlock-inline-1.webp",
+        "type": "image",
+        "bytes": 65782
+      },
+      {
+        "url": "http://localhost:3100/gcpimages/weddings/assets/goa-new-ph.mp4",
+        "type": "video",
+        "bytes": 0
+      },
+      {
+        "url": "http://localhost:3100/gcpimages/weddings/assets/goa-new-ph.mp4",
+        "type": "video",
+        "bytes": 0
+      },
+      {
+        "url": "http://localhost:3100/gcpimages/weddings/assets/amitarasaVenue.mp4",
+        "type": "video",
+        "bytes": 0
+      },
+      {
+        "url": "http://localhost:3100/media/GoldenBorder.18b3e3aa.svg",
+        "type": "image",
+        "bytes": 1092
+      },
+      {
+        "url": "http://localhost:3100/media/dc7a94c820ec8cf3-s.p.woff",
+        "type": "font",
+        "bytes": 73834
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/39969fcf98a3026e-s.woff2",
+        "type": "font",
+        "bytes": 3326
+      },
+      {
+        "url": "http://localhost:3100/sparkle.svg",
+        "type": "image",
+        "bytes": 3950
+      },
+      {
+        "url": "http://localhost:3100/arrows_more_down.svg",
+        "type": "image",
+        "bytes": 995
+      },
+      {
+        "url": "http://localhost:3100/media/flower-pattern.420d88dc.webp",
+        "type": "image",
+        "bytes": 176108
+      },
+      {
+        "url": "http://localhost:3100/gcpimages/weddings/assets/goa-new-ph.mp4",
+        "type": "video",
+        "bytes": 61884
+      },
+      {
+        "url": "http://localhost:3100/gcpimages/weddings/assets/amitarasaVenue.mp4",
+        "type": "video",
+        "bytes": 52194
+      },
+      {
+        "url": "http://localhost:3100/gcpimages/weddings/assets/goa-new-ph.mp4",
+        "type": "video",
+        "bytes": 61884
+      },
+      {
+        "url": "http://localhost:3100/_next/data/sgFOsUGIdAeSELZVMfdQ4/index.json",
+        "type": "document/other",
+        "bytes": 3034
+      },
+      {
+        "url": "https://widget.tagembed.com/embed.min.js",
+        "type": "script",
+        "bytes": 1582
+      },
+      {
+        "url": "http://localhost:3100/brand/favicon-32.png",
+        "type": "image",
+        "bytes": 2596
+      },
+      {
+        "url": "https://widget.tagembed.com/embed.json",
+        "type": "document/other",
+        "bytes": 486
+      },
+      {
+        "url": "https://widget.tagembed.com/embed.json",
+        "type": "document/other",
+        "bytes": 387
+      },
+      {
+        "url": "https://widget.tagembed.com/embed.json",
+        "type": "document/other",
+        "bytes": 393
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/main.BinmUSIE.css",
+        "type": "css",
+        "bytes": 3373
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/main.BapPVTLk.js",
+        "type": "script",
+        "bytes": 281
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/app.BapPVTLk.js",
+        "type": "script",
+        "bytes": 69454
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/rolldown-runtime.B0Z9INg1.chunk.js",
+        "type": "script",
+        "bytes": 820
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/defineProperty.Dr4wKStf.chunk.js",
+        "type": "script",
+        "bytes": 764
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/api.C3v8fpJk.chunk.js",
+        "type": "script",
+        "bytes": 1453
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/react.D7oXu6s3.chunk.js",
+        "type": "script",
+        "bytes": 3250
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/jsx-runtime.DjoigV-K.chunk.js",
+        "type": "script",
+        "bytes": 622
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/store.DzyyC5jF.chunk.js",
+        "type": "script",
+        "bytes": 24014
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/App.Dw4MfgOW.chunk.js",
+        "type": "script",
+        "bytes": 6879
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/Network.7d0LnG8T.chunk.css",
+        "type": "css",
+        "bytes": 827
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/network.D2jl-3y7.chunk.js",
+        "type": "script",
+        "bytes": 2430
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/Network.-fHONGv0.chunk.js",
+        "type": "script",
+        "bytes": 912
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/profile-data.BUUin7J9.chunk.js",
+        "type": "script",
+        "bytes": 1194
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/common.BcdsM3Mg.chunk.js",
+        "type": "script",
+        "bytes": 2760
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/App.DukVHHgP.chunk.css",
+        "type": "css",
+        "bytes": 1391
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/Head.BJ5ZKr56.chunk.js",
+        "type": "script",
+        "bytes": 6125
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/prop-types.BaiFEfOV.chunk.js",
+        "type": "script",
+        "bytes": 813
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/onsite-upload-button.xpuHKcQ-.chunk.js",
+        "type": "script",
+        "bytes": 11005
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/reduced-motion.xo5EOxAR.chunk.js",
+        "type": "script",
+        "bytes": 549
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/onsite-upload-button.DhFWttDl.chunk.css",
+        "type": "css",
+        "bytes": 1889
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/themes.I6c69Jrq.chunk.js",
+        "type": "script",
+        "bytes": 6458
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/MediaIcon.B8l3zkW_.chunk.css",
+        "type": "css",
+        "bytes": 761
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/themes-swiper.DDLgACaO.chunk.css",
+        "type": "css",
+        "bytes": 1470
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/reel-theme.D8IhCl9d.chunk.css",
+        "type": "css",
+        "bytes": 2419
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/view-count.DW1iuBFV.chunk.css",
+        "type": "css",
+        "bytes": 623
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/Rating.CfZAS9vp.chunk.css",
+        "type": "css",
+        "bytes": 600
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/AiContent.B3rhqdwt.chunk.css",
+        "type": "css",
+        "bytes": 513
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/PostContent.BcT-JXL0.chunk.css",
+        "type": "css",
+        "bytes": 684
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/SocialAction.BlA0pWLN.chunk.css",
+        "type": "css",
+        "bytes": 621
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/ShareOnHover.BugbS2m4.chunk.css",
+        "type": "css",
+        "bytes": 727
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/themes-splide.HhxOKfqV.chunk.css",
+        "type": "css",
+        "bytes": 972
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/css/horizontal-columns.BxAHJtTx.chunk.css",
+        "type": "css",
+        "bytes": 2654
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/reel-theme.D6_vSVhn.chunk.js",
+        "type": "script",
+        "bytes": 5134
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/ProductImage.CS1HGE3u.chunk.js",
+        "type": "script",
+        "bytes": 887
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/Video.BVs1kx4t.chunk.js",
+        "type": "script",
+        "bytes": 2893
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/view-count.BnHSRSY1.chunk.js",
+        "type": "script",
+        "bytes": 484
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/Image.C3qfWSFp.chunk.js",
+        "type": "script",
+        "bytes": 2421
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/in-view-wrapper.BnhKRKQ-.chunk.js",
+        "type": "script",
+        "bytes": 1849
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/free-mode.C5RBcsT_.chunk.js",
+        "type": "script",
+        "bytes": 3180
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/with-space-autoplay-toggle.oHZvv1Pw.chunk.js",
+        "type": "script",
+        "bytes": 1732
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/autoplay.CpR4eoF0.chunk.js",
+        "type": "script",
+        "bytes": 634
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/autoplay.CT2BpPXr.chunk.js",
+        "type": "script",
+        "bytes": 1949
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/VerifiedBadge.CBK0GPsj.chunk.js",
+        "type": "script",
+        "bytes": 1230
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/lazy-tooltip.D1p8y-jC.chunk.js",
+        "type": "script",
+        "bytes": 762
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/MediaIcon.DTjKqkKm.chunk.js",
+        "type": "script",
+        "bytes": 1110
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/lazy.BuiLhDJ0.chunk.js",
+        "type": "script",
+        "bytes": 776
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/CtaButton.CCYhZFDP.chunk.js",
+        "type": "script",
+        "bytes": 817
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/dist.BsjvRs-l.chunk.js",
+        "type": "script",
+        "bytes": 2986
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/PostContent.BrO9tokH.chunk.js",
+        "type": "script",
+        "bytes": 1363
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/PostContentHighlight.wTaPsn5V.chunk.js",
+        "type": "script",
+        "bytes": 1835
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/ShareOnHover.BmK9L5Rs.chunk.js",
+        "type": "script",
+        "bytes": 789
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/media-renew-actions.q3vQ9cuY.chunk.js",
+        "type": "script",
+        "bytes": 1293
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/AiContent.BKDNcCpF.chunk.js",
+        "type": "script",
+        "bytes": 661
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/SocialAction.BMjKn0iQ.chunk.js",
+        "type": "script",
+        "bytes": 1279
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/horizontal-columns.C4EVFqdA.chunk.js",
+        "type": "script",
+        "bytes": 5899
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/Author.CjYGbUI0.chunk.js",
+        "type": "script",
+        "bytes": 976
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/sanitize-html.Km13oeIl.chunk.js",
+        "type": "script",
+        "bytes": 11962
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/swiper-react.BGBe7mU8.chunk.js",
+        "type": "script",
+        "bytes": 25458
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/StopClick.CslPq3yt.chunk.js",
+        "type": "script",
+        "bytes": 464
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/Time.BGvf-8j2.chunk.js",
+        "type": "script",
+        "bytes": 670
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/Separator.DBdfYXkG.chunk.js",
+        "type": "script",
+        "bytes": 496
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/Rating.DroZ6EVY.chunk.js",
+        "type": "script",
+        "bytes": 1071
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/react-splide.esm.BpNhQppL.chunk.js",
+        "type": "script",
+        "bytes": 15034
+      },
+      {
+        "url": "https://api.tagembed.com/embed/theme",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://api.tagembed.com/embed/theme",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://api.tagembed.com/embed/theme",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/Rochester.css",
+        "type": "css",
+        "bytes": 1138
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/Nunito+Sans.css",
+        "type": "css",
+        "bytes": 1653
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/Open+Sans.css",
+        "type": "css",
+        "bytes": 1694
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/fonts-icon/WebSocialFonts.woff?var=7",
+        "type": "font",
+        "bytes": 24847
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/fonts/opensans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+        "type": "font",
+        "bytes": 40284
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/fonts/opensans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+        "type": "font",
+        "bytes": 40281
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/fonts/opensans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+        "type": "font",
+        "bytes": 40289
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/fonts/opensans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+        "type": "font",
+        "bytes": 40282
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/fonts/opensans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+        "type": "font",
+        "bytes": 40283
+      },
+      {
+        "url": "https://cloud.tagbox.com/app/theme/web-fonts/fonts/opensans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+        "type": "font",
+        "bytes": 40279
+      },
+      {
+        "url": "https://api.tagembed.com/embed/theme",
+        "type": "document/other",
+        "bytes": 2071
+      },
+      {
+        "url": "https://api.tagembed.com/embed/theme",
+        "type": "document/other",
+        "bytes": 2093
+      },
+      {
+        "url": "https://api.tagembed.com/embed/theme",
+        "type": "document/other",
+        "bytes": 2408
+      },
+      {
+        "url": "https://cdn1.taggbox.com/unsafe/400x0/https%3A%2F%2Fcloud.tagbox.com%2Fmedia%2F1783201%2F2202829%2F3929565740442907978%2F2202829-3929565740442907978-1782907106.jpg",
+        "type": "image",
+        "bytes": 27323
+      },
+      {
+        "url": "https://cdn1.taggbox.com/unsafe/400x0/https%3A%2F%2Fcloud.tagbox.com%2Fmedia%2F1783201%2F2202829%2F3907780555441997505%2F2202829-3907780555441997505-1780380719.jpg",
+        "type": "image",
+        "bytes": 67524
+      },
+      {
+        "url": "https://cdn1.taggbox.com/unsafe/400x0/https%3A%2F%2Fcloud.tagbox.com%2Fmedia%2F1783201%2F2202829%2F3904678817408870537%2F2202829-3904678817408870537-1780380597.jpg",
+        "type": "image",
+        "bytes": 44217
+      },
+      {
+        "url": "https://cdn1.taggbox.com/unsafe/400x0/https%3A%2F%2Fcloud.tagbox.com%2Fmedia%2F1783201%2F2202829%2F3896166843779702395%2F2202829-3896166843779702395-1780380438.jpg",
+        "type": "image",
+        "bytes": 80324
+      },
+      {
+        "url": "https://cdn1.taggbox.com/unsafe/400x0/https%3A%2F%2Fcloud.tagbox.com%2Fmedia%2F1783201%2F2202829%2F3889671751174736141%2F2202829-3889671751174736141-1777961625.jpg",
+        "type": "image",
+        "bytes": 60527
+      },
+      {
+        "url": "https://cdn1.taggbox.com/unsafe/400x0/https%3A%2F%2Fcloud.tagbox.com%2Fmedia%2F1783201%2F2202829%2F3893124071724399211%2F2202829-3893124071724399211-1780380385.jpg",
+        "type": "image",
+        "bytes": 68681
+      },
+      {
+        "url": "https://widget.tagembed.com/widget/static/js/DefaultNetwork.BVR1t_TY.chunk.js",
+        "type": "script",
+        "bytes": 966
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=KhushbooSharma&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 1026
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=RAKESHKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 645
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=MANJESHPAL&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 640
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=BhisamduttSharma&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 642
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=RameshChawla&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 644
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AditiRoy&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 696
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=HemlataBachloo&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 645
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=ArunodayDas&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 702
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=VishalVenkatesh&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 964
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AnilShah&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 656
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=MaryPaul&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 701
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=deveshsinghgahlot&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 647
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=DipuKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 644
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AshishNamdeo&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 643
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=Sirsakkc&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 646
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AnmolMotsara&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 646
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=Sweta&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 639
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=HarshaSharma&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 957
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=HarshKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 641
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=pujitak&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 697
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=aparnaghosh&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 698
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=ShantanuSharma&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 645
+      },
+      {
+        "url": "https://api.tagembed.com/embed/posts",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://api.tagembed.com/embed/posts",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=PralhadMujumdar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 648
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=ManasKumarSamal&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 648
+      },
+      {
+        "url": "https://api.tagembed.com/embed/reviewhub",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://api.tagembed.com/embed/reviewhub",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://api.tagembed.com/embed/posts",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://api.tagembed.com/embed/reviewhub",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SauravKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 642
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=RakeshChoudhary&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 964
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=ChandanKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 647
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SunandaSriram&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 645
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=TanviBhattacharjee&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 649
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SheetalPraharaj&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 698
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=NaveenGupta&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 701
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=JAYARAJANOTHAYOTH&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 646
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=RiyaDas&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 648
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AbhijitKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 956
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=alkeshsharma&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 640
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=ShreytiKaul&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 645
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=HarishShah&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 642
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=VCTyagi&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 693
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=Leo&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 646
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=EkthaKarkera&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 646
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=RanjanKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 645
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=PrachiTiwary&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 642
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SanchitaRaj&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 962
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SparshBajaj&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 645
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SaiTejaE&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 646
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=sakshishah&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 645
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=dineshgoyal&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 700
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=rushabhdoshi&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 645
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=LikithJ&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 646
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=PravashChandrajena&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 650
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=MonalishaMishra&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 644
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=DeepakSharma&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 957
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AlbertAlbee&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 639
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=S.MRastogi&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 643
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=smitamusaddy&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 647
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=ajeetmasih&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 693
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=HeraRahman&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 646
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=NandaniKumari&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 646
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=DramaQueen&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 649
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AnnieAnandita(Ann)&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 693
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=PriscilaJori&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 956
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=GauravKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 641
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=Anika&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 642
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=GautamSinghi&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 648
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=diweshpandey&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 698
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AkiraRanjan&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 648
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=PruthulaVShastry&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 643
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=DevanandSah&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 641
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=ANEESFEROZ&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 695
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=yeshodhajagannathi&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 965
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=MandiraMukherjee&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 700
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=MohammedAbdulQadar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 648
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SaloniKumari&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 692
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AvantikaSingh&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 642
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=KOUSER&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 649
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AneesFatima&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 644
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=RakeshRadhakrishnan&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 652
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=JSSuvadra&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 960
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SureshBV&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 698
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=GreeshmaM&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 643
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=FOUZANKHAN&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 696
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=KrishnaMohan&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 651
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=PriyankaMukherjee&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 639
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=YashGupta&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 652
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SahilKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 651
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=PrinceChoudhary&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 964
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=SharanKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 643
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=NeeruSharma&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 649
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=MINERABBIT&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 643
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=juhimehta&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 700
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=KeshavKumar&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 702
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=RajshreeJain&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 696
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=RohitVerma&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 644
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=DavidPandat&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 960
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=ChetanRao&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 648
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=GoluKuanr&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 655
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=DrAnubandhRai&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 678
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=RachitRastogi&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 651
+      },
+      {
+        "url": "https://ui-avatars.com/api/?name=AbhiramAlva&background=000&color=fff&length=1",
+        "type": "document/other",
+        "bytes": 694
+      },
+      {
+        "url": "https://api.tagembed.com/embed/posts",
+        "type": "document/other",
+        "bytes": 15056
+      },
+      {
+        "url": "https://api.tagembed.com/embed/reviewhub",
+        "type": "document/other",
+        "bytes": 640
+      },
+      {
+        "url": "https://api.tagembed.com/embed/reviewhub",
+        "type": "document/other",
+        "bytes": 605
+      },
+      {
+        "url": "https://api.tagembed.com/embed/posts",
+        "type": "document/other",
+        "bytes": 14481
+      },
+      {
+        "url": "https://api.tagembed.com/embed/reviewhub",
+        "type": "document/other",
+        "bytes": 606
+      },
+      {
+        "url": "https://api.tagembed.com/embed/posts",
+        "type": "document/other",
+        "bytes": 37675
+      },
+      {
+        "url": "https://api.tagembed.com/embed/log-uri",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://api.tagembed.com/embed/log-uri",
+        "type": "document/other",
+        "bytes": 0
+      },
+      {
+        "url": "https://api.tagembed.com/embed/log-uri",
+        "type": "document/other",
+        "bytes": 0
+      }
+    ]
+  },
+  {
+    "path": "/wedding-venues",
+    "requests": 35,
+    "total": 584951,
+    "by": {
+      "document/other": 10037,
+      "font": 164135,
+      "css": 18917,
+      "image": 15336,
+      "script": 376526,
+      "inline": 0
+    },
+    "nav": {
+      "dcl": 98,
+      "load": 99,
+      "ttfb": 21
+    },
+    "wall": 7531,
+    "rows": [
+      {
+        "url": "http://localhost:3100/wedding-venues",
+        "type": "document/other",
+        "bytes": 7003
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/4de1fea1a954a5b6-s.p.woff2",
+        "type": "font",
+        "bytes": 14280
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/155cae559bbd1a77-s.p.woff2",
+        "type": "font",
+        "bytes": 14212
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/6d664cce900333ee-s.p.woff2",
+        "type": "font",
+        "bytes": 14468
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/7ff6869a1704182a-s.p.woff2",
+        "type": "font",
+        "bytes": 14024
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/eaead17c7dbfcd5d-s.p.woff2",
+        "type": "font",
+        "bytes": 38760
+      },
+      {
+        "url": "http://localhost:3100/_next/static/css/dc052d6044423f1d.css",
+        "type": "css",
+        "bytes": 18917
+      },
+      {
+        "url": "http://localhost:3100/brand/vantara-logo.webp",
+        "type": "image",
+        "bytes": 12740
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/636a5ac981f94f8b-s.p.woff2",
+        "type": "font",
+        "bytes": 27572
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/4c285fdca692ea22-s.p.woff2",
+        "type": "font",
+        "bytes": 8143
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+        "type": "font",
+        "bytes": 8039
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/0484562807a97172-s.p.woff2",
+        "type": "font",
+        "bytes": 8291
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/eafabf029ad39a43-s.p.woff2",
+        "type": "font",
+        "bytes": 8199
+      },
+      {
+        "url": "http://localhost:3100/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+        "type": "font",
+        "bytes": 8147
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/webpack-a5a1681c77c4b1f8.js",
+        "type": "script",
+        "bytes": 2248
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/8230-290ec8bd26c09398.js",
+        "type": "script",
+        "bytes": 2716
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/pages/_app-5a73f079d0f4ac5a.js",
+        "type": "script",
+        "bytes": 14868
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/dc553f02-12db3e348e0fe555.js",
+        "type": "script",
+        "bytes": 14695
+      },
+      {
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJXaW5kb3dUZXh0IiBkPSJNMjAgM2gtMVYxaC0ydjJIN1YxSDV2Mkg0Yy0xLjEgMC0yIC45LTIgMnYxNmMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjVjMC0xLjEtLjktMi0yLTJ6bTAgMThINFY4aDE2djEzeiIvPjxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiLz48L3N2Zz4=",
+        "type": "inline",
+        "bytes": 0
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/main-1263f9233414954e.js",
+        "type": "script",
+        "bytes": 35962
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/4591-ce2b57eda4167b8b.js",
+        "type": "script",
+        "bytes": 5718
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/framework-67e87833b9140bb8.js",
+        "type": "script",
+        "bytes": 69329
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/1112-ac4c0486c7ae6cac.js",
+        "type": "script",
+        "bytes": 43584
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/7783-a906becb76a3adba.js",
+        "type": "script",
+        "bytes": 6223
+      },
+      {
+        "url": "http://localhost:3100/_next/static/sgFOsUGIdAeSELZVMfdQ4/_ssgManifest.js",
+        "type": "script",
+        "bytes": 653
+      },
+      {
+        "url": "http://localhost:3100/_next/static/sgFOsUGIdAeSELZVMfdQ4/_buildManifest.js",
+        "type": "script",
+        "bytes": 1773
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/4280-3daf1617e38e8226.js",
+        "type": "script",
+        "bytes": 50486
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/pages/wedding-venues-aa0d3e2555d2db73.js",
+        "type": "script",
+        "bytes": 2282
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/9650-0bfef438cc2a2ea0.js",
+        "type": "script",
+        "bytes": 3343
+      },
+      {
+        "url": "http://localhost:3100/brand/favicon-32.png",
+        "type": "image",
+        "bytes": 2596
+      },
+      {
+        "url": "http://localhost:3100/_next/data/sgFOsUGIdAeSELZVMfdQ4/index.json",
+        "type": "document/other",
+        "bytes": 3034
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/5383-f38c44c24490ef5d.js",
+        "type": "script",
+        "bytes": 9534
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/pages/index-455b7cf8c368a32d.js",
+        "type": "script",
+        "bytes": 51789
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/5383-f38c44c24490ef5d.js",
+        "type": "script",
+        "bytes": 9534
+      },
+      {
+        "url": "http://localhost:3100/_next/static/chunks/pages/index-455b7cf8c368a32d.js",
+        "type": "script",
+        "bytes": 51789
+      }
+    ]
+  }
+]

@@ -24,9 +24,10 @@ export const site = {
   /** Brand kit (partial — dropped in capture /logo folder, D3). */
   logo: {
     /** Official Vantara Weddings logo (client-provided PNG; green-key cleaned). */
-    transparent: '/brand/vantara-logo.png',
+    /** Optimised WebP (12 KB vs the 160 KB source PNG) — see docs/perf-report.md. */
+    transparent: '/brand/vantara-logo.webp',
     /** Same official asset until a dark-background variant is delivered. */
-    dark: '/brand/vantara-logo.png',
+    dark: '/brand/vantara-logo.webp',
     /** Monogram crop of the official logo. */
     favicon: '/brand/favicon.png',
   },

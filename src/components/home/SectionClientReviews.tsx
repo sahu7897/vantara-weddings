@@ -14,6 +14,7 @@ import { useEffect } from 'react';
 export default function SectionClientReviews() {
   useEffect(() => {
     if (document.getElementById('tagembed-script-embeded')) return;
+      if (process.env.NEXT_PUBLIC_DISABLE_TAGEMBED === '1') return; // PERF EXPERIMENT
     const s = document.createElement('script');
     s.id = 'tagembed-script-embeded';
     s.src = 'https://widget.tagembed.com/embed.min.js';

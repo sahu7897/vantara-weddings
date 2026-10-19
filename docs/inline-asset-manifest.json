@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-10-14T06:07:14.370Z",
+  "totalBlobs": 7,
+  "totalBytes": 1192320,
+  "files": [
+    {
+      "source": "components/home/SectionHowItWorks.tsx",
+      "bytes": 7180,
+      "hash": "94c32f495a",
+      "out": "public/brand/inline/SectionHowItWorks-inline-1.png",
+      "publicPath": "/brand/inline/SectionHowItWorks-inline-1.png"
+    },
+    {
+      "source": "components/home/SectionHowItWorks.tsx",
+      "bytes": 7180,
+      "out": "public/brand/inline/SectionHowItWorks-inline-1.png",
+      "publicPath": "/brand/inline/SectionHowItWorks-inline-1.png",
+      "deduped": true
+    },
+    {
+      "source": "components/home/SectionVenuesBlock.tsx",
+      "bytes": 160059,
+      "hash": "93a3353ec5",
+      "out": "public/brand/inline/SectionVenuesBlock-inline-1.png",
+      "publicPath": "/brand/inline/SectionVenuesBlock-inline-1.png"
+    },
+    {
+      "source": "components/home/SectionVenuesBlock.tsx",
+      "bytes": 160059,
+      "out": "public/brand/inline/SectionVenuesBlock-inline-1.png",
+      "publicPath": "/brand/inline/SectionVenuesBlock-inline-1.png",
+      "deduped": true
+    },
+    {
+      "source": "components/home/SectionWeddingProposals.tsx",
+      "bytes": 7180,
+      "out": "public/brand/inline/SectionHowItWorks-inline-1.png",
+      "publicPath": "/brand/inline/SectionHowItWorks-inline-1.png",
+      "deduped": true
+    },
+    {
+      "source": "components/home/SectionWeddingProposals.tsx",
+      "bytes": 7180,
+      "out": "public/brand/inline/SectionHowItWorks-inline-1.png",
+      "publicPath": "/brand/inline/SectionHowItWorks-inline-1.png",
+      "deduped": true
+    },
+    {
+      "source": "pages/wedding-services.tsx",
+      "bytes": 271372,
+      "hash": "3463d772ab",
+      "out": "public/brand/inline/wedding-services-inline-1.png",
+      "publicPath": "/brand/inline/wedding-services-inline-1.png"
+    },
+    {
+      "source": "pages/wedding-services.tsx",
+      "bytes": 271372,
+      "out": "public/brand/inline/wedding-services-inline-1.png",
+      "publicPath": "/brand/inline/wedding-services-inline-1.png",
+      "deduped": true
+    },
+    {
+      "source": "pages/wedding-services.tsx",
+      "bytes": 56217,
+      "hash": "f0c1d36d3d",
+      "out": "public/brand/inline/wedding-services-inline-2.png",
+      "publicPath": "/brand/inline/wedding-services-inline-2.png"
+    },
+    {
+      "source": "pages/wedding-services.tsx",
+      "bytes": 164742,
+      "hash": "ec93f1ed0b",
+      "out": "public/brand/inline/wedding-services-inline-3.png",
+      "publicPath": "/brand/inline/wedding-services-inline-3.png"
+    },
+    {
+      "source": "pages/wedding-services.tsx",
+      "bytes": 249170,
+      "hash": "dbeb353ed6",
+      "out": "public/brand/inline/wedding-services-inline-4.png",
+      "publicPath": "/brand/inline/wedding-services-inline-4.png"
+    },
+    {
+      "source": "pages/wedding-services.tsx",
+      "bytes": 249170,
+      "out": "public/brand/inline/wedding-services-inline-4.png",
+      "publicPath": "/brand/inline/wedding-services-inline-4.png",
+      "deduped": true
+    },
+    {
+      "source": "pages/wedding-services.tsx",
+      "bytes": 283580,
+      "hash": "8238b52f7b",
+      "out": "public/brand/inline/wedding-services-inline-5.png",
+      "publicPath": "/brand/inline/wedding-services-inline-5.png"
+    },
+    {
+      "source": "pages/wedding-services.tsx",
+      "bytes": 283580,
+      "out": "public/brand/inline/wedding-services-inline-5.png",
+      "publicPath": "/brand/inline/wedding-services-inline-5.png",
+      "deduped": true
+    }
+  ]
+}

@@ -25,6 +25,27 @@ import type {
 
 let cachedClient: SupabaseClient | null | undefined;
 
+/**
+ * Short-lived memo for the `site_settings` read.
+ *
+ * WHY: `_app.getInitialProps` loads these on EVERY page render so the header,
+ * footer and WhatsApp CTAs reflect admin edits. Without a cache that is a
+ * Supabase round-trip on every single request — including every client-side
+ * route transition — which is a large part of why pages felt slow. The data is
+ * tiny (4 rows) and changes only when an admin saves, so a 30s TTL makes the
+ * fetch effectively free while still showing edits almost immediately.
+ *
+ * The promise itself is cached, so concurrent requests share one round-trip
+ * instead of stampeding the database.
+ */
+const SITE_SETTINGS_TTL_MS = 30_000;
+let siteSettingsCache: { at: number; value: Promise<SiteSettings> } | null = null;
+
+/** Force the next read to hit the database (used after an admin save). */
+export function invalidateSiteSettingsCache(): void {
+  siteSettingsCache = null;
+}
+
 function getClient(): SupabaseClient | null {
   if (cachedClient !== undefined) return cachedClient;
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
@@ -178,6 +199,16 @@ export const DEFAULT_VENDOR_CTA_CONTENT: VendorCtaSectionContent = {
  * (the admin CMS panels and `_app.getInitialProps`) share one code path.
  */
 export async function fetchSiteSettings(): Promise<SiteSettings> {
+  const now = Date.now();
+  if (siteSettingsCache && now - siteSettingsCache.at < SITE_SETTINGS_TTL_MS) {
+    return siteSettingsCache.value;
+  }
+  const value = loadSiteSettingsFromDb();
+  siteSettingsCache = { at: now, value };
+  return value;
+}
+
+async function loadSiteSettingsFromDb(): Promise<SiteSettings> {
   const supabase = getClient();
   if (!supabase) return FALLBACK_SITE_SETTINGS;
 
