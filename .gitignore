@@ -41,3 +41,11 @@ next-env.d.ts
 # public/__l5e is a captured build artefact (not referenced by any page), so it
 # stays untracked to avoid ~2 MB of dead weight.
 /public/__l5e/
+
+# ── Local media scratch (never commit) ──────────────────────────────────────
+# .media-backup/ holds the ORIGINAL pre-re-encode hero videos (48 MB) so an
+# encode can always be reverted locally; .tmp-encode/ holds in-progress FFmpeg
+# output. Neither belongs in git — the optimised files replace the originals in
+# public/ and are committed in place.
+/.media-backup/
+/.tmp-encode/

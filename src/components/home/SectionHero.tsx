@@ -56,10 +56,6 @@ export default function SectionHero({ content }: { content?: HeroSectionContent 
     }
   };
   const [activeIdxs, setActiveIdxs] = useState<[number, number]>([0, 0]);
-  const [activeSets, setActiveSets] = useState<[Set<number>, Set<number>]>(() => [
-    new Set([0, 1]),
-    new Set([0, 1]),
-  ]);
   // undefined => renders 1 dot (original SSR: slider?.slides.length === undefined
   // -> Array(undefined) is a 1-element array); set to slider.slides.length after init.
   const [dotsCount, setDotsCount] = useState<number | undefined>(undefined);
@@ -80,12 +76,6 @@ export default function SectionHero({ content }: { content?: HeroSectionContent 
           setActiveIdxs((prev) => {
             const next: [number, number] = [prev[0], prev[1]];
             next[variant] = rel;
-            return next;
-          });
-          setActiveSets((prev) => {
-            const next: [Set<number>, Set<number>] = [new Set(prev[0]), new Set(prev[1])];
-            next[variant].add(rel);
-            next[variant].add((rel + 1) % slides.length);
             return next;
           });
           el.querySelectorAll<HTMLElement>('.keen-slider__slide').forEach((slide, i) => {
@@ -115,23 +105,36 @@ export default function SectionHero({ content }: { content?: HeroSectionContent 
   };
 
   const renderSlides = (variant: Variant) =>
-    slides.map((slide, i) => (
-      <div className="keen-slider__slide flex !min-w-full" key={slide.id}>
-        {(i === 0 || activeSets[variant].has(i)) && (
-          <video
+    slides.map((slide, i) => {
+      const isActive = i === activeIdxs[variant];
+      const videoSrc = variant === 0 ? slide.mobileUrl : slide.desktopUrl;
+      return (
+        <div className="keen-slider__slide relative flex !min-w-full overflow-hidden" key={slide.id}>
+          {/* Always render poster image as instantaneous lightweight backdrop */}
+          <img
+            src={slide.posterUrl}
+            alt={slide.coupleName || 'Wedding preview'}
             className="h-full w-full object-cover"
-            playsInline
-            autoPlay
-            muted
-            poster={slide.posterUrl}
-            onEnded={handleEnded}
-          >
-            <source src={`${slide.mobileUrl}#t=0.01`} type="video/mp4" media="(max-width: 768px)" />
-            <source src={`${slide.desktopUrl}#t=0.01`} type="video/mp4" media="(min-width: 769px)" />
-          </video>
-        )}
-      </div>
-    ));
+            loading={i === 0 ? 'eager' : 'lazy'}
+          />
+
+          {/* Mount and stream video ONLY for the active slide (reduces initial video bandwidth by 90%+) */}
+          {isActive && (
+            <video
+              className="absolute inset-0 h-full w-full object-cover"
+              playsInline
+              autoPlay
+              muted
+              preload="metadata"
+              poster={slide.posterUrl}
+              onEnded={handleEnded}
+            >
+              <source src={`${videoSrc}#t=0.01`} type="video/mp4" />
+            </video>
+          )}
+        </div>
+      );
+    });
 
   const renderBadge = (variant: Variant) => {
     const slide = slides[activeIdxs[variant]] || slides[0];

@@ -7,6 +7,21 @@ import type { GetServerSideProps, GetServerSidePropsResult } from 'next';
 import { createGsspSupabase, isSupabaseConfiguredServer } from '@/lib/supabase/server';
 import { DEFAULT_ROLE, ROLE_HOME, getRole, type Role } from './roles';
 
+/**
+ * Where to send a visitor when this build cannot verify identity or role.
+ *
+ * FAIL CLOSED (security): `requireAuth` used to return a `{ configured: false }`
+ * props object here, i.e. it let the guarded page render its shell and only
+ * showed a "Supabase isn't configured" notice. Every page using this guard is a
+ * dashboard (/account, /vendor/*, /admin/*) whose body is meant to be
+ * restricted, so a missing or typo'd NEXT_PUBLIC_SUPABASE_* value would have
+ * rendered /admin/dashboard with no identity check at all. Redirecting makes
+ * the failure mode "no access", never "unverified access".
+ *
+ * /login is intentionally NOT behind this guard, so this cannot loop.
+ */
+const UNCONFIGURED_REDIRECT = '/login?reason=unconfigured';
+
 export interface AuthPageProps {
   configured: boolean;
   role: Role;
@@ -23,9 +38,8 @@ export function requireAuth(options: {
 }): GetServerSideProps<AuthPageProps> {
   return async (ctx): Promise<GetServerSidePropsResult<AuthPageProps>> => {
     if (!isSupabaseConfiguredServer()) {
-      return {
-        props: { configured: false, role: DEFAULT_ROLE, phone: '', email: '', memberSince: null },
-      };
+      // Cannot verify session or role -> never render a protected page.
+      return { redirect: { destination: UNCONFIGURED_REDIRECT, permanent: false } };
     }
     try {
       const supabase = createGsspSupabase(ctx);
@@ -54,10 +68,9 @@ export function requireAuth(options: {
         },
       };
     } catch {
-      // Missing env/config — render the setup notice instead of crashing.
-      return {
-        props: { configured: false, role: DEFAULT_ROLE, phone: '', email: '', memberSince: null },
-      };
+      // A missing env value or a session/RLS failure means identity is unknown.
+      // Fail closed rather than rendering the page unverified.
+      return { redirect: { destination: UNCONFIGURED_REDIRECT, permanent: false } };
     }
   };
 }

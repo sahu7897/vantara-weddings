@@ -156,3 +156,147 @@ it already.
 the git repo / Vercel, *not* Supabase Storage. That is fine at this size, but for real
 traffic move them to **Supabase Storage, MinIO, or a CDN (Cloudflare R2 has a free
 tier)** — see `docs/perf-report.md`.
+
+---
+
+<!-- BEGIN:SMTP-SMS-RUNBOOK -->
+## 3. Fixing sign-in: SMTP (email) and SMS (phone OTP)
+
+Both remaining sign-in blockers are **Supabase project settings**, not application
+bugs. Nothing here requires a code change, and none of it weakens RLS, the admin
+role check, or the middleware — sign-in decides *who you are*; RLS still decides
+*what you may read or write*.
+
+### Current live state (measured, not assumed)
+
+| Check | Result | Meaning |
+|---|---|---|
+| `external.email` | `true` | email provider is on |
+| `POST /auth/v1/otp` (email) | `429 over_email_send_rate_limit` | built-in sender quota exhausted |
+| `external.phone` | `false` | **phone sign-in disabled** |
+| `POST /auth/v1/otp` (phone) | `422 otp_disabled` | no SMS provider wired up |
+| `POST /auth/v1/admin/generate_link` | `200` | **works today**, sends no email |
+
+Diagnose it yourself at any time (reads only, no secrets printed):
+
+```bash
+# with $SUPABASE_URL and an anon key
+curl -s "$SUPABASE_URL/auth/v1/settings" -H "apikey: $ANON_KEY"
+```
+
+### 3.1 Email — add your own SMTP (fixes the 429 permanently)
+
+Supabase's built-in sender is rate limited on purpose (it is a demo sender, and its
+deliverability is poor). Use a real transactional provider.
+
+**Dashboard → Authentication → Emails → SMTP Settings → Enable custom SMTP**
+
+| Field | Value |
+|---|---|
+| Host | provider's SMTP host (e.g. `smtp.resend.com`) |
+| Port | `587` (STARTTLS) or `465` (implicit TLS) |
+| Username | provider-specific (Resend uses the literal `resend`) |
+| Password | your **SMTP API key** |
+| Sender email | a domain you have verified with the provider |
+| Sender name | `Vantara Weddings` |
+
+Then raise **Rate limits → Emails per hour** to a value your plan allows.
+
+**Security rules — do not break these**
+
+- The SMTP password is a **secret**. Put it only in the Supabase dashboard. Never in
+  `.env.local`, never in `NEXT_PUBLIC_*`, never in git, never in a commit message.
+- Verify the sending domain (SPF + DKIM) before going live. Unverified domains land
+  in spam, which looks like "login is broken" to customers.
+- Keep **public customer signup enabled** (it is: `disable_signup: false`). Restricting
+  who may *sign up* is not what protects the admin panel — the role check + RLS are.
+- Do not disable email confirmations to "make testing faster"; it lets anyone claim any
+  address. Confirmation is what makes an email address trustworthy.
+
+### 3.2 Phone OTP — MSG91 via the Supabase Send SMS Hook
+
+Phone sign-in must not be enabled until a provider is wired up, otherwise every
+attempt fails with `otp_disabled` / "Unsupported phone provider" (the login page now
+explains this instead of showing the raw error).
+
+**Step 1 — provider account (India specifics)**
+
+MSG91 is the recommended default for India because it is DLT-native. You need:
+
+1. An MSG91 account with **DLT registration** (TRAI requirement for transactional SMS).
+2. A **sender ID** approved on the DLT portal.
+3. An **OTP template** approved on the DLT portal. The message body must contain
+   `##OTP##` where the code goes.
+4. An **Auth Key** from MSG91.
+
+**Step 2 — deploy the hook** (the function already exists in this repo)
+
+```bash
+supabase login
+supabase link --project-ref <your-project-ref>
+
+# secrets live ONLY in Supabase, never in the repo
+supabase secrets set \
+  MSG91_AUTH_KEY=<auth-key> \
+  MSG91_SENDER_ID=<dlt-sender-id> \
+  MSG91_DLT_TEMPLATE_ID=<dlt-template-id>
+
+supabase functions deploy send-sms --no-verify-jwt
+```
+
+`--no-verify-jwt` is expected here: Supabase calls the hook itself and authenticates
+with the hook's own signature, which the function verifies. Do not add the service-role
+key to the function's environment.
+
+**Step 3 — register the hook**
+
+Dashboard → **Authentication → Hooks → Send SMS** → select the `send-sms` Edge
+Function and copy the **hook secret** it shows you into the function's secrets.
+
+**Step 4 — enable the provider**
+
+Dashboard → **Authentication → Providers → Phone** → enable. Then set
+**Rate limits → SMS per hour** to something sane for your budget (SMS costs money per
+message; this is also your abuse control).
+
+**Step 5 — verify**
+
+```bash
+curl -s "$SUPABASE_URL/auth/v1/settings" -H "apikey: $ANON_KEY" \
+  | grep -o '"phone":[a-z]*'          # expect "phone":true
+```
+
+Then sign in with a real Indian mobile. **Nothing about RLS or the admin role changes**
+— the phone number only proves identity; `profiles.role` still decides access.
+
+### 3.3 Order of operations (recommended)
+
+1. Add SMTP and confirm email sign-in works. ← fixes the immediate 429
+2. Promote your own account to `admin` (section 1) if it is not already.
+3. Only then enable phone OTP, so you are not debugging two providers at once.
+4. Keep `generate_link` as the break-glass path for admins:
+
+```bash
+# server-side only; sends no email, so it never hits the email quota
+curl -s -X POST "$SUPABASE_URL/auth/v1/admin/generate_link" \
+  -H "apikey: $SERVICE_ROLE_KEY" -H "Authorization: Bearer $SERVICE_ROLE_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{"type":"magiclink","email":"you@example.com"}'
+# open: https://your-site/auth/callback?token_hash=<hashed_token>&type=magiclink
+```
+
+`SERVICE_ROLE_KEY` bypasses RLS by design. Keep it server-side only and never inline
+it in a browser, a commit, or a client bundle.
+
+### 3.4 What NOT to do
+
+| Tempting shortcut | Why it is wrong |
+|---|---|
+| Put the service-role key in `NEXT_PUBLIC_*` | ships to every browser; full RLS bypass |
+| Relax an RLS policy "just to make the panel load" | the panel already works; this opens the data |
+| Disable RLS to debug a query | every market-facing table becomes public |
+| Skip email confirmation / OTP expiry | anyone can claim any identity |
+| Commit `.env.local` or an SMTP/MSG91 secret | leaks forever in git history |
+| Turn off public signup to "protect admin" | access is protected by role + RLS, not by who may register |
+
+<!-- END:SMTP-SMS-RUNBOOK -->
