@@ -6,6 +6,7 @@
  */
 import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import type { Variants } from 'framer-motion';
 import { AnimatePresence, motion } from 'framer-motion';
 import { useSiteSettings } from '@/lib/cms/siteSettings';
@@ -105,6 +106,7 @@ export default function SiteHeader({ variant = 'sticky' }: { variant?: HeaderVar
   const [moreOpen, setMoreOpen] = useState(false);
   const [drawerOpen, setDrawerOpen] = useState(false);
   const moreRef = useRef<HTMLLIElement>(null);
+  const router = useRouter();
 
   useEffect(() => {
     if (!moreOpen) return;
@@ -116,6 +118,21 @@ export default function SiteHeader({ variant = 'sticky' }: { variant?: HeaderVar
     document.addEventListener('mousedown', onDocClick);
     return () => document.removeEventListener('mousedown', onDocClick);
   }, [moreOpen]);
+
+  // Lock background scroll and close on Escape while the mobile drawer is open.
+  useEffect(() => {
+    if (!drawerOpen) return;
+    const prevOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setDrawerOpen(false);
+    };
+    document.addEventListener('keydown', onKey);
+    return () => {
+      document.body.style.overflow = prevOverflow;
+      document.removeEventListener('keydown', onKey);
+    };
+  }, [drawerOpen]);
 
   return (
     <>
@@ -226,12 +243,29 @@ export default function SiteHeader({ variant = 'sticky' }: { variant?: HeaderVar
           together with the funnel (Stage 7). */}
       <AnimatePresence>
         {drawerOpen && (
+          <motion.div
+            key="drawer-backdrop"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.25 }}
+            onClick={() => setDrawerOpen(false)}
+            className="fixed inset-0 z-[190] bg-black/50"
+            aria-hidden="true"
+          />
+        )}
+      </AnimatePresence>
+      <AnimatePresence>
+        {drawerOpen && (
           <motion.aside
+            role="dialog"
+            aria-modal="true"
+            aria-label="Site menu"
             initial={{ x: '100%' }}
             animate={{ x: 0 }}
             exit={{ x: '100%' }}
             transition={{ type: 'tween', duration: 0.3, ease: 'easeInOut' }}
-            className="fixed right-0 top-0 z-[200] flex h-full w-[90vw] flex-col bg-[linear-gradient(180deg,rgba(255,253,232,0.00)_0.05%,rgba(249,242,176,0.36)_99.95%)]"
+            className="fixed right-0 top-0 z-[200] flex h-[100dvh] w-[85vw] max-w-sm flex-col overflow-y-auto bg-white shadow-2xl"
           >
             <div className="flex justify-between px-4 py-4">
               <Link href="/">
@@ -302,6 +336,11 @@ export default function SiteHeader({ variant = 'sticky' }: { variant?: HeaderVar
                   </a>
                   <button
                     id="menu-proposal-cta"
+                    type="button"
+                    onClick={() => {
+                      setDrawerOpen(false);
+                      router.push({ pathname: '/', query: { leadform: 'true' } }, undefined, { shallow: true });
+                    }}
                     className="flex basis-1/2 items-center justify-center gap-2 rounded-full border-2 border-TWCPrimaryTheme bg-TWCPrimaryTheme py-2.5 text-white"
                   >
                     Get free Quote
