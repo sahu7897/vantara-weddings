@@ -141,11 +141,11 @@ export default function SiteHeader({ variant = 'sticky' }: { variant?: HeaderVar
           <img
             alt={`${general.shortName} logo`}
             fetchPriority="high"
-            width={1684}
-            height={686}
+            width={1187}
+            height={232}
             decoding="async"
             data-nimg="1"
-            className="h-14 w-fit self-center object-contain"
+            className="w-[170px] h-auto self-center object-contain"
             style={{ color: 'transparent' }}
             src={general.logoUrl}
           />
@@ -271,7 +271,7 @@ export default function SiteHeader({ variant = 'sticky' }: { variant?: HeaderVar
               <Link href="/">
                 <img
                   alt={`${general.shortName} logo`}
-                  className="h-14 w-fit self-center object-contain"
+                  className="w-[170px] h-auto self-center object-contain"
                   src={general.logoUrl}
                 />
               </Link>

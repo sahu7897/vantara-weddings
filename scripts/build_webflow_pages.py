@@ -79,7 +79,7 @@ def replace_logos(html: str) -> tuple[str, int]:
         count += 1
         cls = re.search(r'\sclass="([^"]*)"', tag)
         alt = re.search(r'\salt="([^"]*)"', tag)
-        parts = ['<img src="/brand/vantara-logo.png"', 'loading="lazy"']
+        parts = ['<img src="/brand/vantara-logo-transparent.svg"', 'loading="lazy"']
         if cls:
             parts.append(f'class="{cls.group(1)}"')
         parts.append(f'alt="{alt.group(1) if alt else ""}"')

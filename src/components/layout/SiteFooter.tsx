@@ -99,7 +99,7 @@ export default function SiteFooter() {
   return (
     <>
     <footer className="px-8 pb-20 pt-6 md:px-20 md:pt-10 bg-white text-black mx-auto max-w-screen-2xl" id="footer_section">
-            <section className="mb-10 flex flex-col items-center justify-center lg:mb-12"><img alt={`${general.shortName} logo`} loading="lazy" width="1684" height="686" decoding="async" data-nimg="1" className="hidden w-72 lg:block" style={{color: 'transparent'}} src={general.logoUrl} /><img alt={`${general.shortName} logo`} loading="lazy" width="1684" height="686" decoding="async" data-nimg="1" className="w-64 lg:hidden" style={{color: 'transparent'}} src={general.logoUrl} /></section>
+            <section className="mb-10 flex flex-col items-center justify-center lg:mb-12"><img alt={`${general.shortName} logo`} loading="lazy" width="1187" height="354" decoding="async" data-nimg="1" className="hidden w-[200px] lg:block" style={{color: 'transparent'}} src={general.logoUrl} /><img alt={`${general.shortName} logo`} loading="lazy" width="1187" height="354" decoding="async" data-nimg="1" className="w-[200px] lg:hidden" style={{color: 'transparent'}} src={general.logoUrl} /></section>
             <section className="mb-10 lg:mb-12">
                 <p className="mb-4 font-playfair font-semibold lg:text-[26px] text-primaryTextColor">Plan Your Dream Wedding With Us</p>
                 <p className="text-sm lg:text-base text-secondary">Vantara is your ultimate destination for end-to-end wedding planning because we make it super easy. From selecting the ideal wedding venues to knowing the latest wedding trends, we help you in every aspect of your wedding. Let

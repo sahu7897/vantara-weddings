@@ -162,7 +162,7 @@ export default function SiteSettingsPanel() {
             expected="image"
             value={general.logoUrl}
             onChange={(url) => setGeneral({ ...general, logoUrl: url })}
-            placeholder="/brand/vantara-logo.png"
+            placeholder="/brand/vantara-logo-transparent.svg"
           />
 
           <MediaPicker

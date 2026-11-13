@@ -7,7 +7,8 @@ import type { Config } from 'tailwindcss';
  * (e.g. `font-plus-jakarata-sans`) so captured markup can be reused 1:1.
  */
 const config: Config = {
-  content: ['./src/pages/**/*.{ts,tsx}', './src/components/**/*.{ts,tsx}', './src/**/*.{ts,tsx}'],
+  // `./src/**` already covers pages/ and components/ — extra globs are redundant.
+  content: ['./src/**/*.{ts,tsx}'],
   theme: {
     extend: {
       // xs from original CSS: @media (min-width:400px){ .xs\:... }

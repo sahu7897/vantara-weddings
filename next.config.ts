@@ -1,3 +1,5 @@
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import type { NextConfig } from 'next';
 
 /**
@@ -13,6 +15,9 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   images: { unoptimized: true },
   poweredByHeader: false,
+  // Pin the tracing root to this project. Without it Next walks up the tree,
+  // finds an unrelated lockfile in C:\Users\hp and warns about ambiguous roots.
+  outputFileTracingRoot: path.dirname(fileURLToPath(import.meta.url)),
   // Legacy paths verified on the live site (200 -> redirect target):
   //   /twc-refund-policy -> /refund-policy
   //   /wedding-photography -> /wedding-photographers

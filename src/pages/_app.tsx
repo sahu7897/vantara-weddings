@@ -54,6 +54,7 @@ export default function App({ Component, pageProps }: AppProps<{ siteSettings?: 
     <SiteSettingsProvider value={siteSettings}>
       <Head>
         <meta name="viewport" content="width=device-width" />
+        <link rel="icon" href="/brand/vantara-w-icon.svg" type="image/svg+xml" />
         <link rel="icon" href="/brand/favicon-32.png" sizes="32x32" />
         <link rel="icon" href="/brand/favicon-16.png" sizes="16x16" />
         <link rel="icon" href="/brand/favicon.png" sizes="48x48" />
