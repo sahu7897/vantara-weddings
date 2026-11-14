@@ -68,17 +68,20 @@ const MOBILE_SECTIONS: { title: string; items: { label: string; href?: string }[
  * HAND-EXTENSION (Stage 4): header wrapper variants observed across the
  * original site. Identical nav content; only the wrapper <div> classes differ:
  *  - sticky   — homepage + app-shell content pages (h-14, sticky top-0)
- *  - relative — directory listings (h-16, in-flow)
- *  - fixed    — services / blog / detail pages (h-16, fixed + backdrop blur)
- * Class strings verbatim from captured raw pages.
+ *  - relative — directory listings (h-14, in-flow)
+ *  - fixed    — services / blog / detail pages (h-14, fixed + backdrop blur)
+ * Class strings verbatim from captured raw pages, except the height: every
+ * variant is h-14 (the capture had h-16 for relative and fixed) so the bar is
+ * the same compact height on all pages. Pages that offset their content for
+ * the fixed bar must use the matching pt-14.
  */
 const HEADER_VARIANTS = {
   sticky:
-    'z-[100] flex h-16 translate-y-0 justify-between bg-[rgba(255,255,255,0.80)] px-4 py-2 lg:px-14 sticky top-0',
+    'z-[100] flex h-14 translate-y-0 justify-between bg-[rgba(255,255,255,0.80)] px-4 py-2 lg:px-14 sticky top-0',
   relative:
-    'z-[100] flex translate-y-0 justify-between bg-[rgba(255,255,255,0.80)] px-4 py-2 lg:px-14 relative h-16',
+    'z-[100] flex translate-y-0 justify-between bg-[rgba(255,255,255,0.80)] px-4 py-2 lg:px-14 relative h-14',
   fixed:
-    'flex translate-y-0 justify-between px-4 py-2 lg:px-14 fixed inset-x-0 top-0 z-[100] bg-[rgba(255,255,255,0.80)] backdrop-blur-[2px] transition-transform duration-500 shadow-header h-16',
+    'flex translate-y-0 justify-between px-4 py-2 lg:px-14 fixed inset-x-0 top-0 z-[100] bg-[rgba(255,255,255,0.80)] backdrop-blur-[2px] transition-transform duration-500 shadow-header h-14',
 } as const;
 
 export type HeaderVariant = keyof typeof HEADER_VARIANTS;
