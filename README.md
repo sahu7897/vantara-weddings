@@ -56,6 +56,8 @@ Migrations live in `supabase/migrations/` and are applied in order:
 | `0004` / `0005` / `0006` | Live-verification fixes: missing documents UPDATE policy, trusted-role bypass, least-privilege anon grants |
 | `0007_cms_schema.sql` | CMS: `site_settings`, `cms_pages`, `cms_sections`, `cms_menus`, `cms_media` + `site-media` bucket |
 | `0008_fix_site_settings_contacts.sql` | Corrects the placeholder contacts/socials seeded by 0007 |
+| `0009_logo_svg.sql` | Points `general.logoUrl` at the VANTARA-only SVG logo |
+| `0010_remove_demo_listings_and_logo.sql` | Re-applies the SVG logo and removes the demo vendors/venues from `seed.sql` (skips any linked to an account or with bookings) |
 
 `supabase/seed.sql` seeds cities/localities and clearly-marked **FAKE** sample vendors and venues.
 Run `docs/rls-test-checklist.md` after applying migrations — it documents the impersonation tests
