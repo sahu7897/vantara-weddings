@@ -22,10 +22,10 @@ const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID ?? '';
  *    `<div class="Toastify">` mount position (inside #__next, after main).
  *
  * Phase 6 CMS: `getInitialProps` loads the effective `site_settings` rows and
- * publishes them through <SiteSettingsProvider> so the header, footer and CTA
- * bar render admin-edited branding/contacts/socials instead of frozen
- * constants. It is fail-soft and lazily imports the Supabase client server-side,
- * so a missing key or an outage simply yields the static fallbacks.
+ *  publishes them through <SiteSettingsProvider> so the header, footer and CTA
+ *  bar render admin-edited branding/contacts/socials instead of frozen
+ *  constants. It is fail-soft and lazily imports the Supabase client server-side,
+ *  so a missing key or an outage simply yields the static fallbacks.
  */
 App.getInitialProps = async () => {
   const { loadEffectiveSiteSettings } = await import('@/lib/cms/loadSiteSettings');
@@ -54,10 +54,10 @@ export default function App({ Component, pageProps }: AppProps<{ siteSettings?: 
     <SiteSettingsProvider value={siteSettings}>
       <Head>
         <meta name="viewport" content="width=device-width" />
-        <link rel="icon" href="/brand/vantara-w-icon.svg" type="image/svg+xml" />
-        <link rel="icon" href="/brand/favicon-32.png" sizes="32x32" />
-        <link rel="icon" href="/brand/favicon-16.png" sizes="16x16" />
-        <link rel="icon" href="/brand/favicon.png" sizes="48x48" />
+        <link rel="icon" href="/brand/favicon.ico" sizes="any" />
+        <link rel="icon" href="/brand/vantara-favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href="/brand/favicon-32.png" sizes="32x32" type="image/png" />
+        <link rel="icon" href="/brand/favicon-16.png" sizes="16x16" type="image/png" />
         <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png" />
       </Head>
       {/* Font CSS variables live here (not in _document — see fonts.ts note).
