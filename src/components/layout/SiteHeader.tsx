@@ -67,21 +67,19 @@ const MOBILE_SECTIONS: { title: string; items: { label: string; href?: string }[
 /**
  * HAND-EXTENSION (Stage 4): header wrapper variants observed across the
  * original site. Identical nav content; only the wrapper <div> classes differ:
- *  - sticky   — homepage + app-shell content pages (h-14, sticky top-0)
- *  - relative — directory listings (h-14, in-flow)
- *  - fixed    — services / blog / detail pages (h-14, fixed + backdrop blur)
- * Class strings verbatim from captured raw pages, except the height: every
- * variant is h-14 (the capture had h-16 for relative and fixed) so the bar is
- * the same compact height on all pages. Pages that offset their content for
- * the fixed bar must use the matching pt-14.
+ *  - sticky   — homepage + app-shell content pages (h-28, sticky top-0)
+ *  - relative — directory listings (h-28, in-flow)
+ *  - fixed    — services / blog / detail pages (h-28, fixed + backdrop blur)
+ * The logo is centered in the shared header bar; pages that offset their
+ * content for the fixed bar must use the matching pt-28.
  */
 const HEADER_VARIANTS = {
   sticky:
-    'z-[100] flex h-14 translate-y-0 justify-between bg-[rgba(255,255,255,0.80)] px-4 py-2 lg:px-14 sticky top-0',
+    'z-[100] flex h-28 translate-y-0 items-center justify-between bg-[rgba(255,253,232,0.80)] px-4 py-2 lg:px-14 sticky top-0',
   relative:
-    'z-[100] flex translate-y-0 justify-between bg-[rgba(255,255,255,0.80)] px-4 py-2 lg:px-14 relative h-14',
+    'z-[100] flex translate-y-0 items-center justify-between bg-[rgba(255,253,232,0.80)] px-4 py-2 lg:px-14 relative h-28',
   fixed:
-    'flex translate-y-0 justify-between px-4 py-2 lg:px-14 fixed inset-x-0 top-0 z-[100] bg-[rgba(255,255,255,0.80)] backdrop-blur-[2px] transition-transform duration-500 shadow-header h-14',
+    'flex translate-y-0 items-center justify-between px-4 py-2 lg:px-14 fixed inset-x-0 top-0 z-[100] bg-[rgba(255,253,232,0.80)] backdrop-blur-[2px] transition-transform duration-500 shadow-header h-28',
 } as const;
 
 export type HeaderVariant = keyof typeof HEADER_VARIANTS;
@@ -140,22 +138,25 @@ export default function SiteHeader({ variant = 'sticky' }: { variant?: HeaderVar
   return (
     <>
       <div className={HEADER_VARIANTS[variant]}>
-        <Link href="/">
+        <Link
+          href="/"
+          className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 lg:static lg:translate-x-0 lg:translate-y-0"
+        >
           <img
             alt={`${general.shortName} logo`}
             fetchPriority="high"
-            width={1187}
-            height={232}
+            width={1672}
+            height={941}
             decoding="async"
             data-nimg="1"
-            className="w-[170px] h-auto self-center object-contain"
+            className="block w-[180px] h-auto object-contain"
             style={{ color: 'transparent' }}
             src={general.logoUrl}
           />
         </Link>
         {/* HAND-EXTENSION: hamburger opens the mobile drawer (original
             HomePageMobileNavbar — right slide-in panel, chunk 7168). */}
-        <button className="lg:hidden" aria-label="Open menu" onClick={() => setDrawerOpen(true)}>
+        <button className="ml-auto lg:hidden" aria-label="Open menu" onClick={() => setDrawerOpen(true)}>
           <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <rect x="1" y="4" width="22" height="2" rx="1" fill="#333"></rect>
             <rect x="1" y="11" width="22" height="2" rx="1" fill="#333"></rect>
