@@ -158,7 +158,11 @@ export default function SiteHeader({ variant = 'sticky' }: { variant?: HeaderVar
         </Link>
         {/* HAND-EXTENSION: hamburger opens the mobile drawer (original
             HomePageMobileNavbar — right slide-in panel, chunk 7168). */}
-        <button className="ml-auto lg:hidden" aria-label="Open menu" onClick={() => setDrawerOpen(true)}>
+        <button
+          className="absolute right-4 top-1/2 -translate-y-1/2 lg:hidden"
+          aria-label="Open menu"
+          onClick={() => setDrawerOpen(true)}
+        >
           <svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <rect x="1" y="4" width="22" height="2" rx="1" fill="#333"></rect>
             <rect x="1" y="11" width="22" height="2" rx="1" fill="#333"></rect>
