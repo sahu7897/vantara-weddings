@@ -140,6 +140,13 @@ export default function SiteHeader({ variant = 'sticky' }: { variant?: HeaderVar
   return (
     <>
       <div className={HEADER_VARIANTS[variant]}>
+        <img
+          src="/brand/vantara-monogram.svg"
+          alt="Vantara Weddings emblem"
+          width={32}
+          height={36}
+          className="absolute left-4 top-1/2 h-9 w-8 -translate-y-1/2 object-contain lg:left-14"
+        />
         <Link
           href="/"
           className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2"
