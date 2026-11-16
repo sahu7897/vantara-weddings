@@ -6,6 +6,7 @@
 import type { GetServerSideProps, GetServerSidePropsResult } from 'next';
 import { createGsspSupabase, isSupabaseConfiguredServer } from '@/lib/supabase/server';
 import { DEFAULT_ROLE, ROLE_HOME, getRole, type Role } from './roles';
+import { verifyAdminTicket } from './admin-ticket';
 
 /**
  * Where to send a visitor when this build cannot verify identity or role.
@@ -20,7 +21,10 @@ import { DEFAULT_ROLE, ROLE_HOME, getRole, type Role } from './roles';
  *
  * /login is intentionally NOT behind this guard, so this cannot loop.
  */
-const UNCONFIGURED_REDIRECT = '/login?reason=unconfigured';
+function signInDestination(options: { path: string; roles?: Role[] }): string {
+  const destination = options.roles?.includes('admin') ? '/admin/login' : '/login';
+  return `${destination}?reason=unconfigured&next=${encodeURIComponent(options.path)}`;
+}
 
 export interface AuthPageProps {
   configured: boolean;
@@ -37,9 +41,10 @@ export function requireAuth(options: {
   roles?: Role[];
 }): GetServerSideProps<AuthPageProps> {
   return async (ctx): Promise<GetServerSidePropsResult<AuthPageProps>> => {
+    const unconfiguredDestination = signInDestination(options);
     if (!isSupabaseConfiguredServer()) {
       // Cannot verify session or role -> never render a protected page.
-      return { redirect: { destination: UNCONFIGURED_REDIRECT, permanent: false } };
+      return { redirect: { destination: unconfiguredDestination, permanent: false } };
     }
     try {
       const supabase = createGsspSupabase(ctx);
@@ -49,12 +54,18 @@ export function requireAuth(options: {
       if (!user) {
         return {
           redirect: {
-            destination: `/login?next=${encodeURIComponent(options.path)}`,
+            destination: `${options.roles?.includes('admin') ? '/admin/login' : '/login'}?next=${encodeURIComponent(options.path)}`,
             permanent: false,
           },
         };
       }
       const role = (await getRole(supabase, user.id)) ?? DEFAULT_ROLE;
+      if (options.roles?.includes('admin')) {
+        const ticket = verifyAdminTicket(ctx.req.cookies.vantara_admin_entry);
+        if (!ticket || ticket.sub !== user.id) {
+          return { redirect: { destination: `/admin/login?reason=reauth&next=${encodeURIComponent(options.path)}`, permanent: false } };
+        }
+      }
       if (options.roles && !options.roles.includes(role)) {
         return { redirect: { destination: ROLE_HOME[role], permanent: false } };
       }
@@ -70,7 +81,7 @@ export function requireAuth(options: {
     } catch {
       // A missing env value or a session/RLS failure means identity is unknown.
       // Fail closed rather than rendering the page unverified.
-      return { redirect: { destination: UNCONFIGURED_REDIRECT, permanent: false } };
+      return { redirect: { destination: unconfiguredDestination, permanent: false } };
     }
   };
 }
