@@ -26,7 +26,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   if (!url || !serviceKey || !anonKey) return res.status(503).json({ error: 'Admin authentication is not configured.' });
   const username = typeof req.body?.username === 'string' ? req.body.username.trim().toLowerCase() : '';
   const password = typeof req.body?.password === 'string' ? req.body.password : '';
-  if (!/^[a-z0-9-]{8,48}$/.test(username) || password.length < 16 || password.length > 256) return res.status(401).json({ error: 'Invalid username or password.' });
+  const validInput = /^[a-z0-9-]{8,48}$/.test(username) && password.length >= 16 && password.length <= 256;
 
   const adminDb = createClient(url, serviceKey, { auth: { autoRefreshToken: false, persistSession: false } });
   const address = String(req.headers['x-forwarded-for'] ?? req.socket.remoteAddress ?? 'unknown').split(',')[0].trim();
@@ -45,9 +45,9 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   const storedSaltIsValid = typeof credential?.password_salt === 'string' && /^[0-9a-f]{32}$/i.test(credential.password_salt);
   const salt = storedSaltIsValid ? credential.password_salt : '00'.repeat(16);
   const expectedHash = storedHashIsValid ? credential.password_hash : '0'.repeat(128);
-  const actualHash = scryptSync(password, salt, 64, { N: 32768, r: 8, p: 1, maxmem: 64 * 1024 * 1024 }).toString('hex');
+  const actualHash = scryptSync(validInput ? password : 'invalid-admin-password-input', salt, 64, { N: 32768, r: 8, p: 1, maxmem: 64 * 1024 * 1024 }).toString('hex');
   const hashesMatch = timingSafeEqual(Buffer.from(actualHash, 'hex'), Buffer.from(expectedHash, 'hex'));
-  const valid = Boolean(credential && credential.is_active && storedHashIsValid && storedSaltIsValid && credential.username === username && hashesMatch);
+  const valid = Boolean(validInput && credential && credential.is_active && storedHashIsValid && storedSaltIsValid && credential.username === username && hashesMatch);
   if (!valid) {
     const throttle = await adminDb.rpc('admin_login_record_failure', { p_source_hash: sourceHash });
     if (throttle.error) return res.status(503).json({ error: 'Secure login throttling is unavailable.' });
