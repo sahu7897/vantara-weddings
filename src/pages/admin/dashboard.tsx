@@ -13,8 +13,8 @@ import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import type { InferGetServerSidePropsType } from 'next';
 import { site } from '@/config/site';
-import SiteFooter from '@/components/layout/SiteFooter';
-import SiteHeader from '@/components/layout/SiteHeader';
+import AdminShell, { type AdminNavItem } from '@/components/admin/AdminShell';
+import AdminOverview from '@/components/admin/AdminOverview';
 import BookingsPanel from '@/components/admin/BookingsPanel';
 import LeadsPanel from '@/components/admin/LeadsPanel';
 import VendorPanel from '@/components/admin/VendorPanel';
@@ -24,136 +24,49 @@ import FaqSectionPanel from '@/components/admin/cms/FaqSectionPanel';
 import PagesManagerPanel from '@/components/admin/cms/PagesManagerPanel';
 import MediaLibraryPanel from '@/components/admin/cms/MediaLibraryPanel';
 import { requireAuth } from '@/lib/auth/gssp';
-import { getSupabaseBrowserClient, isSupabaseConfigured } from '@/lib/supabase/client';
 
-export const getServerSideProps = requireAuth({
-  path: '/admin/dashboard',
-  roles: ['admin'],
-});
-
-type Tab =
-  | 'leads'
-  | 'vendors'
-  | 'bookings'
-  | 'site_settings'
-  | 'hero_section'
-  | 'faqs_section'
-  | 'pages_manager'
-  | 'media_library';
-
-const TABS: { id: Tab; label: string; group?: 'crm' | 'cms' }[] = [
-  { id: 'leads', label: 'Leads' },
-  { id: 'vendors', label: 'Vendors' },
-  { id: 'bookings', label: 'Bookings' },
-  { id: 'site_settings', label: '⚙️ Site Settings' },
-  { id: 'hero_section', label: '🎬 Hero Videos' },
-  { id: 'faqs_section', label: '❓ FAQs' },
-  { id: 'pages_manager', label: '📄 Pages' },
-  { id: 'media_library', label: '🖼️ Media' },
+export const getServerSideProps = requireAuth({ path: '/admin/dashboard', roles: ['admin'] });
+type Tab = 'overview' | 'leads' | 'vendors' | 'bookings' | 'site_settings' | 'hero_section' | 'faqs_section' | 'pages_manager' | 'media_library';
+const TABS: AdminNavItem[] = [
+  { id: 'overview', label: 'Overview', group: 'Workspace', mark: 'OV' },
+  { id: 'leads', label: 'Enquiries', group: 'Workspace', mark: 'LE' },
+  { id: 'vendors', label: 'Vendor partners', group: 'Workspace', mark: 'VP' },
+  { id: 'bookings', label: 'Bookings', group: 'Workspace', mark: 'BK' },
+  { id: 'site_settings', label: 'Site settings', group: 'Website', mark: 'ST' },
+  { id: 'hero_section', label: 'Hero videos', group: 'Website', mark: 'HV' },
+  { id: 'faqs_section', label: 'FAQs', group: 'Website', mark: 'FAQ' },
+  { id: 'pages_manager', label: 'Pages', group: 'Website', mark: 'PG' },
+  { id: 'media_library', label: 'Media library', group: 'Website', mark: 'ML' },
 ];
 
-export default function AdminDashboardPage({
-  configured,
-  email,
-  phone,
-}: InferGetServerSidePropsType<typeof getServerSideProps>) {
+export default function AdminDashboardPage({ configured }: InferGetServerSidePropsType<typeof getServerSideProps>) {
   const router = useRouter();
-  const [tab, setTab] = useState<Tab>('leads');
-
-  /**
-   * The active tab lives in `?tab=` so a panel can be linked, bookmarked and
-   * survives a refresh (previously every reload dropped you back on Leads).
-   * `shallow: true` keeps this client-side — the page's GSSP does not need to
-   * re-run just because you switched panels.
-   */
-  const selectTab = (next: Tab) => {
-    setTab(next);
-    void router.replace(
-      { pathname: router.pathname, query: next === 'leads' ? {} : { tab: next } },
-      undefined,
-      { shallow: true },
-    );
+  const [tab, setTab] = useState<Tab>('overview');
+  const selectTab = (next: string) => {
+    if (!TABS.some((item) => item.id === next)) return;
+    setTab(next as Tab);
+    void router.replace({ pathname: router.pathname, query: next === 'overview' ? {} : { tab: next } }, undefined, { shallow: true });
   };
-
   useEffect(() => {
     if (!router.isReady) return;
     const requested = typeof router.query.tab === 'string' ? router.query.tab : '';
-    const match = TABS.find((item) => item.id === requested);
-    if (match) setTab(match.id);
+    if (TABS.some((item) => item.id === requested)) setTab(requested as Tab);
   }, [router.isReady, router.query.tab]);
 
-  const handleSignOut = async () => {
-    if (!isSupabaseConfigured()) return;
-    const supabase = getSupabaseBrowserClient();
-    await supabase.auth.signOut();
-    window.location.assign('/login');
-  };
-
-  return (
-    <>
-      <Head>
-        <title>{`Admin dashboard | ${site.name}`}</title>
-      </Head>
-      <SiteHeader variant="sticky" />
-
-      <section className="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
-        <div className="flex flex-wrap items-baseline justify-between gap-3">
-          <h1 className="text-3xl font-extrabold tracking-tight text-gray-900">Admin dashboard</h1>
-          <p className="text-sm text-gray-500">
-            Signed in as <span className="font-semibold text-gray-700">{email || phone}</span>
-          </p>
-        </div>
-
-        {!configured ? (
-          <div className="mt-6 rounded-xl border border-amber-300 bg-amber-50 p-4 text-sm text-amber-800">
-            Supabase isn&apos;t configured in this build — add the keys from{' '}
-            <code className="font-mono">.env.example</code> to <code className="font-mono">.env.local</code> and
-            rebuild.
-          </div>
-        ) : (
-          <>
-            {/* tab bar */}
-            <nav className="mt-6 flex gap-2 border-b border-gray-100 pb-px" aria-label="Admin sections">
-              {TABS.map((item) => (
-                <button
-                  key={item.id}
-                  type="button"
-                  onClick={() => selectTab(item.id)}
-                  aria-current={tab === item.id ? 'page' : undefined}
-                  className={`rounded-t-xl px-5 py-2.5 text-sm font-bold transition ${
-                    tab === item.id
-                      ? 'bg-[#7B0242] text-white'
-                      : 'text-gray-500 hover:bg-pink-50 hover:text-[#7B0242]'
-                  }`}
-                >
-                  {item.label}
-                </button>
-              ))}
-            </nav>
-
-            <div className="mt-6">
-              {tab === 'leads' && <LeadsPanel />}
-              {tab === 'vendors' && <VendorPanel />}
-              {tab === 'bookings' && <BookingsPanel />}
-              {tab === 'site_settings' && <SiteSettingsPanel />}
-              {tab === 'hero_section' && <HeroSectionPanel />}
-              {tab === 'faqs_section' && <FaqSectionPanel />}
-              {tab === 'pages_manager' && <PagesManagerPanel />}
-              {tab === 'media_library' && <MediaLibraryPanel />}
-            </div>
-
-            <button
-              type="button"
-              onClick={() => void handleSignOut()}
-              className="mt-10 rounded-xl border border-gray-300 px-5 py-2.5 text-sm font-semibold text-gray-600 transition hover:bg-gray-50"
-            >
-              Sign out
-            </button>
-          </>
-        )}
-      </section>
-
-      <SiteFooter />
-    </>
-  );
+  return <>
+    <Head><title>Admin workspace | {site.name}</title><meta name="robots" content="noindex,nofollow" /></Head>
+    <AdminShell items={TABS} active={tab} onSelect={selectTab}>
+      {!configured ? <div className="rounded-2xl border border-amber-200 bg-amber-50 p-5 text-sm text-amber-900">Supabase is not configured for this environment. Dashboard data remains protected until server configuration is available.</div> : <>
+        {tab === 'overview' && <AdminOverview onNavigate={selectTab} />}
+        {tab === 'leads' && <LeadsPanel />}
+        {tab === 'vendors' && <VendorPanel />}
+        {tab === 'bookings' && <BookingsPanel />}
+        {tab === 'site_settings' && <SiteSettingsPanel />}
+        {tab === 'hero_section' && <HeroSectionPanel />}
+        {tab === 'faqs_section' && <FaqSectionPanel />}
+        {tab === 'pages_manager' && <PagesManagerPanel />}
+        {tab === 'media_library' && <MediaLibraryPanel />}
+      </>}
+    </AdminShell>
+  </>;
 }
